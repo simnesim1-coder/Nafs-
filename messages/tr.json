@@ -1330,5 +1330,15 @@
   "Appearance and language": "Görünüm ve dil",
   "Personalization": "Kişiselleştirme",
   "Notifications": "Bildirimler",
-  "Overdue": "Gecikmiş"
+  "Overdue": "Gecikmiş",
+  "motivation.category.sincerity": "İhlas",
+  "motivation.category.prayer": "Namaz",
+  "motivation.category.repentance": "Tevbe",
+  "motivation.category.gratitude": "Şükür",
+  "motivation.category.patience": "Sabır",
+  "motivation.category.speech": "Dil ve söz",
+  "motivation.category.family": "Aile",
+  "motivation.category.remembrance": "Zikir",
+  "motivation.category.time": "Zaman",
+  "motivation.category.character": "Ahlak"
 }

@@ -15,4 +15,19 @@ export const approvedRussianStory=`Всё началось с меня. С же�
 Если однажды NAFS поможет тебе не сдаться, сделать правильный выбор и стать хоть немного лучше — значит, всё это было не зря.
 
 Создано с искренним намерением. От сердца — к сердцу.`;
-export function AboutNafs({t}:{t:(key:string)=>string}){return <div className="about-story"><div className="about-emblem"><Leaf size={37}/></div><div className="about-brand">nafs<span>.</span></div><h2>{t('About NAFS')}</h2>{t('about.story').split('\n\n').map((paragraph,i)=><p key={i}>{paragraph}</p>)}<div className="about-heart"><Heart size={19}/></div><DeveloperContact t={t}/><footer className="attribution">Developed by Werllap</footer></div>}
+export function AboutNafs({t}:{t:(key:string)=>string}){
+  return <div className="about-story">
+    <div className="about-emblem"><Leaf size={37}/></div>
+    <div className="about-brand">nafs<span>.</span></div>
+    <div className="about-intro-card">
+      <span className="tool-tag">{t('About NAFS')}</span>
+      <h2>{t('A little better, every day')}</h2>
+      <p>{t('A private space for intention, habits, recovery and steady growth — with a warmer atmosphere and room to breathe.')}</p>
+    </div>
+    <h2>{t('About NAFS')}</h2>
+    {t('about.story').split('\n\n').map((paragraph,i)=><p key={i}>{paragraph}</p>)}
+    <div className="about-heart"><Heart size={19}/></div>
+    <DeveloperContact t={t}/>
+    <footer className="attribution">Developed by Werllap</footer>
+  </div>
+}

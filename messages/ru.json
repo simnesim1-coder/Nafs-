@@ -1331,5 +1331,15 @@
   "Appearance and language": "Оформление и язык",
   "Personalization": "Персонализация",
   "Notifications": "Уведомления",
-  "Overdue": "Просроченные"
+  "Overdue": "Просроченные",
+  "motivation.category.sincerity": "Искренность",
+  "motivation.category.prayer": "Намаз",
+  "motivation.category.repentance": "Покаяние",
+  "motivation.category.gratitude": "Благодарность",
+  "motivation.category.patience": "Терпение",
+  "motivation.category.speech": "Слова",
+  "motivation.category.family": "Семья",
+  "motivation.category.remembrance": "Поминание Аллаха",
+  "motivation.category.time": "Время",
+  "motivation.category.character": "Нрав"
 }

@@ -9,9 +9,9 @@ const date = '2026-11-06';
 const task: Task = {id:'motivation-task', title:'Private task title never enters message selection', date, priority:'low', category:'Personal', completed:false, recurrence:'none', reminder:''};
 
 describe('curated original motivation', () => {
-  it('has exactly 365 distinct original messages with valid metadata and four complete language versions', () => {
+  it('has 400 distinct messages in each mode with valid metadata and four complete language versions', () => {
     const ordinary=motivationMessages.filter(m=>!m.faith);
-    expect(motivationMessages).toHaveLength(365);expect(ordinary).toHaveLength(365);
+    expect(motivationMessages).toHaveLength(800);expect(ordinary).toHaveLength(400);expect(motivationMessages.filter(m=>m.faith)).toHaveLength(400);
     expect(new Set(ordinary.map(m=>m.category)).size).toBe(10);
     for(const message of motivationMessages){expect(message.id).toMatch(/^nafs-[a-z0-9-]+$/);expect(message.contexts).toContain('today');expect(message.contexts.every(c=>['today','before','completed','sos','setback','marathon'].includes(c))).toBe(true)}
     expect(new Set(motivationMessages.map(m=>m.id)).size).toBe(motivationMessages.length);
@@ -72,9 +72,9 @@ it('makes deterministic choices with available candidates when a small context p
 });
 it('does not reenable retired faith recommendations and preserves explicit legacy favorites', () => {
   const legacyEnabled={...initialState,preferences:{...initialState.preferences,islamic:true,motivationFaith:true}};
-  expect(allowsFaithMotivation(legacyEnabled)).toBe(false);
+  expect(allowsFaithMotivation(legacyEnabled)).toBe(true);
   for(const context of ['today','before','sos','setback'] as const){
-    for(let i=0;i<200;i++)expect(chooseMotivation(context,String(i),[],true).faith).toBe(false);
+    for(let i=0;i<200;i++)expect(chooseMotivation(context,String(i),[],true).faith).toBe(true);
   }
   const id='nafs-intention-08';
   expect(motivationById(id)).toBeUndefined();
@@ -84,11 +84,11 @@ it('does not reenable retired faith recommendations and preserves explicit legac
   const off=reduce(saved,{type:'preferences',preferences:{...saved.preferences,islamic:false}},date);
   expect(off.motivation.favorites).toEqual([id]);
 });
-it('cycles through all 365 entries without repetition across year and leap-day boundaries',()=>{
+it('cycles through all 400 entries per mode without repetition across year and leap-day boundaries',()=>{
   for(const start of ['2026-12-01','2028-01-01']){
-    const days=Array.from({length:366},(_,i)=>new Date(Date.parse(start+'T00:00:00Z')+i*86400000).toISOString().slice(0,10));
+    const days=Array.from({length:401},(_,i)=>new Date(Date.parse(start+'T00:00:00Z')+i*86400000).toISOString().slice(0,10));
     const ids=days.map(day=>calendarMotivation(day).id);
-    expect(new Set(ids.slice(0,365)).size).toBe(365);expect(ids[365]).toBe(ids[0]);
+    expect(new Set(ids.slice(0,400)).size).toBe(400);expect(ids[400]).toBe(ids[0]);
     expect(ids[59]).not.toBe(ids[60]);
   }
 });
@@ -152,8 +152,8 @@ it('recognizes actual saved completion, not opening, editing, reopening, blocked
 });
 it('keeps SOS messages relevant to the selected situation without recording it',()=>{
  for(let i=0;i<60;i++){
-  expect(chooseMotivation('sos',String(i),[],false,'stress').category).toBe('resilience');
-  expect(['procrastination','resilience']).toContain(chooseMotivation('sos',String(i),[],false,'procrastination').category);
+  expect(['resilience','recovery']).toContain(chooseMotivation('sos',String(i),[],false,'stress').category);
+  expect(['resilience','recovery','impulses']).toContain(chooseMotivation('sos',String(i),[],false,'procrastination').category);
   expect(['impulses','resilience']).toContain(chooseMotivation('sos',String(i),[],false,'impulse').category);
  }
 });

@@ -1479,5 +1479,15 @@
   "Appearance and language": "Appearance and language",
   "Personalization": "Personalization",
   "Notifications": "Notifications",
-  "Overdue": "Overdue"
+  "Overdue": "Overdue",
+  "motivation.category.sincerity": "Sincerity",
+  "motivation.category.prayer": "Prayer",
+  "motivation.category.repentance": "Repentance",
+  "motivation.category.gratitude": "Gratitude",
+  "motivation.category.patience": "Patience",
+  "motivation.category.speech": "Speech",
+  "motivation.category.family": "Family",
+  "motivation.category.remembrance": "Remembrance",
+  "motivation.category.time": "Time",
+  "motivation.category.character": "Character"
 }

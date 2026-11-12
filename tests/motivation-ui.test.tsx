@@ -60,11 +60,11 @@ it('does not persist an SOS topic or viewed message when browsing calm support',
  await click(container.querySelector('[role=dialog] [aria-label="Save message"]'));
  expect(data().motivation.favorites).toHaveLength(1);expect(data().sosReflections).toEqual([]);expect(data()).not.toHaveProperty('issue');
 });
-it('keeps religious encouragement out of automatic settings while preserving bookmarks',async()=>{
+it('switches to Islamic reminders while preserving bookmarks',async()=>{
  const first=current();await click(container.querySelector('.today-hub [aria-label="Save message"]'));
  await click(container.querySelector('[aria-label="Profile and settings"]'));
  await click(container.querySelector('[role=switch][aria-label="Islamic mode"]'));
- expect(container.querySelector('[aria-label="Motivation about sincerity and sabr"]')).toBeNull();
+ expect(current()).toMatch(/^nafs-nasihah-/);
  expect(data().motivation.favorites).toEqual([first]);
  expect(data().preferences.sensitiveContent).toBe(false);
 });

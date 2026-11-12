@@ -1330,5 +1330,15 @@
   "Appearance and language": "المظهر واللغة",
   "Personalization": "التخصيص",
   "Notifications": "الإشعارات",
-  "Overdue": "متأخرة"
+  "Overdue": "متأخرة",
+  "motivation.category.sincerity": "الإخلاص",
+  "motivation.category.prayer": "الصلاة",
+  "motivation.category.repentance": "التوبة",
+  "motivation.category.gratitude": "الشكر",
+  "motivation.category.patience": "الصبر",
+  "motivation.category.speech": "اللسان",
+  "motivation.category.family": "الأسرة",
+  "motivation.category.remembrance": "الذكر",
+  "motivation.category.time": "الوقت",
+  "motivation.category.character": "الأخلاق"
 }

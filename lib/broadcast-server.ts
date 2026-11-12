@@ -1,7 +1,8 @@
 import 'server-only';
-import {admin,requireUser} from './server';
-import {adminAllowed,deliveryOutcome,type DeliveryOutcome} from './broadcast';
-export async function requireBroadcastAdmin(){const identity=await requireUser();if(!adminAllowed(identity.user.id))throw Error('Administrator access required.');return identity}
+import {admin} from './server';
+import {requireOwner} from './owner-admin';
+import {deliveryOutcome,type DeliveryOutcome} from './broadcast';
+export async function requireBroadcastAdmin(){return requireOwner()}
 export async function processBroadcast(campaignId:string){
  if(!process.env.TELEGRAM_BOT_TOKEN)throw Error('Telegram bot is not configured.');
  const db=admin();let processed=0;

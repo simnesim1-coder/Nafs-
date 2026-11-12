@@ -4,7 +4,8 @@ import {reduce,localDay,shiftDate} from '@/lib/domain';
 import {actionSchema} from '@/lib/validation';
 import {createProgramSnapshot} from '@/lib/program-version';
 import {challenges} from '@/lib/challenges';
-export async function GET(){if(!configured())return NextResponse.json({user:null,configured:false});try{const {user,provider}=await requireUser();return NextResponse.json({user:user.email,userId:user.id,provider,...await snapshot(user.id)},{headers:{'Cache-Control':'no-store'}})}catch(e){return fail(e)}}
+import {isTelegramOwner} from '@/lib/owner-admin';
+export async function GET(){if(!configured())return NextResponse.json({user:null,configured:false});try{const {user,provider}=await requireUser();return NextResponse.json({user:user.email,userId:user.id,provider,isOwner:await isTelegramOwner(user.id,provider),...await snapshot(user.id)},{headers:{'Cache-Control':'no-store'}})}catch(e){return fail(e)}}
 export async function POST(req:Request){try{
  const {user}=await requireUser();await guard(req,user.id,'data',120);
  const date=localDay(req.headers.get('x-nafs-timezone')||'UTC');const a=actionSchema.parse(await req.json()),old=await snapshot(user.id);
