@@ -1,0 +1,11 @@
+# Program versions and intensity
+
+The original catalog contains 20 programs and 420 distinct activity strings. `activityDetails` now builds an objective, concrete action, matching completion condition, category-specific explanation, optional reflection and safe time guide. General practice progresses 10/20/25 minutes across the three weeks in balanced mode; gentle is 5/10/15 and intense 15/25/30. Reading, learning, focus and productivity include practical application after the main step. Review days remain short. Fitness caps time and retains rest days; emotional-regulation and Islamic preparation use shorter guides. Prayer planning explicitly does not replace the five obligatory prayers. No scripture is reproduced.
+
+`createProgramSnapshot(plan,language,intensity)` freezes all 21 localized activities at enrollment. Store it on `Enrollment.programSnapshot`, alongside `intensity` (default `balanced`). `preserveLegacyProgram` freezes the current legacy assignment strings without adding new work or changing earned progress. Use it only when upgrading an existing attempt with no snapshot. Custom plan edits should affect future attempts; existing snapshots remain unchanged.
+
+Render `activityForAttempt(snapshot,day,intensity)`. It changes the safe time suggestion, not the frozen task. Store difficulty changes independently of the snapshot and completion records. The snapshot remembers the language selected at enrollment: changing the app UI language does not silently translate/rewrite a historical assignment; display its language or offer explicit new-attempt creation. A multilingual snapshot can be added later if desired.
+
+These helpers do not implement persistence by themselves. Integrate snapshot fields into the existing validated enrollment model and trusted reducer before claiming frozen attempts work end-to-end. Unknown or missing historical templates must retain their previous stored progress and show an unavailable-content explanation rather than inventing replacement tasks.
+
+All duration numbers are optional planning guides, not clinical advice or worship requirements. Four-language explanatory copy is included; independent native-speaker review remains a release check.

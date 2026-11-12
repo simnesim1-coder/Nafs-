@@ -1,0 +1,4 @@
+export const accents=['#8b7bff','#4da8ff','#36cfe0','#34d8ab','#e47dff','#ffbd59','#ff8b76','#ed83ad'];
+export function categoryColor(category:string,color?:string){if(color&&/^#[0-9a-f]{6}$/i.test(color))return color;const map:Record<string,string>={Reading:accents[0],Fitness:accents[6],Focus:accents[1],Learning:accents[5],'Digital wellbeing':accents[2],Sleep:accents[4],Productivity:accents[1],Kindness:accents[7],'Self-control':accents[5],Personal:accents[0]};if(map[category])return map[category];return accents[Array.from(category).reduce((n,c)=>n+c.charCodeAt(0),0)%accents.length]}
+export function gentleHaptic(){if(typeof navigator!=='undefined'&&'vibrate'in navigator&&!window.matchMedia('(prefers-reduced-motion: reduce)').matches)navigator.vibrate(8)}
+export const iconLabels:Record<string,string>={Target:'Goal',BookOpen:'Reading',Activity:'Movement',Focus:'Focus',Heart:'Kindness',Moon:'Sleep',GraduationCap:'Learning',HandHeart:'Kindness',Leaf:'Habit'};

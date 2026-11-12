@@ -1,0 +1,8 @@
+import {it,expect} from 'vitest';
+import {readFileSync} from 'node:fs';
+import {challenges} from '../lib/challenges';
+import {scriptsForIssue,sosIssues} from '../lib/sos';
+import {approvedRussianStory} from '../components/tools/about';
+it('has 12 lifestyle and 8 optional Islamic programs with 21 distinct localized activities',()=>{expect(challenges.filter(c=>!c.islamic)).toHaveLength(12);expect(challenges.filter(c=>c.islamic)).toHaveLength(8);for(const locale of ['en','ru','tr','ar']){const dict=JSON.parse(readFileSync(`messages/${locale}.json`,'utf8'));for(const c of challenges.filter(c=>c.islamic)){expect(c.days).toHaveLength(21);expect(new Set(c.days).size).toBe(21);for(const key of [c.title,c.description,...c.days])expect(dict[key],locale+': '+key).toBeTruthy()}}});
+it('keeps the approved Russian story verbatim, quotes out of SOS, and no invented prayer times',()=>{const ru=JSON.parse(readFileSync('messages/ru.json','utf8'));expect(ru['about.story']).toBe(approvedRussianStory);const sos=readFileSync('components/tools/sos-toolkit.tsx','utf8');expect(sos).not.toContain('publishedIslamic');expect(sos).not.toContain('arabicOriginal');const salah=challenges.find(c=>c.id==='salah')!;expect(salah.description).toContain('five obligatory prayers');expect(salah.days.join(' ')).not.toMatch(/\d{2}:\d{2}/)});
+it('localizes original scenario-specific motivational scripts in all four languages',()=>{for(const locale of ['en','ru','tr','ar']){const dict=JSON.parse(readFileSync(`messages/${locale}.json`,'utf8'));for(const issue of sosIssues){expect(dict[issue],locale+': '+issue).toBeTruthy();for(const text of scriptsForIssue(issue))expect(dict[text],locale+': '+text).toBeTruthy()}}});

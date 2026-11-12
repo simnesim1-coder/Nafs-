@@ -1,0 +1,185 @@
+[
+  {
+    "id": "nafs-consistency-07",
+    "category": "consistency",
+    "contexts": [
+      "completed"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Это действие завершено. Заметь вложенное внимание, прежде чем переходить к следующему.",
+      "en": "This action is complete. Notice the attention you gave it before moving on.",
+      "tr": "Bu adım tamamlandı. Sonrakine geçmeden önce verdiğin dikkati fark et.",
+      "ar": "اكتمل هذا الفعل. لاحظ الانتباه الذي منحته له قبل الانتقال إلى التالي."
+    }
+  },
+  {
+    "id": "nafs-consistency-08",
+    "category": "consistency",
+    "contexts": [
+      "completed"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ты перевёл намерение в действие. Дай себе секунду признать этот конкретный результат.",
+      "en": "You turned an intention into action. Take a second to acknowledge this specific result.",
+      "tr": "Niyetini eyleme dönüştürdün. Bu somut sonucu kabul etmek için bir saniye ayır.",
+      "ar": "حولت نية إلى فعل. امنح نفسك لحظة للاعتراف بهذه النتيجة المحددة."
+    }
+  },
+  {
+    "id": "nafs-consistency-09",
+    "category": "consistency",
+    "contexts": [
+      "completed"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Готово. Теперь можно спокойно выбрать следующий шаг или сделать заслуженную паузу.",
+      "en": "Done. You can calmly choose the next step or take a welcome pause.",
+      "tr": "Tamamlandı. Şimdi sakince sıradaki adımı seçebilir ya da bir mola verebilirsin.",
+      "ar": "تم الأمر. يمكنك الآن اختيار الخطوة التالية بهدوء أو أخذ استراحة."
+    }
+  },
+  {
+    "id": "nafs-consistency-10",
+    "category": "consistency",
+    "contexts": [
+      "completed"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "За этой отметкой стоит твоё действие. Его ценность не зависит от того, увидит ли его кто-то ещё.",
+      "en": "Your action stands behind that checkmark. Its value does not depend on anyone else seeing it.",
+      "tr": "Bu işaretin arkasında senin emeğin var. Değeri, başkasının görmesine bağlı değil.",
+      "ar": "وراء هذه العلامة فعل قمت به. قيمته لا تعتمد على أن يراه أحد آخر."
+    }
+  },
+  {
+    "id": "nafs-consistency-11",
+    "category": "consistency",
+    "contexts": [
+      "completed"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ты уделил внимание выбранному делу. Сохрани то, что помогло тебе перейти к действию.",
+      "en": "You gave attention to something you chose. Keep what helped you get started.",
+      "tr": "Seçtiğin işe dikkat verdin. Harekete geçmeni sağlayan şeyi koru.",
+      "ar": "منحت اهتمامك لأمر اخترته. احتفظ بما ساعدك على البدء."
+    }
+  },
+  {
+    "id": "nafs-consistency-12",
+    "category": "consistency",
+    "contexts": [
+      "completed"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Один пункт действительно выполнен. Не обесценивай его из-за того, что в списке осталось другое.",
+      "en": "One item is truly finished. Do not dismiss it because other items remain.",
+      "tr": "Bir madde gerçekten bitti. Listede başka işler kaldığı için onu küçümseme.",
+      "ar": "أُنجز بند بالفعل. لا تقلل من قيمته لأن بنودًا أخرى ما زالت موجودة."
+    }
+  },
+  {
+    "id": "nafs-growth-07",
+    "category": "growth",
+    "contexts": [
+      "marathon"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Все 21 занятие отмечены тобой. Выбери одну полезную практику, которую хочешь взять с собой дальше.",
+      "en": "You have marked all 21 activities complete. Choose one useful practice to carry forward.",
+      "tr": "21 etkinliğin tümünü tamamladığını işaretledin. İleriye taşımak istediğin yararlı bir uygulama seç.",
+      "ar": "سجلت إكمال الأنشطة الـ21 كلها. اختر ممارسة نافعة تريد مواصلتها."
+    }
+  },
+  {
+    "id": "nafs-growth-08",
+    "category": "growth",
+    "contexts": [
+      "marathon"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Этот этап завершён твоими действиями. Продолжение может быть спокойнее и точнее первого плана.",
+      "en": "Your actions completed this chapter. What follows can be calmer and more precise than the first plan.",
+      "tr": "Bu aşama senin eylemlerinle tamamlandı. Devamı ilk plandan daha sakin ve net olabilir.",
+      "ar": "اكتملت هذه المرحلة بأفعالك. يمكن لما يليها أن يكون أهدأ وأوضح من الخطة الأولى."
+    }
+  },
+  {
+    "id": "nafs-growth-09",
+    "category": "growth",
+    "contexts": [
+      "marathon"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "21 выполненное занятие — повод оглянуться на опыт. Что оказалось посильным и что стоит изменить?",
+      "en": "Twenty-one completed activities invite reflection. What was manageable, and what needs adjusting?",
+      "tr": "Tamamlanan 21 etkinlik düşünmek için fırsat. Neler yapılabilirdi, neler değişmeli?",
+      "ar": "إكمال 21 نشاطًا فرصة للتأمل. ما الذي كان ممكنًا، وما الذي يحتاج إلى تعديل؟"
+    }
+  },
+  {
+    "id": "nafs-growth-10",
+    "category": "growth",
+    "contexts": [
+      "marathon"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Марафон завершён. Не нужно немедленно повышать планку: сначала реши, какой ритм подходит тебе дальше.",
+      "en": "The marathon is complete. You need not raise the bar immediately; first choose a rhythm for what comes next.",
+      "tr": "Maraton tamamlandı. Hemen çıtayı yükseltmen gerekmez; önce bundan sonrası için ritmini seç.",
+      "ar": "اكتمل البرنامج. لا تحتاج إلى رفع السقف فورًا؛ اختر أولًا إيقاعًا يناسب المرحلة التالية."
+    }
+  },
+  {
+    "id": "nafs-growth-11",
+    "category": "growth",
+    "contexts": [
+      "marathon"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ты дошёл до конца программы. Сохрани полезные условия и разреши себе отказаться от того, что не подошло.",
+      "en": "You reached the end of the program. Keep useful conditions and allow yourself to leave what did not fit.",
+      "tr": "Programın sonuna geldin. Yararlı koşulları koru, sana uymayanı bırakmana izin ver.",
+      "ar": "وصلت إلى نهاية البرنامج. احتفظ بالظروف المفيدة واسمح لنفسك بترك ما لم يناسبك."
+    }
+  },
+  {
+    "id": "nafs-growth-12",
+    "category": "growth",
+    "contexts": [
+      "marathon"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Завершение 21 дня не требует обещаний навсегда. Выбери следующий небольшой период практики.",
+      "en": "Completing 21 days needs no forever promise. Choose the next small period of practice.",
+      "tr": "21 günü tamamlamak sonsuzluk sözü gerektirmez. Bir sonraki küçük uygulama dönemini seç.",
+      "ar": "إكمال 21 يومًا لا يطلب وعدًا للأبد. اختر فترة قصيرة تالية للممارسة."
+    }
+  },
+  {
+    "id": "nafs-intention-08",
+    "category": "intention",
+    "contexts": [
+      "sos",
+      "setback"
+    ],
+    "faith": true,
+    "text": {
+      "ru": "Сабр может проявиться в короткой паузе перед поступком. Подыши спокойно и выбери дальнейший шаг.",
+      "en": "Sabr can take the form of a brief pause before acting. Breathe comfortably and choose your next step.",
+      "tr": "Sabır, davranmadan önce kısa bir duraklamada görülebilir. Rahatça nefes al ve sıradaki adımı seç.",
+      "ar": "قد يظهر الصبر في وقفة قصيرة قبل التصرف. تنفس براحة واختر خطوتك التالية."
+    }
+  }
+]

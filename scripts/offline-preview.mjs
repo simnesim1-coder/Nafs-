@@ -1,0 +1,13 @@
+import {build} from 'esbuild';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+const root=process.cwd();
+const result=await build({stdin:{contents:`import React from 'react';import {createRoot} from 'react-dom/client';import {NafsApp} from './components/nafs-app';import {initialState,STORAGE_KEY} from './lib/domain';
+const nativeFetch=window.fetch.bind(window);window.fetch=(input,options)=>{const url=typeof input==='string'?input:input.url;if(url.startsWith('/api/'))return Promise.resolve(new Response(JSON.stringify(url==='/api/data'&&(!options||!options.method)?{user:null,configured:false}:{error:'Это автономный предпросмотр. Вход и отправка поддержки требуют настроенного сервера. Гостевые функции работают без подключения.'}),{status:url==='/api/data'&&(!options||!options.method)?200:503,headers:{'Content-Type':'application/json'}}));return nativeFetch(input,options)};
+try{if(!localStorage.getItem(STORAGE_KEY))localStorage.setItem(STORAGE_KEY,JSON.stringify({...initialState,preferences:{...initialState.preferences,language:'ru'}}))}catch{}
+createRoot(document.getElementById('root')).render(<NafsApp/>);`,resolveDir:root,sourcefile:'offline-entry.tsx',loader:'tsx'},bundle:true,write:false,minify:true,jsx:'automatic',platform:'browser',target:'es2020',alias:{'@':root,'next/link':path.join(root,'scripts/offline-link.tsx')},define:{'process.env.NEXT_PUBLIC_WERLLAP_URL':'""','process.env.NODE_ENV':'"production"'}});
+const files=await fs.readdir('.next/static',{recursive:true});let css=(await Promise.all(files.filter(f=>f.endsWith('.css')).map(f=>fs.readFile(path.join('.next/static',f),'utf8')))).join('\n');
+const horizon=await fs.readFile(path.join(root,'public/images/nafs-horizon.svg'));css=css.replaceAll('/images/nafs-horizon.svg','data:image/svg+xml;base64,'+horizon.toString('base64'));
+const js=result.outputFiles[0].text.replace(/<\/script/gi,'<\\/script');
+const html=`<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="nafs-offline-shell" content="guest-v7"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><link rel="manifest" href="/manifest.webmanifest"><link rel="apple-touch-icon" href="/icon-192.png"><meta name="color-scheme" content="light dark"><title>NAFS — автономный предпросмотр</title><style>${css}</style></head><body><div id="root"></div><noscript>Для проверки NAFS включите JavaScript в браузере.</noscript><script>${js}</script></body></html>`;
+const output=path.resolve(root,'../NAFS-preview.html');await fs.writeFile(output,html);await fs.writeFile(path.join(root,'public/offline.html'),html);console.log(`Offline guest preview created: ${output} (${Math.round(Buffer.byteLength(html)/1024)} KB). No remote assets or runtime credentials.`);
