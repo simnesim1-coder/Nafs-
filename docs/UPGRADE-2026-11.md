@@ -1,3 +1,5 @@
+> Historical report for the earlier November upgrade. Current 400 + 400 content, owner authorization, migration 007 and verification: [REVIEW-2026-11-13.md](REVIEW-2026-11-13.md). Do not use the old admin allowlist instructions below.
+
 # Обновление NAFS: приватность, ежедневные действия и рассылка
 
 Работа выполнена в существующем проекте. Исходники до изменений: `/workspace/nafs-before-november-upgrade.zip`. Это резервная копия кода, не внешней базы или браузерных данных пользователя.

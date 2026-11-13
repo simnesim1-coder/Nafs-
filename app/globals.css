@@ -35,3 +35,320 @@ body{background:radial-gradient(ellipse at 10% 0%,#8851dd0a,transparent 55%),var
 .marathon-catalog{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.marathon-card{padding:16px;border-radius:17px}.marathon-card h2{font-size:17px;margin:10px 0 6px}.marathon-card p{font-size:12px;line-height:1.6}.marathon-card-top .catalog-symbol{width:38px;height:38px}.marathon-card-top i{display:none}.active-marathon{padding:14px;gap:14px}.active-marathon .progress-ring{width:72px!important;height:72px!important}.active-marathon .ring-center strong{font-size:22px}.active-marathon h3{overflow-wrap:anywhere}.active-marathon .small-ring-label{display:none}.activity-card h2{font-size:18px;line-height:1.6}.settings-group{padding:17px;border:1px solid var(--line);border-radius:16px;margin:16px 0}.page-title{margin-bottom:16px}.day-overview{padding:20px}.day-overview h2{font-size:24px}@media(max-width:560px){.marathon-catalog{grid-template-columns:1fr}.marathon-card p{max-width:none}.marathon-card{padding:15px 17px}.marathon-card-top{margin-bottom:4px}.marathon-card-foot{padding-top:10px;margin-top:10px}.marathon-card h2{font-size:17px}.active-marathon-grid{grid-template-columns:1fr}}
 
 .today-revised .today-next-action{margin-bottom:14px}.today-revised .today-hero{padding:14px 16px}.today-revised .today-hero h2{font-size:16px;line-height:1.45;margin:7px 0}.today-revised .today-heading{min-height:72px;margin-bottom:12px}.today-revised .today-heading .eyebrow{display:none}.today-revised .today-counts>span{padding:7px 8px}.today-revised .today-next-action b{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.today-revised .motivation-card{margin-bottom:17px}.today-revised .today-habit-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}.today-revised .today-habit-grid article{min-width:0}.today-revised .today-hero .progress-ring{width:96px!important;height:96px!important}
+
+/* --- NAFS atmosphere upgrade --- */
+html.dark{
+  --canvas:#080909;
+  --paper:#111313;
+  --ink:#f3efe3;
+  --muted:#c7bcaa;
+  --faint:#948b7d;
+  --line:rgba(226,212,184,.12);
+  --soft:#17191a;
+  --shadow:0 14px 38px rgba(0,0,0,.22);
+}
+html.dark .app-shell{
+  background:
+    radial-gradient(circle at top, rgba(201,160,83,.08), transparent 32%),
+    radial-gradient(circle at 100% 0, rgba(63,96,84,.08), transparent 20%),
+    var(--canvas);
+}
+html[data-mode='regular']{
+  --forest:#10382f;
+  --forest-deep:#0a1d19;
+  --sage:#27342e;
+  --sage-dark:#9cb29e;
+  --gold:#d4ac59;
+  --gold-light:#ecd59e;
+  --mode-hero-image:url('/images/mode-regular-hero.png');
+  --mode-accent:rgba(42,74,62,.72);
+}
+html[data-mode='islamic']{
+  --forest:#241a12;
+  --forest-deep:#0e0a08;
+  --sage:#302722;
+  --sage-dark:#d4b886;
+  --gold:#d8ab4a;
+  --gold-light:#f1d497;
+  --mode-hero-image:url('/images/mode-islamic-hero.png');
+  --mode-accent:rgba(56,38,22,.76);
+}
+html.dark .section,
+html.dark .modal,
+html.dark .today-empty,
+html.dark .today-upcoming,
+html.dark .profile-shell,
+html.dark .today-progress-explanation,
+html.dark .developer-contact,
+html.dark .about-intro-card,
+html.dark .onboarding-summary-card,
+html.dark .mode-choice-card,
+html.dark .today-habit-grid article,
+html.dark .today-task,
+html.dark .today-chapter-card,
+html.dark .today-next-action,
+html.dark .today-hero,
+html.dark .segmented,
+html.dark .time-block{
+  background:color-mix(in srgb, var(--paper) 88%, black);
+  border-color:var(--line);
+  box-shadow:var(--shadow);
+}
+html.dark .icon-button:hover,
+html.dark .today-counts>span,
+html.dark .profile-button,
+html.dark .today-task-check,
+html.dark .habit-check,
+html.dark .today-habit-grid article>div>button{
+  background:color-mix(in srgb,var(--soft) 90%, black);
+}
+html.dark .app-content p,
+html.dark .modal p,
+html.dark .today-habit-grid article>div>span,
+html.dark .today-upcoming small,
+html.dark .today-task button,
+html.dark .about-story>p,
+html.dark .mode-choice-card p,
+html.dark .onboarding-bullet span,
+html.dark .onboarding-flow label,
+html.dark .today-mode-overlay p,
+html.dark .today-hero-meta,
+html.dark .ring-center>span,
+html.dark .attribution,
+html.dark .workspace-status,
+html.dark .page-title p,
+html.dark .header-motto,
+html.dark .free-note,
+html.dark .eyebrow,
+html.dark .tool-tag,
+html.dark .block-meta,
+html.dark .timezone-note,
+html.dark .text-link,
+html.dark .section-header p{
+  color:var(--muted);
+}
+html.dark .wordmark,
+html.dark h1,
+html.dark h2,
+html.dark h3,
+html.dark b,
+html.dark strong,
+html.dark .today-task,
+html.dark .today-habit-name b,
+html.dark .today-upcoming b,
+html.dark .about-story>p:first-of-type,
+html.dark .mode-choice-card b,
+html.dark .onboarding-summary-card h3,
+html.dark .today-mode-overlay h2,
+html.dark .today-hero h2,
+html.dark .today-heading p,
+html.dark .today-heading time,
+html.dark .today-counts>span b{
+  color:var(--ink);
+}
+html.dark .bottom-nav,
+html.dark .app-header,
+html.dark .app-content .workspace-status{
+  background:transparent;
+}
+html.dark input,
+html.dark select,
+html.dark textarea{
+  background:#0d0e0f;
+  border:1px solid var(--line);
+  color:var(--ink);
+}
+
+.today-mode-hero{
+  position:relative;
+  min-height:290px;
+  border-radius:28px;
+  overflow:hidden;
+  margin-bottom:18px;
+  background:var(--mode-hero-image) center/cover no-repeat;
+  border:1px solid var(--line);
+  box-shadow:var(--shadow);
+}
+.today-mode-hero::before{
+  content:'';
+  position:absolute;
+  inset:0;
+  background:linear-gradient(180deg, rgba(0,0,0,.14) 0%, var(--mode-accent) 54%, rgba(0,0,0,.82) 100%);
+}
+.today-mode-overlay{
+  position:relative;
+  z-index:1;
+  min-height:290px;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  padding:24px 20px 20px;
+  color:#fff;
+}
+.today-mode-overlay .tool-tag{
+  align-self:flex-start;
+  background:rgba(0,0,0,.28);
+  color:#f3ddab;
+}
+.today-mode-overlay h2{
+  color:#fff;
+  font-size:28px;
+  line-height:1.15;
+  margin:10px 0 12px;
+  max-width:460px;
+}
+.today-mode-overlay p{
+  color:rgba(255,247,233,.9);
+  max-width:560px;
+  font-size:13px;
+}
+.today-mode-pills{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-top:14px;
+}
+.today-mode-pills span{
+  padding:8px 12px;
+  border-radius:999px;
+  background:rgba(17,12,8,.46);
+  border:1px solid rgba(255,221,162,.18);
+  color:#f6ead0;
+  font-size:10px;
+}
+
+.today-heading:before,
+.signature-marathon:before,
+.about-brand,
+.sos-welcome{
+  background-image:var(--mode-hero-image) !important;
+}
+.today-heading:before{opacity:.38}
+.today-hero{
+  background:linear-gradient(140deg, color-mix(in srgb,var(--forest) 38%, var(--paper)), color-mix(in srgb,var(--paper) 80%, black));
+}
+.today-hero .tool-tag,
+.onboarding-summary-card .tool-tag,
+.about-intro-card .tool-tag{
+  background:rgba(216,171,74,.14);
+  color:var(--gold-light);
+  border:1px solid rgba(216,171,74,.18);
+  padding:5px 9px;
+  border-radius:999px;
+  display:inline-flex;
+}
+.today-counts>span,
+.today-next-action,
+.today-progress-explanation,
+.today-upcoming,
+.mode-choice-card,
+.onboarding-summary-card,
+.about-intro-card{
+  border-radius:18px;
+}
+.today-counts>span{background:color-mix(in srgb,var(--soft) 88%, black)}
+.today-empty{background:color-mix(in srgb,var(--soft) 82%, black)}
+.today-revised .today-heading{margin-top:8px}
+
+.onboarding-hero-card{
+  position:relative;
+  min-height:210px;
+  border-radius:24px;
+  overflow:hidden;
+  margin-bottom:16px;
+  background:var(--mode-hero-image) center/cover no-repeat;
+  border:1px solid var(--line);
+}
+.onboarding-hero-card::before{
+  content:'';
+  position:absolute;
+  inset:0;
+  background:linear-gradient(180deg, rgba(0,0,0,.12), rgba(0,0,0,.76));
+}
+.onboarding-hero-copy{
+  position:relative;
+  z-index:1;
+  display:flex;
+  min-height:210px;
+  flex-direction:column;
+  justify-content:flex-end;
+  padding:18px;
+}
+.onboarding-hero-copy h2,
+.onboarding-hero-copy p{color:#fff}
+.mode-choice-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:12px;
+  margin:14px 0 6px;
+}
+.mode-choice-card{
+  text-align:start;
+  padding:16px;
+  border:1px solid var(--line);
+  min-height:144px;
+}
+.mode-choice-card.active{
+  outline:1px solid color-mix(in srgb,var(--gold) 55%, transparent);
+  box-shadow:0 0 0 1px rgba(216,171,74,.16), var(--shadow);
+}
+.mode-choice-icon{
+  display:inline-grid;
+  place-items:center;
+  width:34px;
+  height:34px;
+  border-radius:10px;
+  margin-bottom:10px;
+  background:rgba(216,171,74,.15);
+  color:var(--gold-light);
+}
+.mode-choice-card b{display:block;font-size:14px;margin-bottom:8px}
+.mode-choice-card p{font-size:12px;line-height:1.65}
+.onboarding-bullets{
+  display:grid;
+  gap:10px;
+  margin:16px 0;
+}
+.onboarding-bullet{
+  display:flex;
+  align-items:flex-start;
+  gap:10px;
+  padding:12px 14px;
+  border-radius:14px;
+  background:color-mix(in srgb,var(--soft) 88%, black);
+  border:1px solid var(--line);
+}
+.onboarding-bullet svg{color:var(--gold)}
+.onboarding-summary-card{padding:15px;border:1px solid var(--line);margin-top:10px}
+.onboarding-summary-list{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.onboarding-summary-list span{
+  padding:7px 10px;
+  border-radius:999px;
+  background:rgba(216,171,74,.12);
+  border:1px solid rgba(216,171,74,.16);
+  font-size:10px;
+  color:var(--ink);
+}
+.about-intro-card{
+  padding:18px;
+  margin-bottom:22px;
+  border:1px solid var(--line);
+  background:linear-gradient(180deg, color-mix(in srgb,var(--soft) 88%, black), color-mix(in srgb,var(--paper) 92%, black));
+}
+.about-intro-card h2{margin:10px 0 8px;font-size:20px}
+.about-intro-card p{font-size:13px}
+.about-emblem{
+  background:linear-gradient(145deg, color-mix(in srgb,var(--gold) 85%, #fff 15%), color-mix(in srgb,var(--forest) 60%, black));
+  box-shadow:0 0 35px rgba(216,171,74,.2);
+}
+.about-brand{border:1px solid var(--line);box-shadow:var(--shadow)}
+
+@media(max-width:560px){
+  .today-mode-hero{min-height:250px;margin-bottom:16px}
+  .today-mode-overlay{min-height:250px;padding:18px 16px}
+  .today-mode-overlay h2{font-size:22px;max-width:100%}
+  .today-mode-pills span{font-size:9px;padding:7px 10px}
+  .mode-choice-grid{grid-template-columns:1fr}
+  .mode-choice-card{min-height:unset}
+  .onboarding-hero-card,.onboarding-hero-copy{min-height:190px}
+}

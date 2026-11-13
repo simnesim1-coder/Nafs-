@@ -1,3 +1,4 @@
+import {motivationMessages} from '../lib/motivation';
 // @vitest-environment happy-dom
 import React,{act} from 'react';
 import {createRoot,type Root} from 'react-dom/client';
@@ -60,11 +61,11 @@ it('does not persist an SOS topic or viewed message when browsing calm support',
  await click(container.querySelector('[role=dialog] [aria-label="Save message"]'));
  expect(data().motivation.favorites).toHaveLength(1);expect(data().sosReflections).toEqual([]);expect(data()).not.toHaveProperty('issue');
 });
-it('keeps religious encouragement out of automatic settings while preserving bookmarks',async()=>{
+it('switches to Islamic reminders while preserving bookmarks',async()=>{
  const first=current();await click(container.querySelector('.today-hub [aria-label="Save message"]'));
  await click(container.querySelector('[aria-label="Profile and settings"]'));
  await click(container.querySelector('[role=switch][aria-label="Islamic mode"]'));
- expect(container.querySelector('[aria-label="Motivation about sincerity and sabr"]')).toBeNull();
+ expect(motivationMessages.find(message=>message.id===current())?.faith).toBe(true);
  expect(data().motivation.favorites).toEqual([first]);
  expect(data().preferences.sensitiveContent).toBe(false);
 });

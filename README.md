@@ -1,6 +1,6 @@
-# nafs. — free Telegram Mini App · Developed by Werllap
+# nafs. · Telegram Mini App · Werllap
 
-NAFS was upgraded **in the existing Next.js / React / TypeScript / Tailwind / Supabase project**. No new application or paid tier was created. The Telegram guest preview (revision 4) was published privately on 2026-11-06 under the earlier preview authorization. The motivation revision was subsequently published to the same owner-only guest preview upon request; its publication record is in `MOTIVATION-RELEASE.md`. No live Telegram/database credentials are configured.
+Работа продолжается в существующем Next.js 16 проекте. Текущий аудит, исправления входа, настройка staging и ограничения: **[docs/REVIEW-2026-11-13.md](docs/REVIEW-2026-11-13.md)**. Результаты проверок: **[VERIFICATION.md](VERIFICATION.md)**. Production в этой сессии не обновлялся.
 
 ## Run locally
 
@@ -24,13 +24,13 @@ The offline generator writes `../NAFS-preview.html` and `public/offline.html` us
 
 ## Implemented
 
-- Five bottom tabs: **Planner · Tasks · Today · Progress · Marathons**. Today is a circular violet central button. Telegram/device safe areas, compact charcoal/violet/cyan design, colorful categories, light theme, Arabic RTL and reduced-motion styling.
-- Dynamic motivation: exactly 365 original messages with RU/EN/TR/AR text, a continuous 365-local-date cycle without repeat, independent refresh with recent exclusion, persisted favorites, contextual recognition and private SOS selection. Retired original texts remain available only in explicitly saved bookmarks. See [docs/motivation/README.md](docs/motivation/README.md).
+- Five bottom tabs: **Planner · Tasks · Today · Progress · Marathons**. Today is a circular gold central button. Telegram/device safe areas, forest/graphite/gold and warm courtyard design, colorful categories, light theme, Arabic RTL and reduced-motion styling.
+- Dynamic motivation: exactly 400 ordinary and 400 Islamic original messages with RU/EN/TR/AR text, a separate continuous 400-local-date cycle per mode without repeat, independent refresh with recent exclusion, persisted favorites, contextual recognition and private SOS selection. Retired original texts remain available only in explicitly saved bookmarks. See [docs/motivation/README.md](docs/motivation/README.md).
 - Today: date/greeting, actual daily completion ring, task/remaining/XP totals, editable tasks, habit check-ins, next appointment, multiple active/paused marathons, one next action and working add/focus/SOS shortcuts. Empty daily plans show no misleading success percentage.
 - Planner: local-time day/week views, dated/recurring color-coded blocks, task links, reminders, edit/delete, current-time label and upcoming events. Recurrence preserves wall-clock time when the device timezone changes; time blocks may overlap.
 - Tasks: CRUD, reopen, priority/due date/category, description, subtasks, search/filter/grouping and dated recurrence with bounded stable IDs. Completion is explicit; repeated toggles do not re-award XP.
 - Habits: CRUD, daily/rolling-seven-day targets, reminders, icons/colors, pause/resume, dated check-ins and preserved history.
-- **20 free 21-day programs / 420 activities:** 12 standard and 8 additional Islamic programs. Each has 21 distinct activities, stages, confirmation criteria, reflection and honest completed/elapsed/missed metrics. Future activities unlock by elapsed time excluding pauses; catch-up is available. No permanent-habit or medical guarantee.
+- **20 structured 21-day programs / 420 activities:** 12 standard and 8 additional Islamic programs. Each has 21 distinct activities, stages, confirmation criteria, reflection and honest completed/elapsed/missed metrics. Future activities unlock by elapsed time excluding pauses; catch-up is available. No permanent-habit or medical guarantee.
 - Custom marathons: three-step wizard, locally generated editable template, 21 individual activities/reflections, icon/color/category/start/reminder, edit/duplicate/pause/resume/restart/archive/soft-delete. Previous attempts remain; maintenance habit and completion certificate export are available.
 - SOS: five-minute pause/breathing/grounding/alternative/reflection flow, situation-specific original scripts, optional local device voice, voluntary reflection saving, exit anytime. **No Quran or hadith quotations in SOS**, even in Islamic mode. Sensitive topics are hidden by default, require confirmation, and appear last when enabled.
 - Progress: real charts, heatmap, task/habit/marathon/focus totals, levels, personal records, earned badge history, and deterministic weekly reports with productive weekdays. Report rules explain their basis and do not invent causes. Legacy checkmarks without dates are not assigned to a week.
@@ -45,13 +45,13 @@ No subscriptions, ads, Pro locks, Stripe/OpenAI dependencies, payment routes, pa
 
 See **[docs/telegram/README.md](docs/telegram/README.md)** for BotFather, URLs, SDK/auth protocol and actual-device checks, and **[DEPLOYMENT.md](DEPLOYMENT.md)** for deployment.
 
-Required server configuration: `APP_URL`, Supabase URL/anon key, server-only service role key, and server-only `TELEGRAM_BOT_TOKEN`. No real credentials are present. Apply migrations 001–005 in order and run `npm run seed` with the Supabase variables supplied to the shell. The seed upserts 20 programs/420 days without resetting progress.
+Required server configuration: `APP_URL`, Supabase URL/anon key, server-only service role key, and server-only `TELEGRAM_BOT_TOKEN`. No real credentials are present. Apply migrations 001–007 in order and run `npm run seed` with the Supabase variables supplied to the shell. The seed upserts 20 programs/420 days without resetting progress.
 
 Migration 004 adds private Telegram identity/session/replay records and an atomic replay-consumption function. No old table is destructively removed. Validated Telegram identities map to trusted backend UUIDs; arbitrary frontend IDs are never accepted. Authenticated saves use runtime validation, origin checks, database rate limits and revision-locked transactions with per-user authorization.
 
 ## Data preservation and limits
 
-Source backups: `/workspace/nafs-before-telegram.zip` and `/workspace/nafs-before-motivation.zip`. It is not a backup of external database contents or a user's browser storage.
+Git history preserves the original source. No copy of the live database or browser storage was made in this environment.
 
 The guest key **`nafs-guest-v1`** stays unchanged, with the pre-existing migration backup and safe schema defaults. Corrupt JSON is not overwritten. Guest storage is not encrypted and does not synchronize across devices/origins. Export before switching devices or URLs. Account export includes retained historical records; deletion removes the account and private records, and explicitly clears local workspace/backup too.
 
@@ -87,4 +87,4 @@ Consult [docs/UPGRADE-2026-11.md](docs/UPGRADE-2026-11.md) for the current upgra
 
 ## Administrator broadcasts
 
-Server-only `/admin` requires a verified NAFS account UUID in `NAFS_ADMIN_USER_IDS`. Draft preview and explicit confirmation precede queueing. Only Telegram users who opened the bot and enabled messages are eligible. Process batches manually or configure the protected worker using `CRON_SECRET`. Duplicate queue jobs are prevented; ambiguous Telegram delivery is not retried automatically. This is not included in the static guest preview. See [docs/BROADCAST.md](docs/BROADCAST.md).
+Server-only `/admin` requires a server-verified Telegram session belonging to ID `6123609704`. No environment allowlist grants owner rights. Draft preview and explicit confirmation precede queueing. Only Telegram users who opened the bot and enabled messages are eligible. Process batches manually or configure the protected worker using `CRON_SECRET`. Duplicate queue jobs are prevented; ambiguous Telegram delivery is not retried automatically. This is not included in the static guest preview. See [docs/BROADCAST.md](docs/BROADCAST.md).

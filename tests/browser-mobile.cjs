@@ -24,7 +24,7 @@ try{
    assert(layout.scroll<=layout.width+1,`overflow width${width} tab${tab}: ${layout.scroll}`);
    assert(layout.nav.bottom<=844+1,`nav outside viewport width${width}`);assert(layout.padding>=layout.nav.height,`insufficient bottom padding width${width}`);
    results.push({width,tab,...layout});
-   if(width===390)await page.screenshot({path:`${output}/dark-tab-${tab}-390.png`,fullPage:true});
+   if(width===390)await page.waitForTimeout(400);if(width===390)await page.screenshot({path:`${output}/dark-tab-${tab}-390.png`,fullPage:true});
   }
   await page.locator('.bottom-nav>button').nth(2).click();
   assert(await page.locator('.motivation-card').count()>0,'Today quote missing');
@@ -37,14 +37,14 @@ try{
   assert.equal(await page.locator('html').evaluate(el=>el.classList.contains('dark')),false);
   await page.locator('.language-setting select').selectOption('ar');await page.waitForTimeout(100);
   assert.equal(await page.locator('html').getAttribute('dir'),'rtl');
-  if(width===390)await page.screenshot({path:`${output}/light-ar-profile-390.png`,fullPage:true});
+  if(width===390)await page.waitForTimeout(400);if(width===390)await page.screenshot({path:`${output}/light-ar-profile-390.png`,fullPage:true});
   await page.keyboard.press('Escape');
   assert.equal(await page.locator('[role=dialog]').count(),0);
   await page.locator('.bottom-nav>button').nth(1).click();await page.locator('.round-add').click();
   const title=page.locator('input[name=title]');await title.fill('اختبار');await page.setViewportSize({width,height:430});await title.focus();
   const keyboardLayout=await page.locator('[role=dialog]').evaluate(el=>({top:el.getBoundingClientRect().top,bottom:el.getBoundingClientRect().bottom,height:innerHeight,overflow:document.documentElement.scrollWidth>innerWidth}));
   assert(!keyboardLayout.overflow,'reduced viewport horizontal overflow');assert(keyboardLayout.bottom<=keyboardLayout.height+1,'modal clipped with reduced viewport');
-  if(width===390)await page.screenshot({path:`${output}/keyboard-height-ar-task-390.png`,fullPage:true});
+  if(width===390)await page.waitForTimeout(400);if(width===390)await page.screenshot({path:`${output}/keyboard-height-ar-task-390.png`,fullPage:true});
   results.push({width,modalLayout,keyboardLayout,errors});assert.deepEqual(errors,[],'Browser runtime errors');
   await context.close();
  }

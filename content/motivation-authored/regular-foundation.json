@@ -1,0 +1,5643 @@
+[
+  {
+    "id": "nafs-discipline-01",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не торгуйся с началом. Выбери одно действие, которое займёт две минуты, и начни с него.",
+      "en": "Stop negotiating with the start. Choose a two-minute action and begin there.",
+      "tr": "Başlangıçla pazarlık etme. İki dakikalık bir adım seç ve oradan başla.",
+      "ar": "لا تطل التفاوض مع البداية. اختر خطوة تستغرق دقيقتين وابدأ بها."
+    }
+  },
+  {
+    "id": "nafs-discipline-02",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Дисциплина может быть тихой: закрыть лишнюю вкладку и вернуться к выбранному делу.",
+      "en": "Discipline can be quiet: close an extra tab and return to the work you chose.",
+      "tr": "Disiplin sessiz olabilir: gereksiz sekmeyi kapat ve seçtiğin işe dön.",
+      "ar": "قد يكون الانضباط هادئًا: أغلق علامة تبويب زائدة وعد إلى ما اخترته."
+    }
+  },
+  {
+    "id": "nafs-discipline-03",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не обязательно хотеть работать каждую минуту. Достаточно решить, чему ты отдашь следующие десять.",
+      "en": "You need not feel eager every minute. Decide what gets your next ten.",
+      "tr": "Her dakika istekli olman gerekmez. Önündeki on dakikayı neye ayıracağını seç.",
+      "ar": "ليس عليك أن تشعر بالحماس كل دقيقة. قرر فقط أين ستضع الدقائق العشر القادمة."
+    }
+  },
+  {
+    "id": "nafs-discipline-04",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сделай обещание себе конкретным: что, где и когда. Ясному шагу проще найти место в дне.",
+      "en": "Make your promise specific: what, where, and when. A clear step is easier to fit into a day.",
+      "tr": "Kendine verdiğin sözü netleştir: ne, nerede, ne zaman. Net bir adıma gün içinde yer açmak kolaylaşır.",
+      "ar": "اجعل وعدك لنفسك محددًا: ماذا وأين ومتى. يسهل إيجاد وقت لخطوة واضحة."
+    }
+  },
+  {
+    "id": "nafs-discipline-05",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Твёрдость — не запрет на отдых. Это умение вернуться к важному после него.",
+      "en": "Resolve does not forbid rest. It means returning to what matters afterward.",
+      "tr": "Kararlılık dinlenmeyi yasaklamak değildir. Sonrasında önemli olana dönebilmektir.",
+      "ar": "الثبات لا يعني منع الراحة، بل العودة بعدها إلى ما يهمك."
+    }
+  },
+  {
+    "id": "nafs-discipline-06",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Убери одну помеху до начала работы. Иногда решимость выглядит как телефон в другой комнате.",
+      "en": "Remove one distraction before starting. Sometimes resolve looks like a phone in another room.",
+      "tr": "Başlamadan önce bir dikkat dağıtıcıyı kaldır. Bazen kararlılık, telefonu başka odaya koymaktır.",
+      "ar": "أبعد مشتتًا واحدًا قبل البدء. أحيانًا يكون العزم هاتفًا في غرفة أخرى."
+    }
+  },
+  {
+    "id": "nafs-discipline-07",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть выбранное действие будет небольшим, а решение выполнить его — ясным.",
+      "en": "Let the action be small and your decision to do it clear.",
+      "tr": "Seçtiğin adım küçük, onu atma kararın net olsun.",
+      "ar": "لتكن الخطوة صغيرة، وقرارك بتنفيذها واضحًا."
+    }
+  },
+  {
+    "id": "nafs-discipline-08",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ты можешь сделать день осмысленнее одним поступком. Выбери его до того, как день заполнится сам.",
+      "en": "One action can give this day more meaning. Choose it before the day fills itself.",
+      "tr": "Tek bir davranış gününe anlam katabilir. Gün kendiliğinden dolmadan onu seç.",
+      "ar": "قد يمنح فعل واحد يومك معنى أكبر. اختره قبل أن يمتلئ اليوم من تلقاء نفسه."
+    }
+  },
+  {
+    "id": "nafs-discipline-09",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не требуй от себя железной воли. Подготовь условия, в которых нужное действие проще повторить.",
+      "en": "Do not demand iron will. Arrange conditions that make the useful action easier to repeat.",
+      "tr": "Kendinden çelik irade bekleme. Yararlı davranışı tekrarlamayı kolaylaştıran koşullar oluştur.",
+      "ar": "لا تطلب من نفسك إرادة حديدية. هيئ ظروفًا تسهل تكرار الفعل النافع."
+    }
+  },
+  {
+    "id": "nafs-discipline-10",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Один законченный шаг даёт больше ясности, чем час спора с собой о начале.",
+      "en": "One finished step offers more clarity than an hour arguing with yourself about starting.",
+      "tr": "Tamamlanan tek bir adım, başlamak üzerine bir saat iç tartışmadan daha fazla netlik sağlar.",
+      "ar": "خطوة مكتملة تمنحك وضوحًا أكثر من ساعة جدال مع نفسك حول البدء."
+    }
+  },
+  {
+    "id": "nafs-discipline-11",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Определи границу работы заранее. Сосредоточиться легче, когда понятно, где остановиться.",
+      "en": "Set a work boundary in advance. Focus is easier when you know where to stop.",
+      "tr": "Çalışmanın sınırını önceden belirle. Nerede duracağını bilmek odaklanmayı kolaylaştırır.",
+      "ar": "حدد نهاية فترة العمل مسبقًا. يسهل التركيز حين تعرف أين تتوقف."
+    }
+  },
+  {
+    "id": "nafs-discipline-12",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сегодня выбери качество внимания, а не громкость обещаний. Начни с того, что перед тобой.",
+      "en": "Choose the quality of your attention over the size of your promises. Start with what is in front of you.",
+      "tr": "Bugün büyük sözler yerine dikkatinin niteliğini seç. Önündeki işle başla.",
+      "ar": "اختر اليوم جودة انتباهك بدل حجم وعودك. ابدأ بما أمامك."
+    }
+  },
+  {
+    "id": "nafs-consistency-01",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Регулярность строится из возвращений. Не нужно заново доказывать, что ты достоин начать.",
+      "en": "Consistency is built from returns. You need not prove you deserve to begin again.",
+      "tr": "Düzen, geri dönüşlerle kurulur. Yeniden başlamayı hak ettiğini kanıtlaman gerekmez.",
+      "ar": "الاستمرار يُبنى بالعودة. لا تحتاج إلى إثبات أنك تستحق البدء من جديد."
+    }
+  },
+  {
+    "id": "nafs-consistency-02",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Найди версию привычки для занятого дня. Даже короткому действию можно дать устойчивое место.",
+      "en": "Find a version of your habit for a busy day. Even a brief action can have a steady place.",
+      "tr": "Yoğun günler için alışkanlığının kısa bir sürümünü bul. Küçük bir davranışa da kalıcı yer açılabilir.",
+      "ar": "ابحث عن نسخة من عادتك تناسب يومًا مزدحمًا. حتى الفعل القصير يمكن أن يجد مكانًا ثابتًا."
+    }
+  },
+  {
+    "id": "nafs-consistency-03",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Повторение не обязано впечатлять. Оно должно помещаться в твою настоящую жизнь.",
+      "en": "Repetition need not impress anyone. It needs to fit your real life.",
+      "tr": "Tekrarın etkileyici olması gerekmez. Gerçek yaşamına sığması yeterlidir.",
+      "ar": "لا يجب أن يكون التكرار مبهرًا. يكفي أن يناسب حياتك الفعلية."
+    }
+  },
+  {
+    "id": "nafs-consistency-04",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Положи нужную вещь на видное место. Пусть начало завтра потребует на одно решение меньше.",
+      "en": "Put what you need in sight. Let tomorrow's start require one fewer decision.",
+      "tr": "İhtiyacın olan şeyi görünür bir yere koy. Yarın başlamak bir karar daha az gerektirsin.",
+      "ar": "ضع ما تحتاجه في مكان ظاهر. اجعل بداية الغد تحتاج إلى قرار أقل."
+    }
+  },
+  {
+    "id": "nafs-consistency-05",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сравнивай свой план с доступными силами, а не с чужим расписанием.",
+      "en": "Compare your plan with your available energy, not someone else's schedule.",
+      "tr": "Planını başkasının programıyla değil, elindeki enerjiyle karşılaştır.",
+      "ar": "قارن خطتك بطاقتك المتاحة، لا بجدول شخص آخر."
+    }
+  },
+  {
+    "id": "nafs-consistency-06",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не жди идеальной серии. Создай понятный путь обратно после любого перерыва.",
+      "en": "Do not wait for a perfect streak. Build a clear way back after any break.",
+      "tr": "Kusursuz bir seri bekleme. Her aradan sonra geri dönüş için net bir yol kur.",
+      "ar": "لا تنتظر سلسلة مثالية. اصنع طريقًا واضحًا للعودة بعد أي انقطاع."
+    }
+  },
+  {
+    "id": "nafs-consistency-07-v2",
+    "category": "consistency",
+    "contexts": [
+      "completed",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "После завершённого действия заметь вложенное внимание, прежде чем переходить к следующему.",
+      "en": "After completing an action, notice the attention you gave it before moving on.",
+      "tr": "Bir işi bitirdikten sonra diğerine geçmeden verdiğin dikkati fark et.",
+      "ar": "بعد إتمام فعل، لاحظ الانتباه الذي منحته له قبل الانتقال إلى التالي."
+    }
+  },
+  {
+    "id": "nafs-consistency-08-v2",
+    "category": "consistency",
+    "contexts": [
+      "completed",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Когда намерение становится действием, дай себе секунду признать этот конкретный результат.",
+      "en": "When intention becomes action, take a second to acknowledge that specific result.",
+      "tr": "Niyet eyleme dönüştüğünde bu somut sonucu kabul etmek için bir saniye ayır.",
+      "ar": "حين تصبح النية فعلًا، امنح نفسك لحظة للاعتراف بهذه النتيجة المحددة."
+    }
+  },
+  {
+    "id": "nafs-consistency-09-v2",
+    "category": "consistency",
+    "contexts": [
+      "completed",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "После сделанного дела можно спокойно выбрать следующий шаг или дать себе паузу.",
+      "en": "After finishing a task, you can calmly choose another step or give yourself a pause.",
+      "tr": "Bir işi bitirdikten sonra sakince sıradaki adımı seçebilir ya da mola verebilirsin.",
+      "ar": "بعد إنجاز مهمة يمكنك اختيار خطوة أخرى بهدوء أو منح نفسك استراحة."
+    }
+  },
+  {
+    "id": "nafs-consistency-10-v2",
+    "category": "consistency",
+    "contexts": [
+      "completed",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ценность выполненного действия не зависит от того, увидит ли его кто-то ещё.",
+      "en": "The value of an action you complete does not depend on anyone else seeing it.",
+      "tr": "Tamamladığın eylemin değeri, başkasının görmesine bağlı değildir.",
+      "ar": "قيمة الفعل الذي تنجزه لا تعتمد على أن يراه أحد آخر."
+    }
+  },
+  {
+    "id": "nafs-consistency-11-v2",
+    "category": "consistency",
+    "contexts": [
+      "completed",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Уделяя внимание выбранному делу, замечай, что помогает тебе переходить от решения к действию.",
+      "en": "As you attend to chosen work, notice what helps you move from decision to action.",
+      "tr": "Seçtiğin işe dikkat verirken karardan eyleme geçmeni neyin sağladığını fark et.",
+      "ar": "بينما تهتم بعمل اخترته، لاحظ ما يساعدك على الانتقال من القرار إلى الفعل."
+    }
+  },
+  {
+    "id": "nafs-consistency-12-v2",
+    "category": "consistency",
+    "contexts": [
+      "completed",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Когда один пункт выполнен, не обесценивай его из-за того, что в списке осталось другое.",
+      "en": "When one item is finished, do not dismiss it because other items remain.",
+      "tr": "Bir madde bittiğinde listede başka işler kaldığı için onu küçümseme.",
+      "ar": "حين تنجز بندًا، لا تقلل من قيمته لأن بنودًا أخرى ما زالت موجودة."
+    }
+  },
+  {
+    "id": "nafs-procrastination-01",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не решай сейчас всю задачу. Открой материал и определи самое первое движение.",
+      "en": "Do not solve the whole task now. Open the material and identify the first move.",
+      "tr": "Şimdi bütün işi çözmeye çalışma. Malzemeyi aç ve ilk hareketi belirle.",
+      "ar": "لا تحاول حل المهمة كلها الآن. افتح المادة وحدد أول حركة."
+    }
+  },
+  {
+    "id": "nafs-procrastination-02",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если дело кажется туманным, запиши следующий видимый шаг одним глаголом.",
+      "en": "If a task feels vague, write the next visible step with one clear verb.",
+      "tr": "İş belirsiz görünüyorsa sıradaki somut adımı tek bir fiille yaz.",
+      "ar": "إذا بدت المهمة غامضة، اكتب الخطوة التالية الملموسة بفعل واضح."
+    }
+  },
+  {
+    "id": "nafs-procrastination-03",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Разреши первому варианту быть черновиком. Исправлять написанное легче, чем пустую страницу.",
+      "en": "Allow the first version to be a draft. Something written is easier to revise than a blank page.",
+      "tr": "İlk sürümün taslak olmasına izin ver. Yazılmış bir şeyi düzeltmek, boş sayfayı düzeltmekten kolaydır.",
+      "ar": "اسمح للنسخة الأولى أن تكون مسودة. تعديل المكتوب أسهل من تعديل صفحة فارغة."
+    }
+  },
+  {
+    "id": "nafs-procrastination-04",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Поставь короткий таймер. Твоя задача сейчас — побыть с делом, а не закончить всё сразу.",
+      "en": "Set a short timer. Your job now is to stay with the task, not finish everything at once.",
+      "tr": "Kısa bir süre belirle. Şimdiki işin her şeyi bitirmek değil, işle bir süre kalmak.",
+      "ar": "اضبط مؤقتًا قصيرًا. مهمتك الآن أن تبقى مع العمل، لا أن تنهي كل شيء دفعة واحدة."
+    }
+  },
+  {
+    "id": "nafs-procrastination-05",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Заметь, чего именно ты избегаешь: неясности, скуки или сложности. Затем упрости один участок.",
+      "en": "Notice what you are avoiding: uncertainty, boredom, or difficulty. Then simplify one part.",
+      "tr": "Neyden kaçındığını fark et: belirsizlik, sıkıntı ya da zorluk. Sonra bir bölümü kolaylaştır.",
+      "ar": "لاحظ ما تتجنبه: الغموض أو الملل أو الصعوبة. ثم بسّط جزءًا واحدًا."
+    }
+  },
+  {
+    "id": "nafs-procrastination-06",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "У задачи нет требования начаться красиво. Достаточно начать понятно.",
+      "en": "A task need not begin beautifully. A clear beginning is enough.",
+      "tr": "Bir işin güzel başlaması gerekmez. Anlaşılır bir başlangıç yeterlidir.",
+      "ar": "لا تشترط المهمة بداية جميلة. بداية واضحة تكفي."
+    }
+  },
+  {
+    "id": "nafs-procrastination-07",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сократи расстояние до дела: приготовь стол, документ или обувь. Это уже подготовка к выбору.",
+      "en": "Shorten the distance to action: prepare your desk, document, or shoes. That prepares your next choice.",
+      "tr": "İşe olan mesafeyi kısalt: masayı, belgeyi ya da ayakkabını hazırla. Bu, sıradaki seçimini hazırlar.",
+      "ar": "قرّب المسافة إلى الفعل: جهز مكتبك أو مستندك أو حذاءك. هذا يمهد لاختيارك التالي."
+    }
+  },
+  {
+    "id": "nafs-procrastination-08",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбери время начала, а не время, когда появится желание. Силы и план при этом можно учитывать.",
+      "en": "Choose a starting time rather than waiting for desire. You can still respect your energy and limits.",
+      "tr": "İstek gelmesini beklemek yerine başlama zamanı seç. Enerjini ve sınırlarını yine de gözetebilirsin.",
+      "ar": "اختر موعد بداية بدل انتظار الرغبة. ويمكنك مع ذلك مراعاة طاقتك وحدودك."
+    }
+  },
+  {
+    "id": "nafs-procrastination-09",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не добавляй к трудной задаче спор о собственной ценности. Работай только с её ближайшей частью.",
+      "en": "Do not add a debate about your worth to a difficult task. Work only on its nearest part.",
+      "tr": "Zor işe kendi değerinle ilgili bir tartışma ekleme. Yalnızca en yakın bölümle ilgilen.",
+      "ar": "لا تضف إلى المهمة الصعبة جدالًا حول قيمتك. تعامل فقط مع أقرب جزء منها."
+    }
+  },
+  {
+    "id": "nafs-procrastination-10",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Отложи улучшения до появления основы. Сначала собери простой рабочий вариант.",
+      "en": "Save refinements until a foundation exists. First build a simple working version.",
+      "tr": "Temel oluşana kadar iyileştirmeleri beklet. Önce basit ve çalışan bir sürüm oluştur.",
+      "ar": "أجّل التحسينات حتى يوجد أساس. أنشئ أولًا نسخة بسيطة تعمل."
+    }
+  },
+  {
+    "id": "nafs-procrastination-11",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сделай список короче на одно решение: выбери, с чего начинаешь прямо сейчас.",
+      "en": "Remove one decision from your list: choose what you start with now.",
+      "tr": "Listenden bir kararı çıkar: şu an neyle başlayacağını seç.",
+      "ar": "احذف قرارًا واحدًا من قائمتك: اختر ما ستبدأ به الآن."
+    }
+  },
+  {
+    "id": "nafs-procrastination-12",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если застрял, попроси конкретную помощь. Один ясный вопрос может открыть следующий шаг.",
+      "en": "If you are stuck, ask for specific help. One clear question may reveal the next step.",
+      "tr": "Takıldıysan somut yardım iste. Net bir soru sıradaki adımı gösterebilir.",
+      "ar": "إن تعثرت، اطلب مساعدة محددة. قد يكشف سؤال واضح عن الخطوة التالية."
+    }
+  },
+  {
+    "id": "nafs-impulses-01",
+    "category": "impulses",
+    "contexts": [
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Желание может быть сильным, а решение — ещё не принятым. Дай себе минуту между ними.",
+      "en": "An urge can be strong while the decision is still open. Give yourself a minute between them.",
+      "tr": "Dürtü güçlü olabilir ama karar henüz verilmemiştir. Aralarına kendin için bir dakika koy.",
+      "ar": "قد تكون الرغبة قوية والقرار لم يُتخذ بعد. امنح نفسك دقيقة بينهما."
+    }
+  },
+  {
+    "id": "nafs-impulses-02",
+    "category": "impulses",
+    "contexts": [
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Положи телефон и почувствуй опору под ногами. Сейчас достаточно вернуть внимание в комнату.",
+      "en": "Put down the phone and feel the ground under your feet. For now, return attention to the room.",
+      "tr": "Telefonu bırak ve ayaklarının altındaki zemini hisset. Şimdilik dikkatini odaya getirmen yeterli.",
+      "ar": "ضع الهاتف واشعر بالأرض تحت قدميك. يكفي الآن أن تعيد انتباهك إلى الغرفة."
+    }
+  },
+  {
+    "id": "nafs-impulses-03",
+    "category": "impulses",
+    "contexts": [
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не нужно побеждать каждую мысль. Выбери одно действие, которое соответствует твоей границе.",
+      "en": "You need not defeat every thought. Choose one action that respects your boundary.",
+      "tr": "Her düşünceyi yenmen gerekmez. Kendi sınırına uyan tek bir davranış seç.",
+      "ar": "لا تحتاج إلى هزيمة كل فكرة. اختر فعلًا واحدًا يحترم حدودك."
+    }
+  },
+  {
+    "id": "nafs-impulses-04",
+    "category": "impulses",
+    "contexts": [
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Смени обстановку на несколько минут. Другой стул, комната или короткая прогулка могут дать пространство для выбора.",
+      "en": "Change your surroundings for a few minutes. Another chair, room, or brief walk may create room to choose.",
+      "tr": "Birkaç dakika ortam değiştir. Başka bir sandalye, oda ya da kısa yürüyüş seçim için alan açabilir.",
+      "ar": "غيّر محيطك لدقائق. كرسي آخر أو غرفة أخرى أو مشي قصير قد يتيح مساحة للاختيار."
+    }
+  },
+  {
+    "id": "nafs-impulses-05",
+    "category": "impulses",
+    "contexts": [
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Назови происходящее спокойно: «Я замечаю желание». Это наблюдение, а не приказ действовать.",
+      "en": "Name it calmly: “I notice an urge.” That is an observation, not an order to act.",
+      "tr": "Sakince adlandır: “Bir dürtü fark ediyorum.” Bu bir gözlem, harekete geçme emri değil.",
+      "ar": "سمِّ ما يحدث بهدوء: «ألاحظ رغبة». هذه ملاحظة، وليست أمرًا بالتصرف."
+    }
+  },
+  {
+    "id": "nafs-impulses-06",
+    "category": "impulses",
+    "contexts": [
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Верни себе короткий промежуток времени. Решение можно отложить, пока ты сделаешь несколько спокойных вдохов.",
+      "en": "Give yourself a little time. A decision can wait while you take a few comfortable breaths.",
+      "tr": "Kendine kısa bir zaman tanı. Birkaç rahat nefes alırken karar bekleyebilir.",
+      "ar": "امنح نفسك قليلًا من الوقت. يمكن للقرار أن ينتظر بينما تتنفس براحة بضع مرات."
+    }
+  },
+  {
+    "id": "nafs-impulses-07",
+    "category": "impulses",
+    "contexts": [
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Проверь простые потребности: усталость, голод, одиночество. Выбери доступный способ позаботиться об одной из них.",
+      "en": "Check basic needs: tiredness, hunger, loneliness. Choose an available way to care for one.",
+      "tr": "Temel ihtiyaçlarına bak: yorgunluk, açlık, yalnızlık. Birine bakım vermenin ulaşılabilir yolunu seç.",
+      "ar": "تفقد احتياجاتك البسيطة: التعب أو الجوع أو الوحدة. اختر طريقة متاحة للاعتناء بواحد منها."
+    }
+  },
+  {
+    "id": "nafs-impulses-08",
+    "category": "impulses",
+    "contexts": [
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сильный импульс не отменяет твоих намерений. Сейчас можно сделать паузу и защитить выбранную границу.",
+      "en": "A strong impulse does not erase your intentions. You can pause and protect your chosen boundary.",
+      "tr": "Güçlü bir dürtü niyetlerini silmez. Duraklayabilir ve seçtiğin sınırı koruyabilirsin.",
+      "ar": "الدافع القوي لا يمحو نواياك. يمكنك التوقف قليلًا وحماية الحد الذي اخترته."
+    }
+  },
+  {
+    "id": "nafs-impulses-09",
+    "category": "impulses",
+    "contexts": [
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Убери ближайший источник соблазна из поля зрения. Не как наказание, а как помощь следующему решению.",
+      "en": "Move the nearest temptation out of sight. Treat it as support for your next decision, not punishment.",
+      "tr": "En yakın tetikleyiciyi göz önünden kaldır. Bunu ceza değil, sıradaki kararına destek olarak gör.",
+      "ar": "أبعد أقرب محفز عن نظرك. اجعل ذلك دعمًا لقرارك التالي، لا عقابًا."
+    }
+  },
+  {
+    "id": "nafs-impulses-10",
+    "category": "impulses",
+    "contexts": [
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбери замену заранее: вода, прогулка, разговор или небольшое дело. Пусть у паузы будет продолжение.",
+      "en": "Choose an alternative: water, a walk, a conversation, or a small task. Give the pause a next step.",
+      "tr": "Bir alternatif seç: su, yürüyüş, sohbet ya da küçük bir iş. Molanın ardından bir adım olsun.",
+      "ar": "اختر بديلًا: ماء أو مشي أو حديث أو عمل صغير. اجعل للتوقف خطوة تليه."
+    }
+  },
+  {
+    "id": "nafs-impulses-11",
+    "category": "impulses",
+    "contexts": [
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Тебе не нужно объяснять кому-то подробности, чтобы попросить побыть рядом в трудную минуту.",
+      "en": "You need not explain every detail to ask someone to be there in a difficult moment.",
+      "tr": "Zor bir anda birinden yanında olmasını istemek için tüm ayrıntıları anlatman gerekmez.",
+      "ar": "لست مضطرًا لشرح كل التفاصيل كي تطلب من شخص أن يكون إلى جانبك في لحظة صعبة."
+    }
+  },
+  {
+    "id": "nafs-impulses-12",
+    "category": "impulses",
+    "contexts": [
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сохрани право выбирать заново. Даже если мысль вернулась, твой следующий поступок ещё открыт.",
+      "en": "Keep the right to choose again. Even if a thought returns, your next action is still open.",
+      "tr": "Yeniden seçme hakkını koru. Düşünce geri gelse bile sıradaki davranışın hâlâ açık.",
+      "ar": "احتفظ بحقك في الاختيار من جديد. حتى إن عادت الفكرة، ما زال فعلك التالي مفتوحًا."
+    }
+  },
+  {
+    "id": "nafs-resilience-01",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Трудный день не требует героизма. Выбери посильное действие и оставь место восстановлению.",
+      "en": "A hard day does not demand heroics. Choose a manageable action and leave room to recover.",
+      "tr": "Zor bir gün kahramanlık gerektirmez. Yapılabilir bir adım seç ve toparlanmaya alan bırak.",
+      "ar": "اليوم الصعب لا يطلب بطولة. اختر فعلًا في استطاعتك واترك مساحة للتعافي."
+    }
+  },
+  {
+    "id": "nafs-resilience-02",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Стойкость иногда означает уменьшить нагрузку, чтобы не бросить заботу о себе совсем.",
+      "en": "Resilience sometimes means reducing the load so you do not abandon care for yourself.",
+      "tr": "Dayanıklılık bazen kendine bakmayı tamamen bırakmamak için yükü azaltmaktır.",
+      "ar": "تعني المرونة أحيانًا تخفيف الحمل كي لا تتخلى عن العناية بنفسك تمامًا."
+    }
+  },
+  {
+    "id": "nafs-resilience-03",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не измеряй всю жизнь сегодняшним настроением. Сейчас перед тобой только ближайший шаг.",
+      "en": "Do not measure your whole life by today's mood. Right now, only the next step is in front of you.",
+      "tr": "Bütün hayatını bugünkü ruh halinle ölçme. Şu an önünde yalnızca sıradaki adım var.",
+      "ar": "لا تقس حياتك كلها بمزاج اليوم. أمامك الآن الخطوة الأقرب فقط."
+    }
+  },
+  {
+    "id": "nafs-resilience-04",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Можно признать, что тяжело, и всё же выбрать бережное действие. Честность не мешает движению.",
+      "en": "You can admit it is hard and still choose a caring action. Honesty does not prevent movement.",
+      "tr": "Zor olduğunu kabul edip yine de kendine iyi gelen bir adım seçebilirsin. Dürüstlük ilerlemeye engel değildir.",
+      "ar": "يمكنك الإقرار بالصعوبة واختيار فعل رحيم بنفسك مع ذلك. الصدق لا يمنع التقدم."
+    }
+  },
+  {
+    "id": "nafs-resilience-05",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Дай себе опору: ровное дыхание, стакан воды, разговор. Решения не обязаны приниматься на пике напряжения.",
+      "en": "Find support: comfortable breathing, water, a conversation. Decisions need not happen at peak tension.",
+      "tr": "Kendine destek bul: rahat nefes, su, bir sohbet. Kararların gerilimin zirvesinde verilmesi gerekmez.",
+      "ar": "ابحث عن سند: تنفس مريح أو ماء أو حديث. لا يلزم اتخاذ القرارات في ذروة التوتر."
+    }
+  },
+  {
+    "id": "nafs-resilience-06",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не всё можно контролировать. Выбери небольшой участок, где твоё действие действительно имеет значение.",
+      "en": "Not everything is controllable. Choose a small area where your action can matter.",
+      "tr": "Her şey kontrol edilemez. Davranışının gerçekten etkili olabileceği küçük bir alan seç.",
+      "ar": "لا يمكن التحكم في كل شيء. اختر مجالًا صغيرًا يمكن لفعلك أن يؤثر فيه."
+    }
+  },
+  {
+    "id": "nafs-resilience-07",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пауза не делает тебя слабее. Иногда она помогает различить срочное чувство и важное решение.",
+      "en": "A pause does not make you weaker. It can help separate an urgent feeling from an important decision.",
+      "tr": "Duraklamak seni zayıflatmaz. Acil bir duygu ile önemli bir kararı ayırmana yardımcı olabilir.",
+      "ar": "التوقف لا يجعلك أضعف. قد يساعدك على فصل شعور ملحّ عن قرار مهم."
+    }
+  },
+  {
+    "id": "nafs-resilience-08",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ты не обязан справляться в одиночку. Поддержка — тоже часть практичного плана.",
+      "en": "You do not have to manage alone. Support belongs in a practical plan too.",
+      "tr": "Tek başına başa çıkmak zorunda değilsin. Destek de gerçekçi bir planın parçasıdır.",
+      "ar": "لست مضطرًا للتعامل مع كل شيء وحدك. الدعم أيضًا جزء من خطة عملية."
+    }
+  },
+  {
+    "id": "nafs-resilience-09",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Усталость — повод пересмотреть объём, а не выносить приговор своему характеру.",
+      "en": "Tiredness is a reason to reconsider the load, not judge your character.",
+      "tr": "Yorgunluk yükü yeniden değerlendirme nedenidir, karakterini yargılama nedeni değil.",
+      "ar": "التعب سبب لمراجعة حجم الحمل، لا للحكم على شخصيتك."
+    }
+  },
+  {
+    "id": "nafs-resilience-10",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сделай пространство вокруг чуть спокойнее. Начать можно с одного звука, экрана или предмета.",
+      "en": "Make your surroundings a little calmer. Start with one sound, screen, or object.",
+      "tr": "Çevreni biraz sakinleştir. Bir ses, ekran ya da eşyayla başlayabilirsin.",
+      "ar": "اجعل محيطك أهدأ قليلًا. ابدأ بصوت واحد أو شاشة أو غرض."
+    }
+  },
+  {
+    "id": "nafs-resilience-11",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если сегодня трудно идти быстро, выбери направление. Скорость можно пересмотреть позже.",
+      "en": "If moving fast is hard today, choose a direction. Speed can be reconsidered later.",
+      "tr": "Bugün hızlı ilerlemek zorsa yönünü seç. Hızını sonra yeniden değerlendirebilirsin.",
+      "ar": "إذا صعب الإسراع اليوم، فاختر اتجاهًا. يمكنك مراجعة السرعة لاحقًا."
+    }
+  },
+  {
+    "id": "nafs-resilience-12",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Оставь место чувствам, но не отдавай им весь план. Одно спокойное решение всё ещё возможно.",
+      "en": "Make room for feelings without giving them the whole plan. One calm decision may still be possible.",
+      "tr": "Duygulara yer aç ama bütün planı onlara bırakma. Sakin bir karar hâlâ mümkün olabilir.",
+      "ar": "اترك مكانًا للمشاعر دون أن تسلمها الخطة كلها. قد يظل قرار هادئ واحد ممكنًا."
+    }
+  },
+  {
+    "id": "nafs-responsibility-01",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ответственность начинается с честного выбора того, что ты можешь сделать сегодня.",
+      "en": "Responsibility begins with an honest choice about what you can do today.",
+      "tr": "Sorumluluk bugün ne yapabileceğin konusunda dürüst bir seçimle başlar.",
+      "ar": "تبدأ المسؤولية باختيار صادق لما تستطيع فعله اليوم."
+    }
+  },
+  {
+    "id": "nafs-responsibility-02",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ты не выбирал все обстоятельства, но можешь участвовать в следующем решении.",
+      "en": "You did not choose every circumstance, but you can take part in the next decision.",
+      "tr": "Her koşulu sen seçmedin ama sıradaki kararda söz sahibi olabilirsin.",
+      "ar": "لم تختر كل الظروف، لكن يمكنك المشاركة في القرار التالي."
+    }
+  },
+  {
+    "id": "nafs-responsibility-03",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Проверь, совпадает ли список дел с тем, что для тебя важно. Занятость сама по себе не задаёт направление.",
+      "en": "Check whether your task list matches what matters to you. Being busy alone gives no direction.",
+      "tr": "Yapılacaklar listenin değer verdiklerinle örtüşüp örtüşmediğine bak. Meşgul olmak tek başına yön vermez.",
+      "ar": "تحقق من توافق قائمتك مع ما يهمك. الانشغال وحده لا يحدد الاتجاه."
+    }
+  },
+  {
+    "id": "nafs-responsibility-04",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Скажи одному лишнему делу «не сейчас», чтобы оставить место выбранному обязательству.",
+      "en": "Say “not now” to one extra demand to make room for a commitment you chose.",
+      "tr": "Seçtiğin sorumluluğa yer açmak için fazladan bir işe “şimdi değil” de.",
+      "ar": "قل «ليس الآن» لطلب زائد واحد لتفسح مجالًا لالتزام اخترته."
+    }
+  },
+  {
+    "id": "nafs-responsibility-05",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Признавать ограничения — часть ответственного плана. План должен помогать, а не обвинять.",
+      "en": "Acknowledging limits is part of a responsible plan. A plan should help, not accuse.",
+      "tr": "Sınırları kabul etmek sorumlu bir planın parçasıdır. Plan suçlamak için değil, yardım etmek içindir.",
+      "ar": "الاعتراف بالحدود جزء من خطة مسؤولة. ينبغي للخطة أن تساعد، لا أن تتهم."
+    }
+  },
+  {
+    "id": "nafs-responsibility-06",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбери действие, за которое сможешь отвечать без оправданий и без самоунижения.",
+      "en": "Choose an action you can own without excuses or self-belittling.",
+      "tr": "Mazeretsiz ve kendini küçümsemeden sahiplenebileceğin bir adım seç.",
+      "ar": "اختر فعلًا يمكنك تحمل مسؤوليته بلا أعذار ولا انتقاص من نفسك."
+    }
+  },
+  {
+    "id": "nafs-responsibility-07",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не жди, что настроение расставит приоритеты. Выдели главное и защити для него немного времени.",
+      "en": "Do not wait for your mood to set priorities. Name what matters and protect some time for it.",
+      "tr": "Önceliklerini ruh halinin belirlemesini bekleme. Önemli olanı seç ve ona biraz zaman ayır.",
+      "ar": "لا تنتظر من المزاج ترتيب الأولويات. حدد المهم واحمِ له بعض الوقت."
+    }
+  },
+  {
+    "id": "nafs-responsibility-08",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Будь точен с обещаниями. Лучше посильное обязательство, чем красивое обещание без места в расписании.",
+      "en": "Be precise with promises. A manageable commitment beats a fine promise with no place in your schedule.",
+      "tr": "Sözlerinde net ol. Programında yeri olmayan güzel bir sözden, yapılabilir bir taahhüt daha iyidir.",
+      "ar": "كن دقيقًا في وعودك. التزام ممكن خير من وعد جميل لا مكان له في جدولك."
+    }
+  },
+  {
+    "id": "nafs-responsibility-09",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Спроси себя: какое решение сегодня поможет завтрашнему мне? Затем выбери одно.",
+      "en": "Ask: which decision today would help tomorrow's me? Then choose one.",
+      "tr": "Kendine sor: bugünkü hangi karar yarınki bana yardımcı olur? Sonra birini seç.",
+      "ar": "اسأل نفسك: أي قرار اليوم يساعدني غدًا؟ ثم اختر واحدًا."
+    }
+  },
+  {
+    "id": "nafs-responsibility-10",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Можно изменить план, не отказываясь от ценности, ради которой он появился.",
+      "en": "You can change a plan without giving up the value that inspired it.",
+      "tr": "Planını, ona ilham veren değerden vazgeçmeden değiştirebilirsin.",
+      "ar": "يمكنك تغيير الخطة دون التخلي عن القيمة التي ألهمتها."
+    }
+  },
+  {
+    "id": "nafs-responsibility-11",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть твои границы будут понятны прежде всего тебе. Запиши, что ты выбираешь и почему.",
+      "en": "Let your boundaries be clear to you first. Write what you choose and why.",
+      "tr": "Sınırların önce senin için açık olsun. Neyi, neden seçtiğini yaz.",
+      "ar": "لتكن حدودك واضحة لك أولًا. اكتب ما تختاره ولماذا."
+    }
+  },
+  {
+    "id": "nafs-responsibility-12",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Оставь сегодня немного времени без чужих требований. В нём легче услышать собственное намерение.",
+      "en": "Leave a little time free of others' demands today. It may help you hear your own intention.",
+      "tr": "Bugün başkalarının taleplerinden uzak biraz zaman bırak. Kendi niyetini duymak kolaylaşabilir.",
+      "ar": "اترك اليوم وقتًا قليلًا بعيدًا عن مطالب الآخرين. قد يساعدك على سماع نيتك الخاصة."
+    }
+  },
+  {
+    "id": "nafs-habits-01",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Привяжи новую привычку к знакомому моменту дня. У начала появится свой ориентир.",
+      "en": "Attach a new habit to a familiar moment in your day. Give its beginning a cue.",
+      "tr": "Yeni alışkanlığı günün tanıdık bir anına bağla. Başlangıcın bir işareti olsun.",
+      "ar": "اربط عادة جديدة بلحظة مألوفة في يومك. امنح بدايتها إشارة."
+    }
+  },
+  {
+    "id": "nafs-habits-02",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Подготовь минимальную версию привычки: одну страницу, одну запись, одну короткую прогулку.",
+      "en": "Prepare a minimum version of your habit: one page, one note, one short walk.",
+      "tr": "Alışkanlığının en küçük sürümünü hazırla: bir sayfa, bir not, kısa bir yürüyüş.",
+      "ar": "جهز أصغر نسخة من عادتك: صفحة أو ملاحظة أو مشي قصير."
+    }
+  },
+  {
+    "id": "nafs-habits-03",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Хорошая привычка должна быть доступна и в обычный день. Начни с реалистичного объёма.",
+      "en": "A useful habit should fit an ordinary day too. Start with a realistic amount.",
+      "tr": "Yararlı alışkanlık sıradan bir güne de sığmalı. Gerçekçi bir miktarla başla.",
+      "ar": "ينبغي للعادة النافعة أن تناسب يومًا عاديًا أيضًا. ابدأ بقدر واقعي."
+    }
+  },
+  {
+    "id": "nafs-habits-04",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Замечай условия, в которых повторять проще. Их можно сохранить, даже когда вдохновение меняется.",
+      "en": "Notice the conditions that make repetition easier. Keep them even when inspiration changes.",
+      "tr": "Tekrarı kolaylaştıran koşulları fark et. İlham değişse de onları koruyabilirsin.",
+      "ar": "لاحظ الظروف التي تسهل التكرار. يمكنك الحفاظ عليها حتى حين يتغير الحماس."
+    }
+  },
+  {
+    "id": "nafs-habits-05",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть привычка оставляет после себя понятный след: запись, убранную вещь или прочитанную страницу.",
+      "en": "Let your habit leave a clear trace: a note, an item put away, or a page read.",
+      "tr": "Alışkanlığın net bir iz bıraksın: not, yerine konmuş eşya ya da okunmuş sayfa.",
+      "ar": "دع عادتك تترك أثرًا واضحًا: ملاحظة أو غرضًا مرتبًا أو صفحة مقروءة."
+    }
+  },
+  {
+    "id": "nafs-habits-06",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не увеличивай всё сразу. Сначала проверь, подходит ли тебе нынешний ритм.",
+      "en": "Do not increase everything at once. First check whether the current rhythm suits you.",
+      "tr": "Her şeyi birden artırma. Önce mevcut ritmin sana uyup uymadığına bak.",
+      "ar": "لا تزد كل شيء دفعة واحدة. تحقق أولًا من ملاءمة الإيقاع الحالي لك."
+    }
+  },
+  {
+    "id": "nafs-habits-07",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если привычка постоянно не помещается в день, меняй её размер или место, а не отношение к себе.",
+      "en": "If a habit never fits the day, change its size or timing, not your regard for yourself.",
+      "tr": "Alışkanlık güne sürekli sığmıyorsa kendine bakışını değil, boyutunu ya da zamanını değiştir.",
+      "ar": "إذا لم تجد العادة مكانًا في يومك مرارًا، غيّر حجمها أو توقيتها، لا تقديرك لنفسك."
+    }
+  },
+  {
+    "id": "nafs-habits-08",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Оставь нужный инструмент готовым. Завтрашнее действие начинается с сегодняшней подготовки.",
+      "en": "Leave the tool you need ready. Tomorrow's action begins with today's preparation.",
+      "tr": "Gerekli aracı hazır bırak. Yarınki eylem bugünkü hazırlıkla başlar.",
+      "ar": "اترك الأداة التي تحتاجها جاهزة. يبدأ فعل الغد بتحضير اليوم."
+    }
+  },
+  {
+    "id": "nafs-habits-09",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Записывай факты, а не оценки себя. «Прочитал две страницы» полезнее, чем «сделал мало».",
+      "en": "Record facts, not verdicts on yourself. “Read two pages” is more useful than “did too little.”",
+      "tr": "Kendin hakkında hüküm değil, gerçekleri kaydet. “İki sayfa okudum”, “az yaptım”dan daha yararlıdır.",
+      "ar": "سجل الوقائع لا الأحكام على نفسك. «قرأت صفحتين» أنفع من «فعلت القليل»."
+    }
+  },
+  {
+    "id": "nafs-habits-10",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Добавь приятную деталь к полезному действию: удобное место, тишину или любимую чашку.",
+      "en": "Add a pleasant detail to a useful action: a comfortable spot, quiet, or a favorite cup.",
+      "tr": "Yararlı davranışa hoş bir ayrıntı ekle: rahat bir yer, sessizlik ya da sevdiğin fincan.",
+      "ar": "أضف تفصيلًا مريحًا إلى الفعل النافع: مكانًا مناسبًا أو هدوءًا أو كوبًا تحبه."
+    }
+  },
+  {
+    "id": "nafs-habits-11",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбирай частоту, которую можно проверить опытом. Через неделю план разрешено скорректировать.",
+      "en": "Choose a frequency you can test in practice. You are allowed to adjust the plan after a week.",
+      "tr": "Deneyerek sınayabileceğin bir sıklık seç. Bir hafta sonra planı değiştirebilirsin.",
+      "ar": "اختر وتيرة يمكنك اختبارها عمليًا. يحق لك تعديل الخطة بعد أسبوع."
+    }
+  },
+  {
+    "id": "nafs-habits-12",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Привычка служит твоей жизни. Если цель изменилась, можно осознанно изменить и привычку.",
+      "en": "A habit serves your life. If the goal changes, you can deliberately change the habit too.",
+      "tr": "Alışkanlık hayatına hizmet eder. Hedef değiştiyse alışkanlığı da bilinçli olarak değiştirebilirsin.",
+      "ar": "العادة تخدم حياتك. إذا تغير الهدف، يمكنك تغيير العادة بوعي أيضًا."
+    }
+  },
+  {
+    "id": "nafs-recovery-01",
+    "category": "recovery",
+    "contexts": [
+      "setback",
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Один срыв не описывает тебя целиком. Сейчас важнее безопасный и посильный следующий шаг.",
+      "en": "One setback does not describe all of you. A safe, manageable next step matters more now.",
+      "tr": "Bir aksama seni bütünüyle tanımlamaz. Şimdi güvenli ve yapılabilir bir sonraki adım daha önemli.",
+      "ar": "تعثّر واحد لا يصفك بالكامل. الأهم الآن خطوة تالية آمنة وممكنة."
+    }
+  },
+  {
+    "id": "nafs-recovery-02",
+    "category": "recovery",
+    "contexts": [
+      "setback",
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не превращай разбор ошибки в наказание. Найди одно условие, которое стоит изменить.",
+      "en": "Do not turn reviewing a mistake into punishment. Find one condition worth changing.",
+      "tr": "Hatayı incelemeyi cezaya dönüştürme. Değiştirmeye değer bir koşul bul.",
+      "ar": "لا تحول مراجعة الخطأ إلى عقاب. ابحث عن ظرف واحد يستحق التغيير."
+    }
+  },
+  {
+    "id": "nafs-recovery-03",
+    "category": "recovery",
+    "contexts": [
+      "setback",
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Возвращение может начаться без громкой клятвы. Достаточно нового небольшого решения.",
+      "en": "Returning can begin without a grand vow. A new small decision is enough.",
+      "tr": "Geri dönüş büyük bir yemin olmadan başlayabilir. Yeni ve küçük bir karar yeterlidir.",
+      "ar": "يمكن أن تبدأ العودة دون عهد كبير. يكفي قرار صغير جديد."
+    }
+  },
+  {
+    "id": "nafs-recovery-04",
+    "category": "recovery",
+    "contexts": [
+      "setback",
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сохрани сделанное раньше. Сегодняшняя трудность не переписывает все предыдущие усилия.",
+      "en": "Keep what you did before. Today's difficulty does not rewrite all your earlier effort.",
+      "tr": "Önceden yaptıklarını koru. Bugünün zorluğu geçmişteki tüm emeğini yeniden yazmaz.",
+      "ar": "احتفظ بما أنجزته من قبل. صعوبة اليوم لا تعيد كتابة جهودك السابقة كلها."
+    }
+  },
+  {
+    "id": "nafs-recovery-05",
+    "category": "recovery",
+    "contexts": [
+      "setback",
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Спроси не «что со мной не так», а «какой поддержки мне не хватило». Это вопрос для плана, не для суда.",
+      "en": "Ask “what support was missing?” rather than “what is wrong with me?” This is planning, not a trial.",
+      "tr": "“Bende ne yanlış?” yerine “hangi destek eksikti?” diye sor. Bu bir planlama, yargılama değil.",
+      "ar": "اسأل «أي دعم كان ينقصني؟» بدل «ما الخلل فيّ؟». هذا تخطيط، لا محاكمة."
+    }
+  },
+  {
+    "id": "nafs-recovery-06",
+    "category": "recovery",
+    "contexts": [
+      "setback",
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не компенсируй пропуск изнурением. Вернись к разумному объёму и проверь, как ты себя чувствуешь.",
+      "en": "Do not compensate for a missed day with exhaustion. Return to a reasonable amount and check how you feel.",
+      "tr": "Kaçırdığın günü tükenerek telafi etme. Makul bir miktara dön ve nasıl hissettiğine bak.",
+      "ar": "لا تعوض يومًا فات بالإرهاق. عد إلى قدر معقول وتفقد شعورك."
+    }
+  },
+  {
+    "id": "nafs-recovery-07",
+    "category": "recovery",
+    "contexts": [
+      "setback",
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Можно сожалеть о поступке и говорить с собой уважительно. Одно не отменяет другого.",
+      "en": "You can regret an action and still speak to yourself respectfully. Both can be true.",
+      "tr": "Bir davranışa üzülüp kendinle saygılı konuşabilirsin. İkisi bir arada olabilir.",
+      "ar": "يمكنك الندم على فعل مع مخاطبة نفسك باحترام. الأمران لا يتعارضان."
+    }
+  },
+  {
+    "id": "nafs-recovery-08",
+    "category": "recovery",
+    "contexts": [
+      "setback",
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сделай возвращение проще: убери одну помеху, сократи задачу или попроси помощи.",
+      "en": "Make returning easier: remove a barrier, shrink the task, or ask for help.",
+      "tr": "Geri dönüşü kolaylaştır: bir engeli kaldır, işi küçült ya da yardım iste.",
+      "ar": "سهّل العودة: أزل عائقًا أو صغّر المهمة أو اطلب المساعدة."
+    }
+  },
+  {
+    "id": "nafs-recovery-09",
+    "category": "recovery",
+    "contexts": [
+      "setback",
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пропущенная отметка — информация о дне, а не оценка твоего достоинства.",
+      "en": "A missing checkmark is information about a day, not a measure of your worth.",
+      "tr": "Eksik bir işaret gün hakkında bilgidir, değerinin ölçüsü değil.",
+      "ar": "العلامة الناقصة معلومة عن يوم، وليست مقياسًا لقيمتك."
+    }
+  },
+  {
+    "id": "nafs-recovery-10",
+    "category": "recovery",
+    "contexts": [
+      "setback",
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "План после трудного момента должен помогать жить дальше. Выбери заботу, ясность и одну границу.",
+      "en": "A plan after a hard moment should help life continue. Choose care, clarity, and one boundary.",
+      "tr": "Zor bir anın ardından planın yaşamı sürdürmene yardım etmeli. Bakım, netlik ve bir sınır seç.",
+      "ar": "ينبغي لخطة ما بعد اللحظة الصعبة أن تساعدك على المتابعة. اختر العناية والوضوح وحدًا واحدًا."
+    }
+  },
+  {
+    "id": "nafs-recovery-11",
+    "category": "recovery",
+    "contexts": [
+      "setback",
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если похожая ситуация повторяется, это повод изменить условия и поискать поддержку, а не усиливать стыд.",
+      "en": "If a situation repeats, consider changing conditions and seeking support rather than adding shame.",
+      "tr": "Benzer durum tekrarlanıyorsa utancı artırmak yerine koşulları değiştirmeyi ve destek aramayı düşün.",
+      "ar": "إذا تكرر الموقف، فكر في تغيير الظروف وطلب الدعم بدل زيادة الخجل."
+    }
+  },
+  {
+    "id": "nafs-recovery-12",
+    "category": "recovery",
+    "contexts": [
+      "setback",
+      "sos",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сегодня можно продолжить с того места, где ты есть. Не нужно сначала становиться идеальной версией себя.",
+      "en": "You can continue from where you are today. You need not become an ideal self first.",
+      "tr": "Bugün olduğun yerden devam edebilirsin. Önce kusursuz birine dönüşmen gerekmez.",
+      "ar": "يمكنك المتابعة من حيث أنت اليوم. لا تحتاج أولًا إلى أن تصبح نسخة مثالية من نفسك."
+    }
+  },
+  {
+    "id": "nafs-growth-01",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбирай шаг, который захочется повторить через месяц. Устойчивый путь учитывает твою жизнь.",
+      "en": "Choose a step you could repeat a month from now. A lasting path makes room for your life.",
+      "tr": "Bir ay sonra da tekrarlayabileceğin adımı seç. Sürdürülebilir yol hayatını hesaba katar.",
+      "ar": "اختر خطوة يمكنك تكرارها بعد شهر. الطريق المستدام يراعي حياتك."
+    }
+  },
+  {
+    "id": "nafs-growth-02",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Развитие не всегда заметно за день. Смотри на реальные записи, а не на обещание мгновенной перемены.",
+      "en": "Growth is not always visible in a day. Look at real records, not promises of instant change.",
+      "tr": "Gelişim bir günde görünmeyebilir. Anlık değişim vaatlerine değil, gerçek kayıtlara bak.",
+      "ar": "لا يظهر النمو دائمًا في يوم. انظر إلى السجلات الفعلية، لا إلى وعود التغير الفوري."
+    }
+  },
+  {
+    "id": "nafs-growth-03",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Оставь место пересмотру целей. Осознанный путь допускает новые знания о себе.",
+      "en": "Leave room to revise goals. A deliberate path allows new knowledge about yourself.",
+      "tr": "Hedeflerini gözden geçirmeye alan bırak. Bilinçli bir yol kendinle ilgili yeni bilgilere açıktır.",
+      "ar": "اترك مجالًا لمراجعة الأهداف. الطريق الواعي يتسع لمعرفة جديدة عن نفسك."
+    }
+  },
+  {
+    "id": "nafs-growth-04",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не обязательно расти во всех направлениях сразу. Одной выбранной области достаточно для начала.",
+      "en": "You need not grow in every direction at once. One chosen area is enough to begin.",
+      "tr": "Her yönde aynı anda gelişmen gerekmez. Başlamak için seçilmiş tek bir alan yeterli.",
+      "ar": "لا تحتاج إلى النمو في كل اتجاه دفعة واحدة. مجال واحد تختاره يكفي للبداية."
+    }
+  },
+  {
+    "id": "nafs-growth-05",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Подумай, что хочешь сохранить в своей жизни, а не только исправить. Развитие может начинаться с опоры.",
+      "en": "Consider what you want to keep, not just fix. Growth can begin with what already supports you.",
+      "tr": "Yalnızca düzeltmek değil, hayatında neyi korumak istediğini de düşün. Gelişim mevcut dayanaklarından başlayabilir.",
+      "ar": "فكر فيما تريد الحفاظ عليه في حياتك، لا فيما تريد إصلاحه فقط. قد يبدأ النمو بما يسندك بالفعل."
+    }
+  },
+  {
+    "id": "nafs-growth-06",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Завтрашнему тебе пригодится не идеальный отчёт, а понятный следующий шаг.",
+      "en": "Tomorrow's you needs a clear next step more than a perfect report.",
+      "tr": "Yarınki sana kusursuz bir rapordan çok net bir sonraki adım yarar sağlar.",
+      "ar": "ما يفيدك غدًا خطوة تالية واضحة أكثر من تقرير مثالي."
+    }
+  },
+  {
+    "id": "nafs-growth-07-v2",
+    "category": "growth",
+    "contexts": [
+      "marathon",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Из каждой завершённой практики можно взять что-то дальше: удобное время, ясный шаг или способ возвращения.",
+      "en": "Each completed practice can leave something to carry forward: a useful time, a clear step, or a way back.",
+      "tr": "Tamamlanan her uygulama ileriye bir şey bırakabilir: uygun zaman, net adım veya dönüş yolu.",
+      "ar": "قد تترك كل ممارسة مكتملة شيئًا تواصله: وقتًا مناسبًا أو خطوة واضحة أو طريقًا للعودة."
+    }
+  },
+  {
+    "id": "nafs-growth-08-v2",
+    "category": "growth",
+    "contexts": [
+      "marathon",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Продолжение пути может быть спокойнее и точнее первого плана. Опыт позволяет менять способ.",
+      "en": "The next chapter can be calmer and more precise than the first plan. Experience allows a different approach.",
+      "tr": "Yolun devamı ilk plandan daha sakin ve net olabilir. Deneyim yöntemi değiştirmeye izin verir.",
+      "ar": "قد تكون المرحلة التالية أهدأ وأوضح من الخطة الأولى. تتيح التجربة تغيير الطريقة."
+    }
+  },
+  {
+    "id": "nafs-growth-09-v2",
+    "category": "growth",
+    "contexts": [
+      "marathon",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "В конце этапа оглянись на опыт: что оказалось посильным и что стоит изменить?",
+      "en": "At the end of a chapter, review the experience: what was manageable and what needs changing?",
+      "tr": "Aşamanın sonunda deneyime bak: ne yapılabilirdi, ne değişmeli?",
+      "ar": "في نهاية المرحلة راجع التجربة: ما الذي كان ممكنًا وما الذي يحتاج إلى تغيير؟"
+    }
+  },
+  {
+    "id": "nafs-growth-10-v2",
+    "category": "growth",
+    "contexts": [
+      "marathon",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Завершение программы не обязывает немедленно повышать планку. Сначала выбери подходящий ритм продолжения.",
+      "en": "Finishing a program does not oblige you to raise the bar immediately. First choose a suitable rhythm to continue.",
+      "tr": "Programı bitirmek hemen çıtayı yükseltmeyi gerektirmez. Önce devam için uygun ritmi seç.",
+      "ar": "إتمام البرنامج لا يلزمك برفع السقف فورًا. اختر أولًا إيقاعًا مناسبًا للمتابعة."
+    }
+  },
+  {
+    "id": "nafs-growth-11-v2",
+    "category": "growth",
+    "contexts": [
+      "marathon",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сохраняй полезные условия и разрешай себе отказываться от способов, которые не подошли.",
+      "en": "Keep useful conditions and allow yourself to leave behind approaches that did not fit.",
+      "tr": "Yararlı koşulları koru, uymayan yöntemleri bırakmana izin ver.",
+      "ar": "احتفظ بالظروف النافعة واسمح لنفسك بترك الطرق التي لم تناسبك."
+    }
+  },
+  {
+    "id": "nafs-growth-12-v2",
+    "category": "growth",
+    "contexts": [
+      "marathon",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Завершение 21 дня не требует обещаний навсегда. Следующий период практики можно выбрать осознанно.",
+      "en": "Completing 21 days needs no forever promise. You can deliberately choose the next period of practice.",
+      "tr": "21 günü tamamlamak sonsuzluk sözü gerektirmez. Sonraki uygulama dönemini bilinçle seçebilirsin.",
+      "ar": "إكمال 21 يومًا لا يتطلب وعدًا للأبد. يمكنك اختيار فترة الممارسة التالية بوعي."
+    }
+  },
+  {
+    "id": "nafs-intention-01",
+    "category": "intention",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Терпение не отменяет действия. Обнови намерение и выбери один спокойный, посильный шаг.",
+      "en": "Patience does not rule out action. Renew your intention and choose one calm, manageable step.",
+      "tr": "Sabır eylemi dışlamaz. Niyetini tazele ve sakin, yapılabilir bir adım seç.",
+      "ar": "الصبر لا يلغي العمل. جدد نيتك واختر خطوة هادئة في استطاعتك."
+    }
+  },
+  {
+    "id": "nafs-intention-02",
+    "category": "intention",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть искреннее намерение отражается в небольшом поступке, о котором не обязательно кому-то знать.",
+      "en": "Let sincere intention take shape in a small action that nobody else needs to know about.",
+      "tr": "Samimi niyetin, başkasının bilmesi gerekmeyen küçük bir davranışta görünsün.",
+      "ar": "دع النية الصادقة تظهر في فعل صغير لا يلزم أن يعرفه أحد."
+    }
+  },
+  {
+    "id": "nafs-intention-03",
+    "category": "intention",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Благодарность можно выразить заботой: о себе, близком или пространстве вокруг.",
+      "en": "Gratitude can take the form of care for yourself, someone close, or your surroundings.",
+      "tr": "Şükür; kendine, yakınına ya da çevrene özen göstermekle ifade edilebilir.",
+      "ar": "يمكن التعبير عن الامتنان بالعناية بنفسك أو بقريب أو بمحيطك."
+    }
+  },
+  {
+    "id": "nafs-intention-04",
+    "category": "intention",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Хороший характер растёт и в тихих решениях: выслушать, не унизить, ответить честно.",
+      "en": "Good character also grows in quiet choices: listen, avoid humiliating, answer honestly.",
+      "tr": "Güzel ahlak sessiz seçimlerde de gelişir: dinlemek, aşağılamamak, dürüst cevap vermek.",
+      "ar": "تنمو الأخلاق الحسنة أيضًا في الخيارات الهادئة: أن تصغي وألا تهين وأن تجيب بصدق."
+    }
+  },
+  {
+    "id": "nafs-intention-05",
+    "category": "intention",
+    "contexts": [
+      "sos",
+      "setback",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "В трудный момент оставь место надежде и милосердию к себе. Затем выбери практическую помощь.",
+      "en": "In a difficult moment, leave room for hope and mercy toward yourself. Then choose practical support.",
+      "tr": "Zor bir anda umuda ve kendine merhamete yer aç. Ardından pratik bir destek seç.",
+      "ar": "اترك في اللحظة الصعبة مكانًا للأمل والرحمة بنفسك. ثم اختر مساعدة عملية."
+    }
+  },
+  {
+    "id": "nafs-intention-06",
+    "category": "intention",
+    "contexts": [
+      "sos",
+      "setback",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Твоя ответственность не требует жестокости к себе. Сохрани уважение к себе и к выбранной границе.",
+      "en": "Responsibility does not require cruelty toward yourself. Respect yourself and your chosen boundary.",
+      "tr": "Sorumluluk kendine acımasız olmayı gerektirmez. Kendine ve seçtiğin sınıra saygını koru.",
+      "ar": "المسؤولية لا تتطلب القسوة على نفسك. احترم نفسك والحد الذي اخترته."
+    }
+  },
+  {
+    "id": "nafs-intention-07",
+    "category": "intention",
+    "contexts": [
+      "sos",
+      "setback",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Искреннее возвращение начинается с ближайшего решения. Не превращай сожаление в отказ от надежды.",
+      "en": "A sincere return begins with the next decision. Do not turn regret into giving up hope.",
+      "tr": "Samimi dönüş sıradaki kararla başlar. Pişmanlığı umuttan vazgeçmeye dönüştürme.",
+      "ar": "تبدأ العودة الصادقة بالقرار الأقرب. لا تحول الندم إلى تخلي عن الأمل."
+    }
+  },
+  {
+    "id": "nafs-intention-08-v2",
+    "category": "intention",
+    "contexts": [
+      "sos",
+      "setback",
+      "today"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выдержка может проявиться в короткой паузе перед поступком. Подыши спокойно и выбери дальнейший шаг.",
+      "en": "Composure can take the form of a brief pause before acting. Breathe comfortably and choose your next step.",
+      "tr": "Soğukkanlılık, davranmadan önce kısa bir duraklamada görülebilir. Rahatça nefes al ve sonraki adımı seç.",
+      "ar": "قد يظهر التماسك في وقفة قصيرة قبل التصرف. تنفس براحة واختر خطوتك التالية."
+    }
+  },
+  {
+    "id": "nafs-year-001",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не отдавай утро случайности: выбери дело, ради которого стоит открыть день.",
+      "en": "Give your morning a direction: choose one task worth beginning with.",
+      "tr": "Sabahına yön ver: başlamaya değer bir iş seç.",
+      "ar": "امنح صباحك اتجاهًا: اختر عملًا يستحق أن تبدأ به."
+    }
+  },
+  {
+    "id": "nafs-year-002",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Решимость становится полезной, когда у неё появляются время и место в расписании.",
+      "en": "Resolve becomes useful when it has a time and place in your schedule.",
+      "tr": "Kararlılık, programında zamanı ve yeri olduğunda işe yarar.",
+      "ar": "يصبح العزم نافعًا حين يجد وقتًا ومكانًا في جدولك."
+    }
+  },
+  {
+    "id": "nafs-year-003",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Закончи подготовку в тот момент, когда она начинает заменять само действие.",
+      "en": "Stop preparing when preparation starts replacing action itself.",
+      "tr": "Hazırlık eylemin yerini almaya başladığında hazırlığı bitir.",
+      "ar": "أنه التحضير حين يبدأ في الحلول محل الفعل نفسه."
+    }
+  },
+  {
+    "id": "nafs-year-004",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Уважай свой план достаточно, чтобы проверить его делом, а не только обсуждением.",
+      "en": "Respect your plan enough to test it in action, not only discussion.",
+      "tr": "Planına, onu yalnız konuşarak değil uygulayarak sınayacak kadar değer ver.",
+      "ar": "احترم خطتك بما يكفي لاختبارها بالفعل، لا بالنقاش وحده."
+    }
+  },
+  {
+    "id": "nafs-year-005",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сегодня не нужно доказывать силу характера. Достаточно выполнить одно ясное обещание.",
+      "en": "You need not prove your strength today. Keep one clear promise.",
+      "tr": "Bugün karakterinin gücünü kanıtlaman gerekmez. Net bir sözünü tut.",
+      "ar": "لا تحتاج اليوم إلى إثبات قوتك. يكفي أن تفي بوعد واضح."
+    }
+  },
+  {
+    "id": "nafs-year-006",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Порядок начинается там, где важное получает место раньше срочного шума.",
+      "en": "Order begins when what matters gets space before the urgent noise.",
+      "tr": "Düzen, önemli olana acil gürültüden önce yer açıldığında başlar.",
+      "ar": "يبدأ النظام حين يأخذ المهم مكانه قبل ضجيج الاستعجال."
+    }
+  },
+  {
+    "id": "nafs-year-007",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбери момент остановки так же осознанно, как выбираешь момент начала.",
+      "en": "Choose when to stop as deliberately as you choose when to begin.",
+      "tr": "Ne zaman duracağını da ne zaman başlayacağın kadar bilinçli seç.",
+      "ar": "اختر وقت التوقف بوعي يماثل وعيك باختيار وقت البدء."
+    }
+  },
+  {
+    "id": "nafs-year-008",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Режим, который держится только на напряжении, заслуживает пересмотра.",
+      "en": "A routine held together only by strain deserves reconsideration.",
+      "tr": "Yalnızca gerilimle sürdürülen bir düzen yeniden düşünülmeyi hak eder.",
+      "ar": "الروتين الذي لا يستمر إلا بالتوتر يستحق المراجعة."
+    }
+  },
+  {
+    "id": "nafs-year-009",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Перед сложным делом сократи число открытых решений. Началу нужна простота.",
+      "en": "Before difficult work, reduce open decisions. A beginning needs simplicity.",
+      "tr": "Zor işe başlamadan açık kararları azalt. Başlangıç sadelik ister.",
+      "ar": "قبل العمل الصعب، قلل القرارات المعلقة. تحتاج البداية إلى البساطة."
+    }
+  },
+  {
+    "id": "nafs-year-010",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не обещай себе чужую жизнь. Построй рабочий порядок внутри своей.",
+      "en": "Do not promise yourself someone else's life. Build a workable order within yours.",
+      "tr": "Kendine başkasının hayatını vaat etme. Kendi hayatında işleyen bir düzen kur.",
+      "ar": "لا تعد نفسك بحياة شخص آخر. ابن نظامًا ممكنًا داخل حياتك."
+    }
+  },
+  {
+    "id": "nafs-year-011",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Личная дисциплина начинается с уважения к собственному слову и собственным пределам.",
+      "en": "Personal discipline starts with respect for your word and your limits.",
+      "tr": "Öz disiplin, sözlerine ve sınırlarına saygıyla başlar.",
+      "ar": "يبدأ الانضباط الذاتي باحترام كلمتك وحدودك."
+    }
+  },
+  {
+    "id": "nafs-year-012",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пять внимательных минут могут стать хорошим началом, даже если весь день не свободен.",
+      "en": "Five attentive minutes can be a good start even on a busy day.",
+      "tr": "Yoğun bir günde bile beş dikkatli dakika iyi bir başlangıç olabilir.",
+      "ar": "قد تكون خمس دقائق بانتباه بداية جيدة حتى في يوم مزدحم."
+    }
+  },
+  {
+    "id": "nafs-year-013",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть действие будет обычным, а отношение к нему — серьёзным.",
+      "en": "Let the action be ordinary and your commitment to it sincere.",
+      "tr": "Eylemin sıradan, ona bağlılığın içten olsun.",
+      "ar": "ليكن الفعل عاديًا والتزامك به جادًا."
+    }
+  },
+  {
+    "id": "nafs-year-014",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сначала реши, что достаточно на сегодня. Иначе даже сделанное будет казаться малым.",
+      "en": "Decide what is enough for today first, so finished work can count.",
+      "tr": "Önce bugün için neyin yeterli olduğuna karar ver; biten işin değeri görülsün.",
+      "ar": "حدد أولًا ما يكفي لليوم، كي يكون للعمل المنجز قدره."
+    }
+  },
+  {
+    "id": "nafs-year-015",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Убрать лишнее из плана — иногда более смелое решение, чем добавить ещё.",
+      "en": "Removing excess from a plan can be braver than adding more.",
+      "tr": "Plandaki fazlalığı çıkarmak, daha fazlasını eklemekten cesurca olabilir.",
+      "ar": "قد يكون حذف الزائد من الخطة أشجع من إضافة المزيد."
+    }
+  },
+  {
+    "id": "nafs-year-016",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Возьми ответственность за ближайшие десять минут, а не за идеальность всего дня.",
+      "en": "Take responsibility for the next ten minutes, not for a perfect whole day.",
+      "tr": "Tüm günün kusursuzluğu için değil, önündeki on dakika için sorumluluk al.",
+      "ar": "تحمل مسؤولية الدقائق العشر القادمة، لا مثالية اليوم كله."
+    }
+  },
+  {
+    "id": "nafs-year-017",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не откладывай важное до полного исчезновения сомнений. Начни с безопасной проверки.",
+      "en": "Do not wait for all doubt to disappear. Begin with a safe small test.",
+      "tr": "Bütün şüphelerin bitmesini bekleme. Güvenli küçük bir denemeyle başla.",
+      "ar": "لا تنتظر اختفاء الشك كله. ابدأ بتجربة صغيرة آمنة."
+    }
+  },
+  {
+    "id": "nafs-year-018",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Список правил короче, когда ты понимаешь, ради чего их выбираешь.",
+      "en": "You need fewer rules when you understand why you choose them.",
+      "tr": "Kuralları neden seçtiğini bildiğinde daha az kurala ihtiyaç duyarsın.",
+      "ar": "تحتاج إلى قواعد أقل حين تفهم لماذا تختارها."
+    }
+  },
+  {
+    "id": "nafs-year-019",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сделай желаемое доступным, а отвлекающее — менее удобным.",
+      "en": "Make what you want accessible and distractions less convenient.",
+      "tr": "İstediğin şeyi ulaşılır, dikkat dağıtıcıları daha zahmetli yap.",
+      "ar": "اجعل ما تريده متاحًا، واجعل المشتتات أقل سهولة."
+    }
+  },
+  {
+    "id": "nafs-year-020",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Одно осмысленное «нет» может защитить несколько важных «да».",
+      "en": "One deliberate no can protect several important yeses.",
+      "tr": "Bilinçli bir hayır, birkaç önemli eveti koruyabilir.",
+      "ar": "قد تحمي كلمة «لا» واعية عدة اختيارات مهمة بالموافقة."
+    }
+  },
+  {
+    "id": "nafs-year-021",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не требуй бодрости от каждого начала. Иногда сначала приходит движение.",
+      "en": "Not every beginning needs energy first. Sometimes movement comes first.",
+      "tr": "Her başlangıç önce enerji istemez. Bazen önce hareket gelir.",
+      "ar": "ليست كل بداية بحاجة إلى نشاط مسبق. أحيانًا تأتي الحركة أولًا."
+    }
+  },
+  {
+    "id": "nafs-year-022",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Оставь рабочее место таким, чтобы завтра было проще вернуться.",
+      "en": "Leave your workspace in a state that makes returning easier tomorrow.",
+      "tr": "Çalışma alanını yarın dönmeyi kolaylaştıracak halde bırak.",
+      "ar": "اترك مكان عملك في حال تسهل العودة إليه غدًا."
+    }
+  },
+  {
+    "id": "nafs-year-023",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Завершённый небольшой круг лучше бесконечной подготовки к большому.",
+      "en": "A small completed cycle beats endless preparation for a large one.",
+      "tr": "Tamamlanmış küçük bir döngü, büyük olana bitmeyen hazırlıktan iyidir.",
+      "ar": "دورة صغيرة مكتملة خير من تحضير بلا نهاية لدورة كبيرة."
+    }
+  },
+  {
+    "id": "nafs-year-024",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Запланируй трудность заранее: так она станет частью пути, а не неожиданным приговором.",
+      "en": "Plan for difficulty so it becomes part of the path, not an unexpected verdict.",
+      "tr": "Zorluğu önceden hesaba kat; yolun parçası olsun, beklenmedik bir hüküm değil.",
+      "ar": "احسب للصعوبة حسابًا لتصبح جزءًا من الطريق، لا حكمًا مفاجئًا."
+    }
+  },
+  {
+    "id": "nafs-year-025",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Держи своё обещание достаточно маленьким, чтобы его можно было проверить сегодня.",
+      "en": "Keep your promise small enough to test it today.",
+      "tr": "Sözünü bugün sınayabileceğin kadar küçük tut.",
+      "ar": "اجعل وعدك صغيرًا بما يكفي لاختباره اليوم."
+    }
+  },
+  {
+    "id": "nafs-year-026",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не делай усталость испытанием достоинства. Перестрой нагрузку и сохрани направление.",
+      "en": "Do not make tiredness a test of worth. Adjust the load and keep your direction.",
+      "tr": "Yorgunluğu değerinin sınavı yapma. Yükü ayarla ve yönünü koru.",
+      "ar": "لا تجعل التعب امتحانًا لقيمتك. عدل الحمل وحافظ على اتجاهك."
+    }
+  },
+  {
+    "id": "nafs-year-027",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Надёжность растёт из решений, к которым можно вернуться без внутренней войны.",
+      "en": "Reliability grows from decisions you can return to without an inner war.",
+      "tr": "Güvenilirlik, iç savaş yaşamadan dönebildiğin kararlardan gelişir.",
+      "ar": "تنمو الموثوقية من قرارات يمكنك العودة إليها بلا حرب داخلية."
+    }
+  },
+  {
+    "id": "nafs-year-028",
+    "category": "discipline",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не спутай строгость плана с его полезностью. Хороший план помогает действовать.",
+      "en": "Do not confuse a strict plan with a useful one. A good plan helps action.",
+      "tr": "Katı planı yararlı planla karıştırma. İyi plan harekete yardım eder.",
+      "ar": "لا تخلط صرامة الخطة بفائدتها. الخطة الجيدة تساعد على الفعل."
+    }
+  },
+  {
+    "id": "nafs-year-029",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Постоянство легче заметить в записях, чем в настроении. Смотри на сделанное.",
+      "en": "Consistency is easier to see in records than in moods. Look at what happened.",
+      "tr": "İstikrar kayıtlarda ruh halinden daha görünürdür. Yapılana bak.",
+      "ar": "يسهل رؤية الاستمرار في السجلات أكثر من المزاج. انظر إلى ما فعلته."
+    }
+  },
+  {
+    "id": "nafs-year-030",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "У возвращения нет минимального размера. Можно начать с самой короткой версии дела.",
+      "en": "Returning has no minimum size. Start with the shortest version of the task.",
+      "tr": "Geri dönüşün asgari boyutu yoktur. İşin en kısa sürümüyle başla.",
+      "ar": "ليس للعودة حجم أدنى. ابدأ بأقصر نسخة من المهمة."
+    }
+  },
+  {
+    "id": "nafs-year-031",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Планируй повторение в тех условиях, которые действительно бывают у тебя.",
+      "en": "Plan repetition for conditions that actually occur in your life.",
+      "tr": "Tekrarı hayatında gerçekten bulunan koşullara göre planla.",
+      "ar": "خطط للتكرار في الظروف الموجودة فعلًا في حياتك."
+    }
+  },
+  {
+    "id": "nafs-year-032",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Серия дней — полезный ориентир, но не единственное доказательство усилий.",
+      "en": "A streak is a useful guide, not the only evidence of effort.",
+      "tr": "Gün serisi yararlı bir işarettir, emeğin tek kanıtı değildir.",
+      "ar": "سلسلة الأيام مؤشر مفيد، وليست الدليل الوحيد على الجهد."
+    }
+  },
+  {
+    "id": "nafs-year-033",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Повторяя простое действие, ты узнаёшь о себе больше, чем обещая сложную систему.",
+      "en": "Repeating a simple action teaches you more than promising a complex system.",
+      "tr": "Basit bir eylemi tekrarlamak, karmaşık sistem vaat etmekten daha çok öğretir.",
+      "ar": "تكرار فعل بسيط يعلمك عن نفسك أكثر من الوعد بنظام معقد."
+    }
+  },
+  {
+    "id": "nafs-year-034",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Устойчивый ритм допускает тихие дни. Не каждый день должен быть рекордом.",
+      "en": "A steady rhythm allows quiet days. Not every day needs a record.",
+      "tr": "Sürdürülebilir ritim sakin günlere izin verir. Her gün rekor gerekmez.",
+      "ar": "الإيقاع الثابت يتسع لأيام هادئة. لا يحتاج كل يوم إلى رقم قياسي."
+    }
+  },
+  {
+    "id": "nafs-year-035",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не увеличивай нагрузку только потому, что вчера получилось. Сначала закрепи удобный ритм.",
+      "en": "Do not increase the load just because yesterday went well. Establish a workable rhythm first.",
+      "tr": "Dün iyi geçti diye yükü artırma. Önce uygulanabilir ritmi oturt.",
+      "ar": "لا تزد الحمل لمجرد نجاح الأمس. ثبّت أولًا إيقاعًا مناسبًا."
+    }
+  },
+  {
+    "id": "nafs-year-036",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Привычному действию нужен ясный вход: время, сигнал или приготовленная вещь.",
+      "en": "A repeated action needs a clear entrance: a time, cue, or prepared object.",
+      "tr": "Tekrarlanan eylem net bir giriş ister: zaman, işaret ya da hazır eşya.",
+      "ar": "يحتاج الفعل المتكرر إلى مدخل واضح: وقت أو إشارة أو غرض جاهز."
+    }
+  },
+  {
+    "id": "nafs-year-037",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Вернуться после перерыва — отдельное умение. Его тоже можно практиковать.",
+      "en": "Returning after a break is a skill of its own. You can practice it too.",
+      "tr": "Aradan sonra dönmek ayrı bir beceridir. Onu da çalışabilirsin.",
+      "ar": "العودة بعد الانقطاع مهارة مستقلة. يمكنك التدرب عليها أيضًا."
+    }
+  },
+  {
+    "id": "nafs-year-038",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть дни отличаются, а способ начать остаётся знакомым.",
+      "en": "Let days differ while the way you begin stays familiar.",
+      "tr": "Günler değişsin, başlama biçimin tanıdık kalsın.",
+      "ar": "لتختلف الأيام، ولتبق طريقة بدايتك مألوفة."
+    }
+  },
+  {
+    "id": "nafs-year-039",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сохраняй не только результаты, но и условия, которые помогли их получить.",
+      "en": "Keep track of helpful conditions as well as results.",
+      "tr": "Yalnız sonuçları değil, onlara yardım eden koşulları da izle.",
+      "ar": "تابع الظروف المفيدة إلى جانب النتائج."
+    }
+  },
+  {
+    "id": "nafs-year-040",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Регулярность требует места в жизни, а не постоянного присутствия вдохновения.",
+      "en": "Consistency needs space in your life, not constant inspiration.",
+      "tr": "Düzenlilik sürekli ilham değil, hayatında yer ister.",
+      "ar": "يحتاج الاستمرار إلى مكان في حياتك، لا إلى إلهام دائم."
+    }
+  },
+  {
+    "id": "nafs-year-041",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Небольшой повторяемый шаг может пережить неделю, которую не выдержит грандиозный план.",
+      "en": "A small repeatable step may survive a week that defeats a grand plan.",
+      "tr": "Küçük tekrarlanabilir adım, büyük planın dayanamadığı haftayı geçirebilir.",
+      "ar": "قد تصمد خطوة صغيرة قابلة للتكرار خلال أسبوع يعجز عنه مخطط ضخم."
+    }
+  },
+  {
+    "id": "nafs-year-042",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сравни сегодняшнюю задачу с сегодняшними возможностями. Вчерашний максимум не обязан стать нормой.",
+      "en": "Match today's task to today's capacity. Yesterday's maximum need not become the standard.",
+      "tr": "Bugünkü işi bugünkü kapasitenle eşleştir. Dünün en yükseği standart olmak zorunda değil.",
+      "ar": "وازن مهمة اليوم بقدرة اليوم. لا يلزم أن يصبح أقصى الأمس معيارًا."
+    }
+  },
+  {
+    "id": "nafs-year-043",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Проверь, что именно прерывает ритм. Работать с причиной практичнее, чем ругать перерыв.",
+      "en": "Notice what interrupts your rhythm. Addressing it is more useful than blaming the break.",
+      "tr": "Ritmini neyin böldüğünü fark et. Bununla ilgilenmek, arayı suçlamaktan yararlıdır.",
+      "ar": "لاحظ ما يقطع إيقاعك. التعامل معه أنفع من لوم الانقطاع."
+    }
+  },
+  {
+    "id": "nafs-year-044",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не отказывайся от всей системы из-за одного неудобного элемента. Измени этот элемент.",
+      "en": "Do not abandon a whole system over one awkward part. Change that part.",
+      "tr": "Tek bir uygunsuz parça yüzünden bütün sistemi bırakma. O parçayı değiştir.",
+      "ar": "لا تتخل عن النظام كله بسبب جزء غير مناسب. غيّر ذلك الجزء."
+    }
+  },
+  {
+    "id": "nafs-year-045",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Делай повторение удобным для обычного себя, а не только для самого мотивированного.",
+      "en": "Make repetition work for your ordinary self, not only your most motivated self.",
+      "tr": "Tekrarı yalnız en motive haline değil, sıradan haline de uygun kıl.",
+      "ar": "اجعل التكرار مناسبًا لحالتك العادية، لا لأشد حالاتك حماسًا فقط."
+    }
+  },
+  {
+    "id": "nafs-year-046",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если привычка стала тяжёлой, пересмотри её форму, прежде чем отказываться от смысла.",
+      "en": "If a habit feels heavy, reconsider its form before abandoning its purpose.",
+      "tr": "Alışkanlık ağırlaştıysa amacını bırakmadan önce biçimini gözden geçir.",
+      "ar": "إذا أثقلت العادة عليك، راجع شكلها قبل التخلي عن معناها."
+    }
+  },
+  {
+    "id": "nafs-year-047",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Маленький ритуал начала освобождает внимание для самого дела.",
+      "en": "A small starting ritual leaves more attention for the task itself.",
+      "tr": "Küçük bir başlama ritüeli işin kendisine daha fazla dikkat bırakır.",
+      "ar": "طقس صغير للبداية يترك انتباهًا أكبر للعمل نفسه."
+    }
+  },
+  {
+    "id": "nafs-year-048",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть завтрашний старт будет готов ещё до окончания сегодняшнего дела.",
+      "en": "Prepare tomorrow's start before today's work ends.",
+      "tr": "Bugünkü iş bitmeden yarının başlangıcını hazırla.",
+      "ar": "جهز بداية الغد قبل انتهاء عمل اليوم."
+    }
+  },
+  {
+    "id": "nafs-year-049",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Стабильность не означает одинаковый объём каждый день. Она может означать понятный способ возвращения.",
+      "en": "Stability need not mean identical amounts daily. It can mean a clear way back.",
+      "tr": "İstikrar her gün aynı miktar değildir. Net bir geri dönüş yolu olabilir.",
+      "ar": "لا يعني الثبات المقدار نفسه يوميًا. قد يعني طريقًا واضحًا للعودة."
+    }
+  },
+  {
+    "id": "nafs-year-050",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Дай новой практике время показать, подходит ли она тебе. Не оценивай её по одному дню.",
+      "en": "Give a new practice time to show whether it fits. Do not judge it by one day.",
+      "tr": "Yeni uygulamaya sana uyduğunu göstermesi için zaman ver. Bir günle yargılama.",
+      "ar": "امنح الممارسة الجديدة وقتًا لتبين ملاءمتها. لا تحكم عليها من يوم واحد."
+    }
+  },
+  {
+    "id": "nafs-year-051",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Замечай спокойные повторения. Именно их легко пропустить, когда ждёшь ярких перемен.",
+      "en": "Notice quiet repetitions. They are easy to miss while waiting for dramatic change.",
+      "tr": "Sakin tekrarları fark et. Büyük değişim beklerken onları kaçırmak kolaydır.",
+      "ar": "لاحظ التكرارات الهادئة. يسهل إغفالها أثناء انتظار تحول لافت."
+    }
+  },
+  {
+    "id": "nafs-year-052",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Один пропуск не отменяет расписание. Следующая подходящая точка входа всё ещё существует.",
+      "en": "One missed day does not cancel a schedule. The next suitable entry point still exists.",
+      "tr": "Bir günün kaçması programı iptal etmez. Sonraki uygun giriş noktası hâlâ vardır.",
+      "ar": "فوات يوم لا يلغي الجدول. ما زالت نقطة البدء المناسبة التالية موجودة."
+    }
+  },
+  {
+    "id": "nafs-year-053",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не ищи новый метод каждый раз, когда старый требует терпения. Сначала проверь его на практике.",
+      "en": "Do not seek a new method whenever the old one asks for patience. Test it first.",
+      "tr": "Eski yöntem sabır istediğinde hemen yenisini arama. Önce uygulayarak sına.",
+      "ar": "لا تبحث عن طريقة جديدة كلما طلبت القديمة صبرًا. اختبرها أولًا."
+    }
+  },
+  {
+    "id": "nafs-year-054",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Хороший ритм оставляет пространство для жизни, которая не помещается в календарь.",
+      "en": "A good rhythm leaves room for life that does not fit a calendar.",
+      "tr": "İyi ritim, takvime sığmayan hayata da alan bırakır.",
+      "ar": "الإيقاع الجيد يترك مساحة للحياة التي لا تتسع لها المواعيد."
+    }
+  },
+  {
+    "id": "nafs-year-055",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Начало недели не даёт больше права действовать, чем её середина. Начать можно сейчас.",
+      "en": "Monday grants no greater right to act than midweek. You can begin now.",
+      "tr": "Haftanın başı, ortasından daha fazla başlama hakkı vermez. Şimdi başlayabilirsin.",
+      "ar": "بداية الأسبوع لا تمنح حقًا أكبر للفعل من وسطه. يمكنك البدء الآن."
+    }
+  },
+  {
+    "id": "nafs-year-056",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Твоя задача — поддержать процесс, а не каждый день испытывать себя заново.",
+      "en": "Your task is to support a process, not put yourself on trial every day.",
+      "tr": "Görevin süreci desteklemek, kendini her gün yeniden sınava sokmak değil.",
+      "ar": "مهمتك دعم العملية، لا إخضاع نفسك لاختبار جديد كل يوم."
+    }
+  },
+  {
+    "id": "nafs-year-057",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Когда трудно начать, уменьши не смысл цели, а размер первого действия.",
+      "en": "When starting is hard, shrink the first action, not the meaning of the goal.",
+      "tr": "Başlamak zorsa hedefin anlamını değil, ilk eylemin boyutunu küçült.",
+      "ar": "حين تصعب البداية، صغّر الفعل الأول لا معنى الهدف."
+    }
+  },
+  {
+    "id": "nafs-year-058",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пустой документ не требует уверенности. Он ждёт первой несовершенной строки.",
+      "en": "A blank document does not require confidence. It awaits an imperfect first line.",
+      "tr": "Boş belge özgüven istemez. Kusurlu ilk satırı bekler.",
+      "ar": "المستند الفارغ لا يشترط الثقة. إنه ينتظر سطرًا أول غير كامل."
+    }
+  },
+  {
+    "id": "nafs-year-059",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если задача не двигается, возможно, ей не хватает конкретного следующего действия.",
+      "en": "If a task is stuck, it may need a specific next action.",
+      "tr": "İş ilerlemiyorsa somut bir sonraki adıma ihtiyaç duyabilir.",
+      "ar": "إذا توقفت المهمة، فقد تحتاج إلى فعل تالٍ محدد."
+    }
+  },
+  {
+    "id": "nafs-year-060",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Отдели начало от результата. Сейчас достаточно открыть дверь в работу.",
+      "en": "Separate beginning from outcome. For now, opening the door to work is enough.",
+      "tr": "Başlangıcı sonuçtan ayır. Şimdilik işe kapı açmak yeterli.",
+      "ar": "افصل البداية عن النتيجة. يكفي الآن فتح باب العمل."
+    }
+  },
+  {
+    "id": "nafs-year-061",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не превращай выбор инструмента в отдельный проект, если простого уже достаточно.",
+      "en": "Do not turn tool selection into a project when a simple tool is enough.",
+      "tr": "Basit araç yeterliyken araç seçimini ayrı projeye dönüştürme.",
+      "ar": "لا تجعل اختيار الأداة مشروعًا مستقلًا إذا كفت أداة بسيطة."
+    }
+  },
+  {
+    "id": "nafs-year-062",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выпиши вопрос, который мешает начать. Иногда неопределённость уменьшается после одного ответа.",
+      "en": "Write the question blocking your start. One answer can reduce uncertainty.",
+      "tr": "Başlamanı engelleyen soruyu yaz. Bir cevap belirsizliği azaltabilir.",
+      "ar": "اكتب السؤال الذي يعوق بدايتك. قد تقل الحيرة بإجابة واحدة."
+    }
+  },
+  {
+    "id": "nafs-year-063",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Работа может начаться раньше, чем закончится внутренний спор о ней.",
+      "en": "Work can begin before the inner argument about it ends.",
+      "tr": "İş, hakkındaki iç tartışma bitmeden başlayabilir.",
+      "ar": "يمكن أن يبدأ العمل قبل انتهاء الجدال الداخلي بشأنه."
+    }
+  },
+  {
+    "id": "nafs-year-064",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбери одну вкладку, один файл, один вопрос. Ограничение поможет увидеть начало.",
+      "en": "Choose one tab, one file, one question. A boundary can reveal the start.",
+      "tr": "Bir sekme, bir dosya, bir soru seç. Sınır başlangıcı görünür kılabilir.",
+      "ar": "اختر تبويبًا واحدًا وملفًا واحدًا وسؤالًا واحدًا. قد تكشف الحدود عن البداية."
+    }
+  },
+  {
+    "id": "nafs-year-065",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если нужна ясность, сделай небольшой пробный шаг вместо долгого ожидания.",
+      "en": "If you need clarity, take a small trial step instead of waiting at length.",
+      "tr": "Netlik gerekiyorsa uzun bekleyiş yerine küçük bir deneme adımı at.",
+      "ar": "إن احتجت إلى وضوح، جرب خطوة صغيرة بدل الانتظار الطويل."
+    }
+  },
+  {
+    "id": "nafs-year-066",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Прокрастинация не обязана становиться историей о твоём характере. Разбери конкретную преграду.",
+      "en": "Procrastination need not become a story about your character. Examine the specific barrier.",
+      "tr": "Erteleme, karakterinin hikâyesi olmak zorunda değil. Somut engeli incele.",
+      "ar": "لا يلزم أن يصبح التسويف قصة عن شخصيتك. افحص العائق المحدد."
+    }
+  },
+  {
+    "id": "nafs-year-067",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Начни с неудобного черновика. Чистый результат часто появляется после нескольких исправлений.",
+      "en": "Start with an awkward draft. A clear result often follows several revisions.",
+      "tr": "Acemi bir taslakla başla. Temiz sonuç çoğu zaman birkaç düzeltmeden sonra gelir.",
+      "ar": "ابدأ بمسودة غير مرتبة. كثيرًا ما تأتي النتيجة الواضحة بعد تعديلات."
+    }
+  },
+  {
+    "id": "nafs-year-068",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Поставь рядом лист для отвлекающих мыслей. Их можно записать, не бросая дело.",
+      "en": "Keep paper nearby for distracting thoughts. Record them without abandoning the task.",
+      "tr": "Dağıtan düşünceler için yanında kâğıt tut. İşi bırakmadan onları kaydet.",
+      "ar": "احتفظ بورقة للأفكار المشتتة. سجلها دون ترك المهمة."
+    }
+  },
+  {
+    "id": "nafs-year-069",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Спроси: что я могу сделать без дополнительной подготовки? Начни именно там.",
+      "en": "Ask what you can do without further preparation. Begin there.",
+      "tr": "Ek hazırlık olmadan ne yapabileceğini sor. Oradan başla.",
+      "ar": "اسأل عما يمكنك فعله دون تحضير إضافي. ابدأ من هناك."
+    }
+  },
+  {
+    "id": "nafs-year-070",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не путай желание сделать хорошо с требованием сделать без ошибок.",
+      "en": "Do not confuse wanting quality with demanding a mistake-free attempt.",
+      "tr": "İyi yapma isteğini hatasız deneme talebiyle karıştırma.",
+      "ar": "لا تخلط الرغبة في الإتقان باشتراط محاولة بلا أخطاء."
+    }
+  },
+  {
+    "id": "nafs-year-071",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сложное дело становится ближе, когда у первого шага есть понятный конец.",
+      "en": "Difficult work feels closer when its first step has a clear endpoint.",
+      "tr": "İlk adımın net sonu olduğunda zor iş daha yakın görünür.",
+      "ar": "يقترب العمل الصعب حين تكون للخطوة الأولى نهاية واضحة."
+    }
+  },
+  {
+    "id": "nafs-year-072",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Для начала не нужен весь свободный вечер. Иногда достаточно заранее защищённых минут.",
+      "en": "Starting does not require a free evening. A few protected minutes may be enough.",
+      "tr": "Başlamak için boş bir akşam gerekmez. Korunan birkaç dakika yetebilir.",
+      "ar": "لا تحتاج البداية إلى مساء فارغ. قد تكفي دقائق محمية مسبقًا."
+    }
+  },
+  {
+    "id": "nafs-year-073",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Отложить задачу можно осознанно: назначь новое время и запиши следующий шаг.",
+      "en": "Postpone deliberately: choose a new time and record the next step.",
+      "tr": "Bilinçli ertele: yeni zaman seç ve sonraki adımı kaydet.",
+      "ar": "أجّل بوعي: اختر وقتًا جديدًا وسجل الخطوة التالية."
+    }
+  },
+  {
+    "id": "nafs-year-074",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Когда ждёшь идеального настроя, спроси, что можно сделать с нынешним.",
+      "en": "When waiting for the ideal mood, ask what is possible in the current one.",
+      "tr": "İdeal ruh halini beklerken mevcut halinle ne yapabileceğini sor.",
+      "ar": "حين تنتظر المزاج المثالي، اسأل عما يمكنك فعله بالمزاج الحالي."
+    }
+  },
+  {
+    "id": "nafs-year-075",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Начни с реального примера. Абстрактная задача часто становится понятнее в действии.",
+      "en": "Start with a real example. An abstract task often becomes clearer in action.",
+      "tr": "Gerçek bir örnekle başla. Soyut iş eylemde çoğu zaman netleşir.",
+      "ar": "ابدأ بمثال حقيقي. كثيرًا ما تتضح المهمة المجردة بالفعل."
+    }
+  },
+  {
+    "id": "nafs-year-076",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не проверяй постоянно, достаточно ли ты готов. Проверь один небольшой результат.",
+      "en": "Stop repeatedly checking your readiness. Test one small result.",
+      "tr": "Hazır olup olmadığını sürekli kontrol etme. Küçük bir sonucu dene.",
+      "ar": "لا تكرر فحص استعدادك. اختبر نتيجة صغيرة واحدة."
+    }
+  },
+  {
+    "id": "nafs-year-077",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Дай первому подходу короткие рамки. Попробовать легче, чем обещать закончить всё.",
+      "en": "Give the first attempt a short boundary. Trying is easier than promising to finish everything.",
+      "tr": "İlk denemeye kısa sınır koy. Denemek her şeyi bitirmeyi vaat etmekten kolaydır.",
+      "ar": "ضع للمحاولة الأولى حدًا قصيرًا. التجربة أسهل من الوعد بإنهاء كل شيء."
+    }
+  },
+  {
+    "id": "nafs-year-078",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сделай задачу видимой: запиши результат, который должен появиться на столе или экране.",
+      "en": "Make the task visible: name what should appear on the desk or screen.",
+      "tr": "İşi görünür yap: masada ya da ekranda oluşacak sonucu adlandır.",
+      "ar": "اجعل المهمة مرئية: سمِّ النتيجة التي ينبغي أن تظهر على المكتب أو الشاشة."
+    }
+  },
+  {
+    "id": "nafs-year-079",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если ты отвлёкся, вернись к последнему понятному действию. Не обязательно начинать всё сначала.",
+      "en": "If distracted, return to the last clear action. You need not restart everything.",
+      "tr": "Dikkatin dağıldıysa son net eyleme dön. Her şeyi baştan başlatman gerekmez.",
+      "ar": "إن تشتت، عد إلى آخر فعل واضح. لا تحتاج إلى إعادة كل شيء من البداية."
+    }
+  },
+  {
+    "id": "nafs-year-080",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбирай действие по важности, а не только по лёгкости получения отметки.",
+      "en": "Choose actions for importance, not only for easy checkmarks.",
+      "tr": "Eylemi kolay işaret almak için değil, önemine göre seç.",
+      "ar": "اختر الفعل لأهميته، لا لسهولة وضع علامة إنجازه فقط."
+    }
+  },
+  {
+    "id": "nafs-year-081",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть первые минуты будут знакомством с задачей, а не экзаменом на способности.",
+      "en": "Let the first minutes introduce the task rather than test your ability.",
+      "tr": "İlk dakikalar yetenek sınavı değil, işle tanışma olsun.",
+      "ar": "لتكن الدقائق الأولى تعارفًا مع المهمة، لا امتحانًا لقدراتك."
+    }
+  },
+  {
+    "id": "nafs-year-082",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если откладываешь разговор, подготовь одно честное предложение для его начала.",
+      "en": "If postponing a conversation, prepare one honest opening sentence.",
+      "tr": "Konuşmayı erteliyorsan başlamak için dürüst bir cümle hazırla.",
+      "ar": "إن كنت تؤجل حديثًا، جهز جملة صادقة لافتتاحه."
+    }
+  },
+  {
+    "id": "nafs-year-083",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не трать весь запас внимания на спор с задачей. Оставь немного для самой работы.",
+      "en": "Do not spend all your attention arguing with a task. Save some for doing it.",
+      "tr": "Bütün dikkatini işle tartışmaya harcama. Yapmak için birazını sakla.",
+      "ar": "لا تنفق انتباهك كله في مجادلة المهمة. احتفظ ببعضه للعمل."
+    }
+  },
+  {
+    "id": "nafs-year-084",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Переход к делу может быть незаметным: открыть книгу, поставить воду, написать заголовок.",
+      "en": "The move into action can be quiet: open a book, pour water, write a heading.",
+      "tr": "Eyleme geçiş sessiz olabilir: kitap aç, su koy, başlık yaz.",
+      "ar": "قد يكون الانتقال للفعل هادئًا: افتح كتابًا أو اسكب ماء أو اكتب عنوانًا."
+    }
+  },
+  {
+    "id": "nafs-year-085",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Между ощущением и поступком можно поставить маленькую паузу. Начни с неё.",
+      "en": "Place a small pause between feeling and action. Begin there.",
+      "tr": "Duygu ile eylem arasına küçük bir duraklama koy. Oradan başla.",
+      "ar": "ضع وقفة صغيرة بين الشعور والفعل. ابدأ بها."
+    }
+  },
+  {
+    "id": "nafs-year-086",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не пытайся спорить со всеми желаниями сразу. Позаботься о ближайшем выборе.",
+      "en": "Do not argue with every urge at once. Care for the nearest choice.",
+      "tr": "Tüm dürtülerle aynı anda tartışma. En yakın seçimine özen göster.",
+      "ar": "لا تجادل كل الرغبات معًا. اعتنِ باختيارك الأقرب."
+    }
+  },
+  {
+    "id": "nafs-year-087",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Твои границы могут оставаться ясными даже тогда, когда чувства меняются.",
+      "en": "Your boundaries can remain clear even while feelings change.",
+      "tr": "Duygular değişirken sınırların net kalabilir.",
+      "ar": "يمكن أن تبقى حدودك واضحة حتى حين تتغير مشاعرك."
+    }
+  },
+  {
+    "id": "nafs-year-088",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ослабь доступность привычного отвлечения и усили доступность выбранной альтернативы.",
+      "en": "Make the familiar distraction less accessible and your alternative easier to reach.",
+      "tr": "Alışılmış dikkat dağıtıcıyı zorlaştır, seçtiğin alternatifi kolaylaştır.",
+      "ar": "قلل سهولة الوصول إلى المشتت المعتاد ويسّر البديل الذي اخترته."
+    }
+  },
+  {
+    "id": "nafs-year-089",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Импульс не требует немедленного ответа. Можно сначала назвать свою потребность.",
+      "en": "An impulse does not demand an immediate answer. Name your need first.",
+      "tr": "Dürtü hemen cevap istemez. Önce ihtiyacını adlandır.",
+      "ar": "الدافع لا يطلب إجابة فورية. سمِّ حاجتك أولًا."
+    }
+  },
+  {
+    "id": "nafs-year-090",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Найди спокойный предмет взглядом. Верни внимание к тому, что действительно рядом.",
+      "en": "Find a quiet object to look at. Return attention to what is actually nearby.",
+      "tr": "Bakışınla sakin bir nesne bul. Dikkatini gerçekten yakında olana getir.",
+      "ar": "ابحث بعينيك عن غرض هادئ. أعد انتباهك إلى ما هو قريب فعلًا."
+    }
+  },
+  {
+    "id": "nafs-year-091",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если привычный путь ведёт не туда, смени первый поворот, а не ругай весь маршрут.",
+      "en": "If a familiar path leads astray, change its first turn instead of blaming the whole route.",
+      "tr": "Alışılmış yol yanlış yere gidiyorsa bütün rotayı suçlama, ilk dönüşü değiştir.",
+      "ar": "إن قادك المسار المعتاد بعيدًا، غيّر منعطفه الأول بدل لوم الطريق كله."
+    }
+  },
+  {
+    "id": "nafs-year-092",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сначала убери лишний стимул. Решение можно принять в более спокойном месте.",
+      "en": "Remove an extra stimulus first. Make the decision somewhere calmer.",
+      "tr": "Önce fazla uyaranı kaldır. Kararı daha sakin bir yerde ver.",
+      "ar": "أبعد محفزًا زائدًا أولًا. اتخذ القرار في مكان أهدأ."
+    }
+  },
+  {
+    "id": "nafs-year-093",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не называй себя желанием, которое сейчас испытываешь. Ты шире одного состояния.",
+      "en": "Do not define yourself by a current urge. You are more than one state.",
+      "tr": "Kendini şu anki dürtünle tanımlama. Tek bir halden fazlasısın.",
+      "ar": "لا تعرّف نفسك برغبة تشعر بها الآن. أنت أوسع من حالة واحدة."
+    }
+  },
+  {
+    "id": "nafs-year-094",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть трудный момент получит конкретный план на ближайшие пять минут.",
+      "en": "Give a difficult moment a concrete plan for the next five minutes.",
+      "tr": "Zor ana önündeki beş dakika için somut plan ver.",
+      "ar": "امنح اللحظة الصعبة خطة محددة للدقائق الخمس القادمة."
+    }
+  },
+  {
+    "id": "nafs-year-095",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Иногда достаточно перестать подкармливать импульс новыми раздражителями.",
+      "en": "Sometimes it helps to stop adding new fuel to an impulse.",
+      "tr": "Bazen dürtüyü yeni uyaranlarla beslemeyi bırakmak yardımcı olur.",
+      "ar": "أحيانًا يفيد التوقف عن تغذية الدافع بمحفزات جديدة."
+    }
+  },
+  {
+    "id": "nafs-year-096",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Свою границу легче поддержать, когда рядом есть подходящая замена действию.",
+      "en": "A boundary is easier to support when a suitable alternative is close.",
+      "tr": "Uygun alternatif yakındaysa sınırı korumak kolaylaşır.",
+      "ar": "يسهل دعم الحد الذي اخترته حين يكون البديل المناسب قريبًا."
+    }
+  },
+  {
+    "id": "nafs-year-097",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Уйти от провоцирующей обстановки — практичный выбор, а не признание поражения.",
+      "en": "Leaving a triggering setting is practical, not an admission of defeat.",
+      "tr": "Tetikleyen ortamdan ayrılmak pratiktir, yenilgiyi kabul etmek değil.",
+      "ar": "مغادرة البيئة المحفزة اختيار عملي، لا اعتراف بالهزيمة."
+    }
+  },
+  {
+    "id": "nafs-year-098",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Разреши желанию существовать, не превращая его в план на вечер.",
+      "en": "Allow an urge to exist without making it the evening's plan.",
+      "tr": "Dürtünün var olmasına izin ver; onu akşamın planı yapma.",
+      "ar": "اسمح للرغبة بالوجود دون تحويلها إلى خطة المساء."
+    }
+  },
+  {
+    "id": "nafs-year-099",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Определи, что поможет тебе выдержать паузу: движение, вода, тишина или разговор.",
+      "en": "Choose what supports a pause: movement, water, quiet, or conversation.",
+      "tr": "Duraklamayı neyin desteklediğini seç: hareket, su, sessizlik ya da sohbet.",
+      "ar": "اختر ما يدعم وقفتك: حركة أو ماء أو هدوء أو حديث."
+    }
+  },
+  {
+    "id": "nafs-year-100",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не требуй полного спокойствия для осознанного выбора. Небольшое пространство уже полезно.",
+      "en": "A deliberate choice does not require total calm. A little space can help.",
+      "tr": "Bilinçli seçim tam sakinlik gerektirmez. Küçük bir alan yardımcı olabilir.",
+      "ar": "لا يشترط الاختيار الواعي هدوءًا كاملًا. قد تفيد مساحة صغيرة."
+    }
+  },
+  {
+    "id": "nafs-year-101",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если рука тянется к телефону автоматически, остановись на одном спокойном выдохе.",
+      "en": "If your hand reaches for the phone automatically, pause for one comfortable exhale.",
+      "tr": "Elin telefona otomatik uzanıyorsa rahat bir nefes veriş için dur.",
+      "ar": "إذا امتدت يدك للهاتف تلقائيًا، توقف لزفير مريح واحد."
+    }
+  },
+  {
+    "id": "nafs-year-102",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Заметь момент перед привычным действием. Именно там можно попробовать другой ответ.",
+      "en": "Notice the moment before a familiar action. Try a different response there.",
+      "tr": "Alışılmış eylemden önceki anı fark et. Orada farklı bir karşılık dene.",
+      "ar": "لاحظ اللحظة السابقة للفعل المعتاد. جرب فيها استجابة أخرى."
+    }
+  },
+  {
+    "id": "nafs-year-103",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ты можешь выбрать более подходящее действие, даже если первое желание не изменилось.",
+      "en": "You can choose a more suitable action even if the first urge remains.",
+      "tr": "İlk dürtü sürse bile daha uygun bir davranış seçebilirsin.",
+      "ar": "يمكنك اختيار فعل أنسب حتى إن بقيت الرغبة الأولى."
+    }
+  },
+  {
+    "id": "nafs-year-104",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не обещай избавиться от всех импульсов. Подготовь способ обращаться с ними уважительно.",
+      "en": "Do not promise to erase all impulses. Prepare a respectful way to handle them.",
+      "tr": "Tüm dürtüleri silmeyi vaat etme. Onlarla saygılı baş etme yolu hazırla.",
+      "ar": "لا تعد بمحو الدوافع كلها. جهز طريقة للتعامل معها باحترام."
+    }
+  },
+  {
+    "id": "nafs-year-105",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сделай вечер менее бесформенным: оставь в нём одно спокойное, выбранное занятие.",
+      "en": "Give the evening a little shape with one calm activity you choose.",
+      "tr": "Akşama seçtiğin sakin bir etkinlikle biraz biçim ver.",
+      "ar": "امنح المساء بعض الوضوح بنشاط هادئ تختاره."
+    }
+  },
+  {
+    "id": "nafs-year-106",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если один способ не помог, это не запрет попробовать другой.",
+      "en": "If one approach did not help, another remains available.",
+      "tr": "Bir yöntem yardım etmediyse başka birini deneyebilirsin.",
+      "ar": "إذا لم تفد طريقة، فما زالت تجربة أخرى متاحة."
+    }
+  },
+  {
+    "id": "nafs-year-107",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не отдавай трудному моменту право решать, каким будет весь оставшийся день.",
+      "en": "Do not let one hard moment decide the rest of your day.",
+      "tr": "Bir zor ana günün kalanını belirleme hakkı verme.",
+      "ar": "لا تمنح لحظة صعبة حق تقرير بقية يومك."
+    }
+  },
+  {
+    "id": "nafs-year-108",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Опора на друга не отменяет самостоятельности. Иногда она поддерживает её.",
+      "en": "Support from a friend does not cancel independence; it can strengthen it.",
+      "tr": "Arkadaş desteği bağımsızlığı silmez; onu güçlendirebilir.",
+      "ar": "دعم الصديق لا يلغي الاستقلال؛ قد يعززه."
+    }
+  },
+  {
+    "id": "nafs-year-109",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Короткая прогулка может дать время подумать, даже если не решит саму проблему.",
+      "en": "A short walk may give thinking time even when it does not solve the problem.",
+      "tr": "Kısa yürüyüş sorunu çözmese de düşünmeye zaman verebilir.",
+      "ar": "قد يمنحك المشي القصير وقتًا للتفكير حتى إن لم يحل المشكلة."
+    }
+  },
+  {
+    "id": "nafs-year-110",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сохрани право на паузу перед ответом, покупкой или привычным нажатием.",
+      "en": "Keep the right to pause before a reply, purchase, or habitual tap.",
+      "tr": "Cevap, alışveriş ya da alışılmış dokunuş öncesi durma hakkını koru.",
+      "ar": "احتفظ بحق الوقفة قبل الرد أو الشراء أو الضغطة المعتادة."
+    }
+  },
+  {
+    "id": "nafs-year-111",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбирай границы, которые служат твоим ценностям, а не чужому стыду.",
+      "en": "Choose boundaries serving your values, not someone else's shame.",
+      "tr": "Başkasının utancına değil, kendi değerlerine hizmet eden sınırlar seç.",
+      "ar": "اختر حدودًا تخدم قيمك، لا خجلًا يفرضه غيرك."
+    }
+  },
+  {
+    "id": "nafs-year-112",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Повторное желание — возможность повторить поддержку, а не повод усилить наказание.",
+      "en": "A returning urge invites renewed support, not harsher punishment.",
+      "tr": "Dürtünün dönüşü daha sert ceza değil, yeniden destek fırsatıdır.",
+      "ar": "عودة الرغبة فرصة لتجديد الدعم، لا لتشديد العقاب."
+    }
+  },
+  {
+    "id": "nafs-year-113",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Смелость может выглядеть как честная просьба о помощи.",
+      "en": "Courage can look like an honest request for help.",
+      "tr": "Cesaret, dürüst bir yardım isteği gibi görünebilir.",
+      "ar": "قد تبدو الشجاعة كطلب صادق للمساعدة."
+    }
+  },
+  {
+    "id": "nafs-year-114",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не всякая трудность требует большего усилия. Иногда нужен другой способ.",
+      "en": "Not every difficulty needs more effort. Sometimes it needs a different approach.",
+      "tr": "Her zorluk daha fazla çaba istemez. Bazen farklı yöntem gerekir.",
+      "ar": "ليست كل صعوبة بحاجة إلى جهد أكبر. أحيانًا تحتاج إلى طريقة أخرى."
+    }
+  },
+  {
+    "id": "nafs-year-115",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Признай нагрузку прежде, чем требовать от себя прежней скорости.",
+      "en": "Acknowledge the load before demanding your former pace.",
+      "tr": "Eski hızını istemeden önce yükünü kabul et.",
+      "ar": "اعترف بالحمل قبل أن تطالب نفسك بالسرعة السابقة."
+    }
+  },
+  {
+    "id": "nafs-year-116",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Можно быть уставшим и всё ещё заслуживать уважения к себе.",
+      "en": "You can be tired and still deserve your own respect.",
+      "tr": "Yorgun olsan da kendine saygıyı hak edersin.",
+      "ar": "يمكن أن تكون متعبًا وتظل مستحقًا لاحترام نفسك."
+    }
+  },
+  {
+    "id": "nafs-year-117",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сохрани хотя бы одну привычную опору в день, который идёт непредсказуемо.",
+      "en": "Keep one familiar support in a day that feels unpredictable.",
+      "tr": "Öngörülemez günde tanıdık bir dayanağı koru.",
+      "ar": "احتفظ بسند مألوف واحد في يوم غير متوقع."
+    }
+  },
+  {
+    "id": "nafs-year-118",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Терпение — это не обязанность молча терпеть всё. Можно искать помощь и менять условия.",
+      "en": "Patience does not mean silently enduring everything. Seek help and change conditions.",
+      "tr": "Sabır her şeye sessiz katlanmak değildir. Yardım ara, koşulları değiştir.",
+      "ar": "الصبر ليس تحمل كل شيء بصمت. اطلب المساعدة وغيّر الظروف."
+    }
+  },
+  {
+    "id": "nafs-year-119",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не принимай окончательные решения о себе в самый тяжёлый час.",
+      "en": "Do not make final judgments about yourself in your hardest hour.",
+      "tr": "En zor saatinde kendin hakkında kesin hüküm verme.",
+      "ar": "لا تصدر أحكامًا نهائية على نفسك في أصعب ساعاتك."
+    }
+  },
+  {
+    "id": "nafs-year-120",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Восстановление тоже занимает время в расписании. Его не нужно заслуживать истощением.",
+      "en": "Recovery also needs scheduled time. Exhaustion need not earn it.",
+      "tr": "Toparlanma da programda zaman ister. Onu tükenerek hak etmek gerekmez.",
+      "ar": "يحتاج التعافي أيضًا إلى وقت في الجدول. لا يلزم أن تستحقه بالإنهاك."
+    }
+  },
+  {
+    "id": "nafs-year-121",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть сегодняшний план учитывает то, что ты уже несёшь на плечах.",
+      "en": "Let today's plan consider what you already carry.",
+      "tr": "Bugünkü planın zaten taşıdığın yükü hesaba katsın.",
+      "ar": "دع خطة اليوم تراعي ما تحمله أصلًا."
+    }
+  },
+  {
+    "id": "nafs-year-122",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Называй трудности точно. Конкретное препятствие меньше похоже на безвыходность.",
+      "en": "Name difficulties precisely. A specific obstacle feels less like hopelessness.",
+      "tr": "Zorlukları net adlandır. Somut engel çaresizlik gibi daha az görünür.",
+      "ar": "سمِّ الصعوبات بدقة. العائق المحدد أقل شبهًا بانسداد كل الطرق."
+    }
+  },
+  {
+    "id": "nafs-year-123",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если силы ограничены, расставь приоритеты бережнее, а не жёстче.",
+      "en": "When energy is limited, prioritize more gently, not more harshly.",
+      "tr": "Enerjin sınırlıysa öncelikleri daha sert değil, daha özenli belirle.",
+      "ar": "حين تقل طاقتك، رتب أولوياتك برفق أكبر، لا بقسوة أكبر."
+    }
+  },
+  {
+    "id": "nafs-year-124",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Необязательно чувствовать уверенность, чтобы задать вопрос и разобраться.",
+      "en": "Confidence is not required to ask a question and learn.",
+      "tr": "Soru sorup öğrenmek için özgüven şart değildir.",
+      "ar": "الثقة ليست شرطًا لطرح سؤال والفهم."
+    }
+  },
+  {
+    "id": "nafs-year-125",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Гибкость помогает сохранить цель, когда прежний способ перестаёт работать.",
+      "en": "Flexibility helps preserve a goal when the old method stops working.",
+      "tr": "Esneklik, eski yöntem işlemediğinde hedefi korumaya yardım eder.",
+      "ar": "تساعد المرونة على حفظ الهدف حين تتوقف الطريقة القديمة عن العمل."
+    }
+  },
+  {
+    "id": "nafs-year-126",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Уменьшить темп вовремя — иногда способ продолжить дальше.",
+      "en": "Slowing down in time can be a way to keep going.",
+      "tr": "Zamanında yavaşlamak devam etmenin yolu olabilir.",
+      "ar": "قد يكون تخفيف السرعة في الوقت المناسب سبيلًا للاستمرار."
+    }
+  },
+  {
+    "id": "nafs-year-127",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Проверь, нужна ли тебе сейчас задача или отдых. Честный ответ полезнее строгого.",
+      "en": "Ask whether you need a task or rest now. An honest answer helps more than a harsh one.",
+      "tr": "Şimdi işe mi dinlenmeye mi ihtiyacın olduğunu sor. Dürüst cevap sert olandan yararlıdır.",
+      "ar": "اسأل هل تحتاج الآن إلى عمل أم راحة. الإجابة الصادقة أنفع من القاسية."
+    }
+  },
+  {
+    "id": "nafs-year-128",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Твоё достоинство не зависит от продуктивности сегодняшнего утра.",
+      "en": "Your worth does not depend on this morning's productivity.",
+      "tr": "Değerin bu sabahki üretkenliğine bağlı değildir.",
+      "ar": "قيمتك لا تتوقف على إنتاجية هذا الصباح."
+    }
+  },
+  {
+    "id": "nafs-year-129",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Оставь себе возможность передумать после новых фактов. Это часть зрелого решения.",
+      "en": "Allow yourself to reconsider when new facts arrive. That is part of mature judgment.",
+      "tr": "Yeni bilgiyle yeniden düşünmene izin ver. Bu olgun kararın parçasıdır.",
+      "ar": "اسمح لنفسك بالمراجعة عند ظهور حقائق جديدة. هذا جزء من القرار الناضج."
+    }
+  },
+  {
+    "id": "nafs-year-130",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "В трудный день сократи требования к форме, но сохрани заботу о сути.",
+      "en": "On a hard day, relax demands on form while caring for substance.",
+      "tr": "Zor günde biçim beklentisini azalt, öze özeni koru.",
+      "ar": "في اليوم الصعب، خفف مطالب الشكل واحتفظ بالعناية بالجوهر."
+    }
+  },
+  {
+    "id": "nafs-year-131",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Молчаливое напряжение не обязано быть твоим единственным способом справляться.",
+      "en": "Silent tension need not be your only way to cope.",
+      "tr": "Sessiz gerilim baş etmenin tek yolu olmak zorunda değildir.",
+      "ar": "لا يلزم أن يكون التوتر الصامت طريقتك الوحيدة للتعامل."
+    }
+  },
+  {
+    "id": "nafs-year-132",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Заметь, что сегодня уже требует от тебя сил, даже если этого нет в списке задач.",
+      "en": "Notice what already takes energy today, even if it is not on your task list.",
+      "tr": "Görev listesinde olmasa da bugün enerjini neyin aldığını fark et.",
+      "ar": "لاحظ ما يستهلك طاقتك اليوم حتى إن لم يكن في قائمة مهامك."
+    }
+  },
+  {
+    "id": "nafs-year-133",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не строй следующий шаг на презрении к себе. Уважение даёт более честную основу.",
+      "en": "Do not build the next step on self-contempt. Respect offers a more honest foundation.",
+      "tr": "Sonraki adımı kendini küçümseyerek kurma. Saygı daha dürüst temel sunar.",
+      "ar": "لا تبن خطوتك التالية على احتقار نفسك. الاحترام أساس أصدق."
+    }
+  },
+  {
+    "id": "nafs-year-134",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Период неопределённости можно пройти с небольшими ясными действиями.",
+      "en": "Small clear actions can help you navigate uncertainty.",
+      "tr": "Küçük net eylemler belirsizlikte yol bulmana yardım edebilir.",
+      "ar": "قد تساعدك أفعال صغيرة واضحة على عبور الغموض."
+    }
+  },
+  {
+    "id": "nafs-year-135",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Когда всё кажется срочным, сначала выбери то, что действительно требует внимания сейчас.",
+      "en": "When everything feels urgent, choose what truly needs attention now.",
+      "tr": "Her şey acil görünürken gerçekten şimdi ilgilenilmesi gerekeni seç.",
+      "ar": "حين يبدو كل شيء عاجلًا، اختر ما يحتاج الانتباه الآن فعلًا."
+    }
+  },
+  {
+    "id": "nafs-year-136",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не делай из одного тяжёлого разговора вывод обо всех будущих разговорах.",
+      "en": "Do not let one hard conversation define every future conversation.",
+      "tr": "Bir zor konuşmanın tüm gelecek konuşmaları tanımlamasına izin verme.",
+      "ar": "لا تجعل حديثًا صعبًا واحدًا يحدد كل أحاديث المستقبل."
+    }
+  },
+  {
+    "id": "nafs-year-137",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть отдых будет отдыхом, а не временем скрытого самоупрёка.",
+      "en": "Let rest be rest, not a period of hidden self-reproach.",
+      "tr": "Dinlenme, gizli öz eleştiri zamanı değil gerçekten dinlenme olsun.",
+      "ar": "لتكن الراحة راحة، لا فترة لوم خفي للنفس."
+    }
+  },
+  {
+    "id": "nafs-year-138",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Устойчивость включает умение замечать предел и искать новый ресурс.",
+      "en": "Resilience includes noticing limits and finding new support.",
+      "tr": "Dayanıklılık, sınırları fark etmeyi ve yeni destek bulmayı içerir.",
+      "ar": "تشمل المرونة ملاحظة الحدود والبحث عن سند جديد."
+    }
+  },
+  {
+    "id": "nafs-year-139",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не сравнивай свой внутренний труд с чужой внешней лёгкостью.",
+      "en": "Do not compare your inner struggle with someone else's outward ease.",
+      "tr": "İç çabanı başkasının dışarıdan görünen kolaylığıyla kıyaslama.",
+      "ar": "لا تقارن جهدك الداخلي بسهولة تبدو على شخص آخر."
+    }
+  },
+  {
+    "id": "nafs-year-140",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сделай сегодняшний выбор достаточно добрым, чтобы завтра не пришлось от него восстанавливаться.",
+      "en": "Choose kindly enough today that tomorrow need not recover from it.",
+      "tr": "Bugünkü seçimin yeterince nazik olsun ki yarın ondan toparlanman gerekmesin.",
+      "ar": "اجعل اختيار اليوم رحيمًا بما يكفي كي لا تحتاج غدًا للتعافي منه."
+    }
+  },
+  {
+    "id": "nafs-year-141",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ответственность — не контроль над всем, а честное участие там, где оно возможно.",
+      "en": "Responsibility is not control over everything, but honest participation where possible.",
+      "tr": "Sorumluluk her şeyi kontrol değil, mümkün yerde dürüstçe katılmaktır.",
+      "ar": "المسؤولية ليست التحكم في كل شيء، بل المشاركة الصادقة حيث تستطيع."
+    }
+  },
+  {
+    "id": "nafs-year-142",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Проверь цену своего «да»: остаётся ли время на уже принятые обязательства?",
+      "en": "Check the cost of your yes: is there time for existing commitments?",
+      "tr": "Evetinin bedeline bak: mevcut sorumluluklara zaman kalıyor mu?",
+      "ar": "تحقق من ثمن موافقتك: هل يبقى وقت لالتزاماتك القائمة؟"
+    }
+  },
+  {
+    "id": "nafs-year-143",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбирать приоритет — значит признать, что часть дел сегодня подождёт.",
+      "en": "Choosing a priority means accepting that some tasks will wait today.",
+      "tr": "Öncelik seçmek, bazı işlerin bugün bekleyeceğini kabul etmektir.",
+      "ar": "اختيار أولوية يعني قبول أن بعض الأعمال ستنتظر اليوم."
+    }
+  },
+  {
+    "id": "nafs-year-144",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не отдавай календарь всем, кроме себя. Твои намерения тоже заслуживают места.",
+      "en": "Do not give your calendar to everyone but yourself. Your intentions deserve space too.",
+      "tr": "Takvimini kendin dışında herkese verme. Niyetlerin de yer hak eder.",
+      "ar": "لا تمنح جدولك للجميع إلا نفسك. نواياك تستحق مكانًا أيضًا."
+    }
+  },
+  {
+    "id": "nafs-year-145",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Честное «не успею» помогает плану больше, чем молчаливое невыполнимое обещание.",
+      "en": "An honest “I cannot finish in time” helps more than an impossible silent promise.",
+      "tr": "Dürüst bir yetiştiremem, sessiz imkânsız vaatten yararlıdır.",
+      "ar": "قول صادق «لن أنتهي في الوقت» أنفع من وعد صامت مستحيل."
+    }
+  },
+  {
+    "id": "nafs-year-146",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Начинай исправление ошибки с того, на что действительно можешь повлиять.",
+      "en": "Begin correcting a mistake with what you can actually influence.",
+      "tr": "Hatayı düzeltmeye gerçekten etkileyebildiğin yerden başla.",
+      "ar": "ابدأ إصلاح الخطأ بما تستطيع التأثير فيه فعلًا."
+    }
+  },
+  {
+    "id": "nafs-year-147",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Защищать своё внимание — значит выбирать, чему достанется твой день.",
+      "en": "Protecting attention means choosing what receives your day.",
+      "tr": "Dikkatini korumak, gününü neye vereceğini seçmektir.",
+      "ar": "حماية انتباهك تعني اختيار ما سيأخذ يومك."
+    }
+  },
+  {
+    "id": "nafs-year-148",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть твой план отражает ценности, а не только входящие сообщения.",
+      "en": "Let your plan reflect values, not only incoming messages.",
+      "tr": "Planın yalnız gelen mesajları değil, değerlerini yansıtsın.",
+      "ar": "دع خطتك تعكس قيمك، لا الرسائل الواردة فقط."
+    }
+  },
+  {
+    "id": "nafs-year-149",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Решение становится яснее, когда ты называешь и его пользу, и его цену.",
+      "en": "A decision becomes clearer when you name its benefit and its cost.",
+      "tr": "Yararını ve bedelini adlandırdığında karar netleşir.",
+      "ar": "يتضح القرار حين تسمي فائدته وثمنه."
+    }
+  },
+  {
+    "id": "nafs-year-150",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Необязательно оправдывать каждую границу длинным объяснением. Достаточно уважительной ясности.",
+      "en": "Not every boundary needs a long defense. Respectful clarity can be enough.",
+      "tr": "Her sınır uzun savunma istemez. Saygılı netlik yetebilir.",
+      "ar": "ليس كل حد بحاجة إلى دفاع طويل. قد يكفي الوضوح المحترم."
+    }
+  },
+  {
+    "id": "nafs-year-151",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Скажи себе правду о доступном времени, прежде чем обещать новый результат.",
+      "en": "Be honest about available time before promising a new result.",
+      "tr": "Yeni sonuç vaat etmeden önce zamanın konusunda dürüst ol.",
+      "ar": "كن صادقًا بشأن وقتك المتاح قبل الوعد بنتيجة جديدة."
+    }
+  },
+  {
+    "id": "nafs-year-152",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Собственная цель не обязана нравиться окружающим, чтобы быть осмысленной для тебя.",
+      "en": "Your goal need not please everyone to be meaningful to you.",
+      "tr": "Hedefinin sana anlamlı gelmesi için herkesi memnun etmesi gerekmez.",
+      "ar": "لا يحتاج هدفك لإرضاء الجميع كي يكون ذا معنى لك."
+    }
+  },
+  {
+    "id": "nafs-year-153",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбирай обязательства по силам, а не по страху разочаровать кого-то.",
+      "en": "Choose commitments by capacity, not fear of disappointing someone.",
+      "tr": "Sorumluluklarını birini üzme korkusuyla değil, kapasitenle seç.",
+      "ar": "اختر التزاماتك حسب استطاعتك، لا خوفًا من خذلان أحد."
+    }
+  },
+  {
+    "id": "nafs-year-154",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Отказ от ненужного дела освобождает время для настоящего согласия.",
+      "en": "Declining unnecessary work makes room for a genuine yes.",
+      "tr": "Gereksiz işi reddetmek gerçek bir evete alan açar.",
+      "ar": "رفض العمل غير الضروري يفسح مجالًا لموافقة حقيقية."
+    }
+  },
+  {
+    "id": "nafs-year-155",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Проверь, кому принадлежит цель, за которой ты бежишь. Можно выбрать свою.",
+      "en": "Ask whose goal you are chasing. You can choose your own.",
+      "tr": "Peşinden koştuğun hedefin kime ait olduğunu sor. Kendininkini seçebilirsin.",
+      "ar": "اسأل لمن ينتمي الهدف الذي تلاحقه. يمكنك اختيار هدفك."
+    }
+  },
+  {
+    "id": "nafs-year-156",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не требуй от других читать твой план. Скажи прямо, какая поддержка нужна.",
+      "en": "Do not expect others to read your plan. State the support you need.",
+      "tr": "Başkalarının planını okumasını bekleme. Gereken desteği açıkça söyle.",
+      "ar": "لا تنتظر من الآخرين قراءة خطتك. قل بوضوح أي دعم تحتاجه."
+    }
+  },
+  {
+    "id": "nafs-year-157",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Разреши себе закрыть задачу, которая перестала служить разумной цели.",
+      "en": "Allow yourself to close a task that no longer serves a sensible goal.",
+      "tr": "Artık anlamlı hedefe hizmet etmeyen işi kapatmana izin ver.",
+      "ar": "اسمح لنفسك بإغلاق مهمة لم تعد تخدم هدفًا معقولًا."
+    }
+  },
+  {
+    "id": "nafs-year-158",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Важное решение редко улучшается от бесконечного сравнения себя с другими.",
+      "en": "Endless comparison with others rarely improves an important decision.",
+      "tr": "Kendini başkalarıyla bitmeyen kıyas önemli kararı nadiren iyileştirir.",
+      "ar": "نادرًا ما يحسن القرار المهمَ انشغالٌ لا ينتهي بمقارنة نفسك بالآخرين."
+    }
+  },
+  {
+    "id": "nafs-year-159",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ответственный план включает запас времени на то, чего ты не предвидел.",
+      "en": "A responsible plan includes time for what you did not foresee.",
+      "tr": "Sorumlu plan öngörmediğin şeylere zaman payı bırakır.",
+      "ar": "تتضمن الخطة المسؤولة وقتًا لما لم تتوقعه."
+    }
+  },
+  {
+    "id": "nafs-year-160",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не путай занятость с верностью выбранному направлению. Иногда нужно остановиться и свериться.",
+      "en": "Busyness is not the same as staying on course. Sometimes pause and check.",
+      "tr": "Meşguliyet rotada kalmakla aynı değildir. Bazen durup kontrol et.",
+      "ar": "الانشغال ليس هو البقاء في الاتجاه المختار. توقف أحيانًا وراجع."
+    }
+  },
+  {
+    "id": "nafs-year-161",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Твоё следующее решение не обязано повторять привычное только потому, что оно знакомо.",
+      "en": "Your next choice need not repeat the familiar merely because it is familiar.",
+      "tr": "Sonraki seçimin sırf tanıdık diye alışılmışı tekrarlamak zorunda değil.",
+      "ar": "لا يلزم أن يكرر اختيارك التالي المعتاد لمجرد أنه مألوف."
+    }
+  },
+  {
+    "id": "nafs-year-162",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сохраняй право сказать: «Этот способ мне не подходит, попробую другой».",
+      "en": "Keep the right to say: this approach does not fit; I will try another.",
+      "tr": "Bu yöntem bana uymuyor, başkasını deneyeceğim deme hakkını koru.",
+      "ar": "احتفظ بحق قول: هذه الطريقة لا تناسبني، سأجرب غيرها."
+    }
+  },
+  {
+    "id": "nafs-year-163",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не бери новое обязательство, пока не понял, чему оно уступит место.",
+      "en": "Do not take a new commitment before knowing what will make room for it.",
+      "tr": "Neyin yer açacağını anlamadan yeni sorumluluk alma.",
+      "ar": "لا تأخذ التزامًا جديدًا قبل معرفة ما سيفسح له المجال."
+    }
+  },
+  {
+    "id": "nafs-year-164",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Умение пересмотреть ошибочное решение важнее необходимости всегда выглядеть правым.",
+      "en": "Revising a mistaken decision matters more than always appearing right.",
+      "tr": "Yanlış kararı gözden geçirmek, hep haklı görünmekten önemlidir.",
+      "ar": "مراجعة قرار خاطئ أهم من الظهور بمظهر المصيب دائمًا."
+    }
+  },
+  {
+    "id": "nafs-year-165",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть сегодняшняя честность сделает завтрашний план проще.",
+      "en": "Let today's honesty make tomorrow's plan simpler.",
+      "tr": "Bugünkü dürüstlük yarının planını kolaylaştırsın.",
+      "ar": "دع صدق اليوم يجعل خطة الغد أبسط."
+    }
+  },
+  {
+    "id": "nafs-year-166",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Своё время можно защищать спокойно, без нападения и без длинного оправдания.",
+      "en": "You can protect your time calmly, without attack or lengthy excuses.",
+      "tr": "Zamanını saldırmadan ve uzun mazeretsiz sakince koruyabilirsin.",
+      "ar": "يمكنك حماية وقتك بهدوء، بلا هجوم ولا تبرير طويل."
+    }
+  },
+  {
+    "id": "nafs-year-167",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Признай то, что зависит от тебя, и отдели от того, за что ты не отвечаешь.",
+      "en": "Name what depends on you and separate it from what is not yours to carry.",
+      "tr": "Sana bağlı olanı adlandır, sorumluluğun olmayan yükten ayır.",
+      "ar": "حدد ما يعتمد عليك وافصله عما لا يقع على عاتقك."
+    }
+  },
+  {
+    "id": "nafs-year-168",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не жди чужого разрешения заботиться о своём расписании.",
+      "en": "Do not wait for someone else's permission to care for your schedule.",
+      "tr": "Programına özen göstermek için başkasının iznini bekleme.",
+      "ar": "لا تنتظر إذنًا من غيرك للاعتناء بجدولك."
+    }
+  },
+  {
+    "id": "nafs-year-169",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Мужество бывает негромким: задать вопрос, признать незнание, попросить время разобраться.",
+      "en": "Courage can be quiet: ask a question, admit not knowing, request time to understand.",
+      "tr": "Cesaret sessiz olabilir: soru sor, bilmediğini kabul et, anlamak için zaman iste.",
+      "ar": "قد تكون الشجاعة هادئة: اسأل، واعترف بأنك لا تعرف، واطلب وقتًا للفهم."
+    }
+  },
+  {
+    "id": "nafs-year-170",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не делай из сомнения запрет. Используй его, чтобы точнее подготовить первый опыт.",
+      "en": "Do not turn doubt into a ban. Use it to prepare your first attempt more carefully.",
+      "tr": "Şüpheyi yasağa dönüştürme. İlk denemeni daha dikkatli hazırlamak için kullan.",
+      "ar": "لا تحول الشك إلى منع. استخدمه لتحضير محاولتك الأولى بدقة أكبر."
+    }
+  },
+  {
+    "id": "nafs-year-171",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Новое дело может сначала выглядеть неловко. Навыку нужно место, где можно учиться без спектакля.",
+      "en": "New work may look awkward at first. A skill needs space to learn without performing.",
+      "tr": "Yeni iş önce acemice görünebilir. Becerinin gösteri yapmadan öğrenilecek alana ihtiyacı vardır.",
+      "ar": "قد يبدو العمل الجديد مرتبكًا أولًا. تحتاج المهارة إلى مساحة للتعلم دون استعراض."
+    }
+  },
+  {
+    "id": "nafs-year-172",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Смелость не обязывает выбирать самый тяжёлый путь. Можно выбрать разумный.",
+      "en": "Courage does not require the hardest route. You can choose a sensible one.",
+      "tr": "Cesaret en zor yolu seçmeyi gerektirmez. Akla uygun olanı seçebilirsin.",
+      "ar": "لا تلزمك الشجاعة بأصعب طريق. يمكنك اختيار طريق معقول."
+    }
+  },
+  {
+    "id": "nafs-year-173",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Попробуй сделать важное без предварительного обещания идеального результата.",
+      "en": "Try doing something important without first promising a perfect result.",
+      "tr": "Önce kusursuz sonuç vaat etmeden önemli bir şeyi yapmayı dene.",
+      "ar": "جرب فعل أمر مهم دون أن تعد أولًا بنتيجة مثالية."
+    }
+  },
+  {
+    "id": "nafs-year-174",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Небольшой опыт способен уточнить то, что долгие размышления оставляют неясным.",
+      "en": "A small experiment can clarify what long deliberation leaves uncertain.",
+      "tr": "Küçük bir deney, uzun düşüncenin belirsiz bıraktığını netleştirebilir.",
+      "ar": "قد توضح تجربة صغيرة ما تتركه التأملات الطويلة غامضًا."
+    }
+  },
+  {
+    "id": "nafs-year-175",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выдержать чужое несогласие иногда необходимо, чтобы сохранить собственный осмысленный выбор.",
+      "en": "Tolerating disagreement is sometimes necessary to keep a considered choice.",
+      "tr": "Düşünülmüş seçimini korumak bazen başkasının itirazına dayanmayı gerektirir.",
+      "ar": "يكون تحمل الاختلاف ضروريًا أحيانًا للحفاظ على اختيار مدروس."
+    }
+  },
+  {
+    "id": "nafs-year-176",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Входить в новое можно осторожно. Осторожность и движение не исключают друг друга.",
+      "en": "You can enter something new carefully. Caution and movement can coexist.",
+      "tr": "Yeni bir şeye dikkatle girebilirsin. Dikkat ve hareket bir arada olabilir.",
+      "ar": "يمكنك دخول الجديد بحذر. الحذر والحركة لا يتعارضان."
+    }
+  },
+  {
+    "id": "nafs-year-177",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Называй трудность точно: конкретная проблема оставляет больше возможностей, чем общий страх.",
+      "en": "Name a difficulty precisely: a specific problem leaves more options than a vague fear.",
+      "tr": "Zorluğu net adlandır: somut sorun, belirsiz korkudan daha çok seçenek bırakır.",
+      "ar": "سمِّ الصعوبة بدقة: تترك المشكلة المحددة خيارات أكثر من خوف مبهم."
+    }
+  },
+  {
+    "id": "nafs-year-178",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Уверенность можно собирать из фактов: чему научился, что попробовал, за чем вернулся.",
+      "en": "Build confidence from facts: what you learned, tried, and returned to.",
+      "tr": "Güveni gerçeklerden kur: öğrendiklerin, denediklerin ve geri döndüklerin.",
+      "ar": "ابن الثقة من الوقائع: ما تعلمته وجربته وعدت إليه."
+    }
+  },
+  {
+    "id": "nafs-year-179",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не требуй от себя уверенности до знакомства с задачей. Сначала познакомься с ней.",
+      "en": "Do not demand confidence before meeting the task. Get acquainted with it first.",
+      "tr": "İşi tanımadan kendinden güven bekleme. Önce onunla tanış.",
+      "ar": "لا تطلب الثقة من نفسك قبل التعرف إلى المهمة. تعرف إليها أولًا."
+    }
+  },
+  {
+    "id": "nafs-year-180",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ты можешь быть начинающим и относиться к себе серьёзно одновременно.",
+      "en": "You can be a beginner and take yourself seriously at the same time.",
+      "tr": "Hem yeni başlayan olabilir hem de kendini ciddiye alabilirsin.",
+      "ar": "يمكنك أن تكون مبتدئًا وأن تأخذ نفسك بجدية في الوقت نفسه."
+    }
+  },
+  {
+    "id": "nafs-year-181",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сильная сторона становится опорой, когда ты находишь ей конкретное применение.",
+      "en": "A strength becomes support when you find a concrete use for it.",
+      "tr": "Güçlü yön, somut kullanım bulduğunda dayanağa dönüşür.",
+      "ar": "تصبح نقطة القوة سندًا حين تجد لها استخدامًا محددًا."
+    }
+  },
+  {
+    "id": "nafs-year-182",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Вместо экзамена на талант устрой себе возможность потренироваться.",
+      "en": "Give yourself a chance to practice instead of an examination of talent.",
+      "tr": "Yetenek sınavı yerine kendine çalışma fırsatı ver.",
+      "ar": "امنح نفسك فرصة للتدرب بدل امتحان للموهبة."
+    }
+  },
+  {
+    "id": "nafs-year-183",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Твоя ценность не помещается в дневной отчёт. Отчёт нужен только для настройки действий.",
+      "en": "Your worth does not fit in a daily report. The report is for adjusting actions.",
+      "tr": "Değerin günlük rapora sığmaz. Rapor yalnızca eylemleri ayarlamak içindir.",
+      "ar": "لا تختصر قيمتك في تقرير يومي. التقرير أداة لتعديل الأفعال فقط."
+    }
+  },
+  {
+    "id": "nafs-year-184",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сравни сегодняшний навык с его прежней версией, а не с чужим лучшим выступлением.",
+      "en": "Compare today's skill with its earlier version, not another person's best performance.",
+      "tr": "Bugünkü becerini başkasının en iyi gösterisiyle değil, önceki haliyle karşılaştır.",
+      "ar": "قارن مهارتك اليوم بنسختها السابقة، لا بأفضل أداء لشخص آخر."
+    }
+  },
+  {
+    "id": "nafs-year-185",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Принимай полезную обратную связь без обязанности соглашаться с каждым чужим суждением.",
+      "en": "Accept useful feedback without feeling obliged to agree with every judgment.",
+      "tr": "Her yargıya katılmak zorunda hissetmeden yararlı geri bildirimi al.",
+      "ar": "تقبل الملاحظات النافعة دون أن تلزم نفسك بالموافقة على كل حكم."
+    }
+  },
+  {
+    "id": "nafs-year-186",
+    "category": "resilience",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Доверие к себе растёт и тогда, когда ты честно признаёшь: сейчас мне нужна помощь.",
+      "en": "Self-trust can grow when you honestly admit that you need help right now.",
+      "tr": "Şu an yardıma ihtiyacın olduğunu dürüstçe kabul etmek de öz güveni büyütebilir.",
+      "ar": "قد تنمو ثقتك بنفسك حين تعترف بصدق بأنك تحتاج إلى مساعدة الآن."
+    }
+  },
+  {
+    "id": "nafs-year-187",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сосредоточенность начинается с вопроса: что именно должно измениться к концу этой сессии?",
+      "en": "Focus begins with a question: what exactly should change by the end of this session?",
+      "tr": "Odak şu soruyla başlar: bu oturum sonunda tam olarak ne değişmeli?",
+      "ar": "يبدأ التركيز بسؤال: ما الذي ينبغي أن يتغير تحديدًا بنهاية هذه الجلسة؟"
+    }
+  },
+  {
+    "id": "nafs-year-188",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Запиши отвлекающую мысль, чтобы не держать её открытой рядом с основным делом.",
+      "en": "Write down a distracting thought so it need not stay open beside your main task.",
+      "tr": "Dikkat dağıtan düşünceyi yaz; ana işin yanında açık tutman gerekmesin.",
+      "ar": "دوّن الفكرة المشتتة كي لا تبقى مفتوحة بجانب عملك الأساسي."
+    }
+  },
+  {
+    "id": "nafs-year-189",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Вернуть внимание один раз — уже практика внимания. Не жди непрерывной идеальности.",
+      "en": "Returning attention once is already attention practice. Do not expect uninterrupted perfection.",
+      "tr": "Dikkati bir kez geri getirmek de dikkat çalışmasıdır. Kesintisiz kusursuzluk bekleme.",
+      "ar": "إعادة الانتباه مرة هي بحد ذاتها تدريب عليه. لا تنتظر كمالًا بلا انقطاع."
+    }
+  },
+  {
+    "id": "nafs-year-190",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть перерыв действительно меняет нагрузку, а не только приложение на экране.",
+      "en": "Let a break change the load, not merely the application on your screen.",
+      "tr": "Mola yalnızca ekrandaki uygulamayı değil, yükü gerçekten değiştirsin.",
+      "ar": "اجعل الاستراحة تغير الحمل فعلًا، لا التطبيق الظاهر على الشاشة فقط."
+    }
+  },
+  {
+    "id": "nafs-year-191",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбирай глубину там, где она нужна. Не каждое письмо заслуживает лучшего часа дня.",
+      "en": "Choose depth where it is needed. Not every email deserves your best hour.",
+      "tr": "Derinliği gerektiği yerde seç. Her e-posta gününün en iyi saatini hak etmez.",
+      "ar": "اختر التعمق حيث يلزم. ليست كل رسالة جديرة بأفضل ساعة في يومك."
+    }
+  },
+  {
+    "id": "nafs-year-192",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сложное дело становится доступнее, когда у него есть один ближайший проверяемый результат.",
+      "en": "Difficult work becomes more approachable when it has one near, verifiable result.",
+      "tr": "Zor iş, yakın ve doğrulanabilir tek bir sonucu olduğunda daha ulaşılır olur.",
+      "ar": "يصبح العمل الصعب أقرب حين تكون له نتيجة واحدة قريبة قابلة للتحقق."
+    }
+  },
+  {
+    "id": "nafs-year-193",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Отведи мыслям о других задачах отдельное место. Текущему делу не нужен весь список рядом.",
+      "en": "Give thoughts of other tasks their own place. This task does not need the whole list beside it.",
+      "tr": "Diğer işlerle ilgili düşüncelere ayrı yer ayır. Şimdiki işin yanında tüm liste gerekmez.",
+      "ar": "خصص مكانًا لأفكار المهام الأخرى. لا تحتاج المهمة الحالية إلى القائمة كلها بجانبها."
+    }
+  },
+  {
+    "id": "nafs-year-194",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не всякое новое уведомление заслуживает нового направления твоего дня.",
+      "en": "Not every new notification deserves to redirect your day.",
+      "tr": "Her yeni bildirim gününün yönünü değiştirmeyi hak etmez.",
+      "ar": "ليس كل إشعار جديد جديرًا بتغيير اتجاه يومك."
+    }
+  },
+  {
+    "id": "nafs-year-195",
+    "category": "procrastination",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Оставь после работы короткую заметку о следующем шаге. Возвращаться будет проще.",
+      "en": "Leave a brief note about the next step when you finish. Returning can be easier.",
+      "tr": "İşi bitirince sonraki adım hakkında kısa not bırak. Dönmek kolaylaşabilir.",
+      "ar": "اترك بعد العمل ملاحظة قصيرة عن الخطوة التالية. قد تصبح العودة أسهل."
+    }
+  },
+  {
+    "id": "nafs-year-196",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Терпение — это не бездействие между результатами. Это забота о процессе, пока результат созревает.",
+      "en": "Patience is care for the process while a result develops, not idleness between results.",
+      "tr": "Sabır sonuçlar arasında boş durmak değil, sonuç gelişirken sürece özen göstermektir.",
+      "ar": "الصبر عناية بالعملية بينما تتكون النتيجة، لا خمول بين النتائج."
+    }
+  },
+  {
+    "id": "nafs-year-197",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Дай новой системе несколько честных попыток, прежде чем требовать от неё окончательного ответа.",
+      "en": "Give a new system several honest tries before demanding a final answer from it.",
+      "tr": "Yeni düzenden kesin yanıt beklemeden önce ona birkaç dürüst deneme ver.",
+      "ar": "امنح النظام الجديد عدة محاولات صادقة قبل مطالبته بإجابة نهائية."
+    }
+  },
+  {
+    "id": "nafs-year-198",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Ожидание становится полезнее, когда ты знаешь, за какой частью процесса следить.",
+      "en": "Waiting becomes more useful when you know which part of the process to observe.",
+      "tr": "Sürecin hangi kısmını izleyeceğini bildiğinde beklemek daha yararlı olur.",
+      "ar": "يصبح الانتظار أنفع حين تعرف أي جزء من العملية تراقب."
+    }
+  },
+  {
+    "id": "nafs-year-199",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не ускоряй восстановление требованиями. Подготовь условия, в которых оно возможно.",
+      "en": "Do not try to rush recovery with demands. Prepare conditions that allow it.",
+      "tr": "Toparlanmayı taleplerle hızlandırmaya çalışma. Mümkün kılan koşulları hazırla.",
+      "ar": "لا تحاول تسريع التعافي بالمطالب. هيئ ظروفًا تسمح به."
+    }
+  },
+  {
+    "id": "nafs-year-200",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Некоторые изменения сначала заметны в выборе, а уже потом — в результатах.",
+      "en": "Some changes become visible in choices before they appear in results.",
+      "tr": "Bazı değişimler sonuçlardan önce seçimlerde görünür olur.",
+      "ar": "تظهر بعض التغييرات في الخيارات قبل أن تظهر في النتائج."
+    }
+  },
+  {
+    "id": "nafs-year-201",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Если путь длиннее ожидаемого, проверь ресурсы. Длинный путь требует заботы о путнике.",
+      "en": "If the route is longer than expected, check your resources. A long route calls for care for the traveler.",
+      "tr": "Yol beklenenden uzunsa kaynaklarını kontrol et. Uzun yol yolcuya özen ister.",
+      "ar": "إن طال الطريق عما توقعت، تفقد مواردك. يحتاج الطريق الطويل إلى العناية بمن يسلكه."
+    }
+  },
+  {
+    "id": "nafs-year-202",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Умение ждать полезно вместе с умением замечать, когда пора изменить способ.",
+      "en": "Patience works well beside the ability to notice when an approach needs changing.",
+      "tr": "Sabır, yöntemin ne zaman değişmesi gerektiğini fark etmekle birlikte yararlıdır.",
+      "ar": "ينفع الصبر إلى جانب القدرة على ملاحظة وقت تغيير الطريقة."
+    }
+  },
+  {
+    "id": "nafs-year-203",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не принимай медленное начало за окончательный предел возможностей.",
+      "en": "Do not mistake a slow beginning for the final limit of your ability.",
+      "tr": "Yavaş başlangıcı kapasitenin son sınırı sanma.",
+      "ar": "لا تخلط البداية البطيئة بالحد النهائي لقدرتك."
+    }
+  },
+  {
+    "id": "nafs-year-204",
+    "category": "consistency",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Оставляй времени делать свою часть работы, а себе — делать доступную сегодня.",
+      "en": "Let time do its part, while you do the part available today.",
+      "tr": "Zaman kendi işini yapsın, sen bugün yapabileceğin kısmı yap.",
+      "ar": "دع الوقت يؤدي دوره، وأدِّ أنت الجزء المتاح اليوم."
+    }
+  },
+  {
+    "id": "nafs-year-205",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сбавить темп по собственной воле иногда труднее, чем продолжать по инерции.",
+      "en": "Choosing to slow down can be harder than continuing on momentum.",
+      "tr": "Kendi isteğinle yavaşlamak, alışkanlıkla sürdürmekten zor olabilir.",
+      "ar": "قد يكون اختيار تخفيف السرعة أصعب من الاستمرار بالاندفاع."
+    }
+  },
+  {
+    "id": "nafs-year-206",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Различай отдых и избегание по тому, что тебе нужно, а не по обвинительному тону мыслей.",
+      "en": "Distinguish rest from avoidance by what you need, not by accusing thoughts.",
+      "tr": "Dinlenmeyle kaçınmayı suçlayan düşüncelere değil, ihtiyacına göre ayır.",
+      "ar": "ميز الراحة من التجنب بحسب حاجتك، لا بحسب نبرة الأفكار اللائمة."
+    }
+  },
+  {
+    "id": "nafs-year-207",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Граница становится устойчивее, если у неё есть понятная альтернатива, а не только запрет.",
+      "en": "A boundary can become steadier with a clear alternative, not only a prohibition.",
+      "tr": "Sınır yalnızca yasakla değil, net bir alternatifle daha sağlam olabilir.",
+      "ar": "قد يصبح الحد أثبت حين يكون له بديل واضح، لا مجرد منع."
+    }
+  },
+  {
+    "id": "nafs-year-208",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Делай выбор достаточно рано: подготовленная среда помогает до появления сильного импульса.",
+      "en": "Choose early enough: a prepared environment can help before a strong impulse appears.",
+      "tr": "Yeterince erken seç: hazırlanmış ortam güçlü dürtü belirmeden yardımcı olabilir.",
+      "ar": "اختر مبكرًا بما يكفي: قد تساعد البيئة المهيأة قبل ظهور دافع قوي."
+    }
+  },
+  {
+    "id": "nafs-year-209",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Отказаться от одного импульсивного действия не значит отказаться от удовольствия вообще.",
+      "en": "Choosing against one impulsive action need not mean giving up enjoyment altogether.",
+      "tr": "Tek bir dürtüsel davranışı seçmemek, bütün keyiften vazgeçmek değildir.",
+      "ar": "ترك فعل اندفاعي واحد لا يعني التخلي عن المتعة كلها."
+    }
+  },
+  {
+    "id": "nafs-year-210",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Подготовь два варианта на трудную минуту: один для дома, другой для дороги.",
+      "en": "Prepare two options for a hard moment: one for home and another for when you are out.",
+      "tr": "Zor an için iki seçenek hazırla: evde biri, dışarıda diğeri.",
+      "ar": "جهز خيارين للحظة الصعبة: واحدًا للبيت وآخر حين تكون خارجه."
+    }
+  },
+  {
+    "id": "nafs-year-211",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Замечай момент, когда привычное действие ещё только начинается. Там может быть место для выбора.",
+      "en": "Notice when a familiar action is only beginning. There may be room to choose there.",
+      "tr": "Alışılmış davranış daha başlarken fark et. Orada seçim için alan olabilir.",
+      "ar": "لاحظ اللحظة التي يبدأ فيها الفعل المعتاد للتو. قد توجد فيها مساحة للاختيار."
+    }
+  },
+  {
+    "id": "nafs-year-212",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Краткая отсрочка — не обещание победы над чувством. Это время, возвращённое решению.",
+      "en": "A brief delay promises no victory over a feeling. It returns time to the decision.",
+      "tr": "Kısa erteleme duyguya karşı zafer vaat etmez. Karara zaman kazandırır.",
+      "ar": "التأخير القصير لا يعد بانتصار على شعور. إنه يعيد الوقت إلى القرار."
+    }
+  },
+  {
+    "id": "nafs-year-213",
+    "category": "impulses",
+    "contexts": [
+      "today",
+      "before",
+      "sos"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Проверь, не требует ли твоя стратегия больше сил, чем сейчас есть. Поддержку можно упростить.",
+      "en": "Check whether your strategy needs more energy than you have. Support can be simplified.",
+      "tr": "Stratejinin mevcut enerjinden fazlasını isteyip istemediğine bak. Desteği sadeleştirebilirsin.",
+      "ar": "تحقق هل تتطلب استراتيجيتك طاقة أكثر مما لديك. يمكن تبسيط الدعم."
+    }
+  },
+  {
+    "id": "nafs-year-214",
+    "category": "recovery",
+    "contexts": [
+      "today",
+      "before",
+      "sos",
+      "setback"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Поставь заботу о базовых потребностях рядом с заботой о границах. Они могут поддерживать друг друга.",
+      "en": "Care for basic needs alongside your boundaries. They can support each other.",
+      "tr": "Temel ihtiyaçlarına ve sınırlarına birlikte özen göster. Birbirini destekleyebilirler.",
+      "ar": "اعتنِ باحتياجاتك الأساسية إلى جانب حدودك. قد يدعم أحدهما الآخر."
+    }
+  },
+  {
+    "id": "nafs-year-215",
+    "category": "recovery",
+    "contexts": [
+      "today",
+      "before",
+      "sos",
+      "setback"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "После ошибки ищи не оправдание и не обвинение, а следующее полезное изменение.",
+      "en": "After a mistake, look for the next useful change rather than an excuse or accusation.",
+      "tr": "Hata sonrası mazeret veya suçlama değil, sonraki yararlı değişikliği ara.",
+      "ar": "بعد الخطأ، ابحث عن التغيير النافع التالي بدل عذر أو اتهام."
+    }
+  },
+  {
+    "id": "nafs-year-216",
+    "category": "recovery",
+    "contexts": [
+      "today",
+      "before",
+      "sos",
+      "setback"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не вычёркивай из памяти удачные условия только потому, что однажды они не сработали.",
+      "en": "Do not erase useful conditions from memory because they failed once.",
+      "tr": "Bir kez işe yaramadı diye yararlı koşulları hafızandan silme.",
+      "ar": "لا تمحُ الظروف المفيدة من ذاكرتك لأنها لم تنجح مرة واحدة."
+    }
+  },
+  {
+    "id": "nafs-year-217",
+    "category": "recovery",
+    "contexts": [
+      "today",
+      "before",
+      "sos",
+      "setback"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Новый этап можно начать с меньшей нагрузки и более ясной поддержки.",
+      "en": "A new chapter can start with a lighter load and clearer support.",
+      "tr": "Yeni aşama daha hafif yük ve daha net destekle başlayabilir.",
+      "ar": "يمكن أن تبدأ مرحلة جديدة بحمل أخف ودعم أوضح."
+    }
+  },
+  {
+    "id": "nafs-year-218",
+    "category": "recovery",
+    "contexts": [
+      "today",
+      "before",
+      "sos",
+      "setback"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Возвращение к практике не требует сначала исправить все последствия перерыва.",
+      "en": "Returning to practice does not require fixing every effect of the break first.",
+      "tr": "Uygulamaya dönmek için önce aranın her sonucunu düzeltmen gerekmez.",
+      "ar": "العودة إلى الممارسة لا تتطلب إصلاح كل آثار الانقطاع أولًا."
+    }
+  },
+  {
+    "id": "nafs-year-219",
+    "category": "recovery",
+    "contexts": [
+      "today",
+      "before",
+      "sos",
+      "setback"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Отметь обстоятельства трудного дня без приговора. Завтрашнему плану пригодятся факты.",
+      "en": "Note the circumstances of a hard day without a verdict. Tomorrow's plan can use facts.",
+      "tr": "Zor günün koşullarını hüküm vermeden not et. Yarının planına gerçekler yarar.",
+      "ar": "سجل ظروف اليوم الصعب دون حكم. ستفيد الوقائع خطة الغد."
+    }
+  },
+  {
+    "id": "nafs-year-220",
+    "category": "recovery",
+    "contexts": [
+      "today",
+      "before",
+      "sos",
+      "setback"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сожаление может указать на важную ценность. Затем ему нужен конкретный следующий шаг.",
+      "en": "Regret can point to an important value. Then it needs a concrete next step.",
+      "tr": "Pişmanlık önemli bir değeri gösterebilir. Sonrasında somut adım gerekir.",
+      "ar": "قد يشير الندم إلى قيمة مهمة. ثم يحتاج إلى خطوة تالية محددة."
+    }
+  },
+  {
+    "id": "nafs-year-221",
+    "category": "recovery",
+    "contexts": [
+      "today",
+      "before",
+      "sos",
+      "setback"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не начинай восстановление с нового долга перед идеалом. Начни с доступной заботы.",
+      "en": "Do not begin recovery with a new debt to an ideal. Begin with available care.",
+      "tr": "Toparlanmaya ideale yeni bir borçla başlama. Ulaşılır özenle başla.",
+      "ar": "لا تبدأ التعافي بدين جديد تجاه مثال أعلى. ابدأ بعناية متاحة."
+    }
+  },
+  {
+    "id": "nafs-year-222",
+    "category": "recovery",
+    "contexts": [
+      "today",
+      "before",
+      "sos",
+      "setback"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "В истории есть место и попыткам, и перерывам. Полезно понимать обе части.",
+      "en": "A history has room for attempts and breaks. Understanding both can help.",
+      "tr": "Geçmişte denemelere de aralara da yer var. İkisini anlamak yararlıdır.",
+      "ar": "يتسع السجل للمحاولات والانقطاعات. من المفيد فهم كليهما."
+    }
+  },
+  {
+    "id": "nafs-year-223",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сохрани любопытство к тому, что случилось. Оно помогает учиться там, где стыд требует спрятаться.",
+      "en": "Stay curious about what happened. It helps learning where shame asks you to hide.",
+      "tr": "Olana merakını koru. Utancın saklanmayı istediği yerde öğrenmeye yardım eder.",
+      "ar": "حافظ على فضولك تجاه ما حدث. يساعد التعلم حيث يدعوك الخجل إلى الاختباء."
+    }
+  },
+  {
+    "id": "nafs-year-224",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не каждую цель нужно сохранять навсегда. Проверяй, остаётся ли она твоей.",
+      "en": "Not every goal must last forever. Check whether it still belongs to you.",
+      "tr": "Her hedef sonsuza dek kalmak zorunda değil. Hâlâ senin olup olmadığını kontrol et.",
+      "ar": "ليس كل هدف مضطرًا للبقاء إلى الأبد. تحقق هل ما زال هدفك فعلًا."
+    }
+  },
+  {
+    "id": "nafs-year-225",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Прогресс бывает в том, что ты точнее понимаешь свою меру, а не только делаешь больше.",
+      "en": "Progress can mean understanding your limits more precisely, not only doing more.",
+      "tr": "İlerleme yalnızca fazlasını yapmak değil, kendi ölçünü daha net bilmektir.",
+      "ar": "قد يكون التقدم فهم حدودك بدقة أكبر، لا فعل المزيد فقط."
+    }
+  },
+  {
+    "id": "nafs-year-226",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Проверь цену выбранного ритма: хватает ли в нём места сну, отношениям и обычной жизни?",
+      "en": "Check the cost of your rhythm: does it leave room for sleep, relationships, and ordinary life?",
+      "tr": "Ritminin bedeline bak: uykuya, ilişkilere ve gündelik hayata yer var mı?",
+      "ar": "تفقد كلفة إيقاعك: هل يترك مساحة للنوم والعلاقات والحياة العادية؟"
+    }
+  },
+  {
+    "id": "nafs-year-227",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Один навык, который ты действительно применяешь, ценнее коллекции непрожитых советов.",
+      "en": "One skill you actually use is worth more than a collection of untried advice.",
+      "tr": "Gerçekten kullandığın bir beceri, denenmemiş öğüt koleksiyonundan değerlidir.",
+      "ar": "مهارة واحدة تستخدمها فعلًا أثمن من مجموعة نصائح لم تجربها."
+    }
+  },
+  {
+    "id": "nafs-year-228",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть большой замысел задаёт направление, а небольшой шаг — сегодняшнюю работу.",
+      "en": "Let a large intention set the direction and a small step define today's work.",
+      "tr": "Büyük niyet yönü, küçük adım bugünkü işi belirlesin.",
+      "ar": "دع المقصد الكبير يحدد الاتجاه والخطوة الصغيرة تحدد عمل اليوم."
+    }
+  },
+  {
+    "id": "nafs-year-229",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пересматривай способ чаще, чем собственную ценность. Способ можно улучшить.",
+      "en": "Reconsider the method more often than your worth. A method can be improved.",
+      "tr": "Kendi değerinden çok yöntemi gözden geçir. Yöntem geliştirilebilir.",
+      "ar": "راجع الطريقة أكثر مما تراجع قيمتك. فالطريقة قابلة للتحسين."
+    }
+  },
+  {
+    "id": "nafs-year-230",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Выбирай цели, в которых можешь узнать собственную жизнь, а не только чужое одобрение.",
+      "en": "Choose goals in which you recognize your life, not only other people's approval.",
+      "tr": "Yalnız başkalarının onayını değil, kendi hayatını görebildiğin hedefleri seç.",
+      "ar": "اختر أهدافًا ترى فيها حياتك، لا موافقة الآخرين وحدها."
+    }
+  },
+  {
+    "id": "nafs-year-231",
+    "category": "growth",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Долгий путь нуждается в промежуточных остановках, где можно проверить направление.",
+      "en": "A long journey needs stops where you can check the direction.",
+      "tr": "Uzun yol, yönünü kontrol edebileceğin duraklara ihtiyaç duyar.",
+      "ar": "يحتاج الطريق الطويل إلى محطات تستطيع فيها مراجعة الاتجاه."
+    }
+  },
+  {
+    "id": "nafs-year-232",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Опыт становится полезнее, когда ты превращаешь наблюдение в конкретное изменение среды.",
+      "en": "Experience becomes more useful when an observation turns into a concrete change of surroundings.",
+      "tr": "Gözlemi çevrede somut değişikliğe dönüştürünce deneyim daha yararlı olur.",
+      "ar": "تصبح التجربة أنفع حين تحول الملاحظة إلى تغيير محدد في البيئة."
+    }
+  },
+  {
+    "id": "nafs-year-233",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Оставь в конце недели один вопрос: что помогло действовать и стоит повторения?",
+      "en": "Leave one question for week's end: what helped action and deserves repeating?",
+      "tr": "Hafta sonuna bir soru bırak: harekete ne yardım etti ve tekrarlanmaya değer?",
+      "ar": "اترك لنهاية الأسبوع سؤالًا: ما الذي ساعد على الفعل ويستحق التكرار؟"
+    }
+  },
+  {
+    "id": "nafs-year-234",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не превращай удобный инструмент в обязательство перед инструментом. Он должен служить тебе.",
+      "en": "Do not turn a useful tool into an obligation to the tool. It should serve you.",
+      "tr": "Yararlı aracı, araca karşı yükümlülüğe çevirme. O sana hizmet etmeli.",
+      "ar": "لا تحول الأداة النافعة إلى التزام تجاهها. ينبغي لها أن تخدمك."
+    }
+  },
+  {
+    "id": "nafs-year-235",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Проверяй результат не только отметкой, но и тем, что стало понятнее или доступнее.",
+      "en": "Check a result by what became clearer or more available, not only by a checkmark.",
+      "tr": "Sonucu yalnız işaretle değil, neyin netleştiği veya kolaylaştığıyla değerlendir.",
+      "ar": "تحقق من النتيجة بما أصبح أوضح أو أيسر، لا بعلامة فقط."
+    }
+  },
+  {
+    "id": "nafs-year-236",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Запасной план нужен не для недоверия к себе, а для уважения к меняющейся жизни.",
+      "en": "A backup plan respects changing life; it need not express distrust of yourself.",
+      "tr": "Yedek plan değişen hayata saygıdır; kendine güvensizlik olmak zorunda değildir.",
+      "ar": "الخطة البديلة احترام للحياة المتغيرة، وليست بالضرورة شكًا في نفسك."
+    }
+  },
+  {
+    "id": "nafs-year-237",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Когда возникает выбор между двумя важными делами, назови цену каждого решения.",
+      "en": "When two important tasks compete, name the cost of each choice.",
+      "tr": "İki önemli iş yarıştığında her seçimin bedelini adlandır.",
+      "ar": "حين يتنافس أمران مهمان، سمِّ كلفة كل اختيار."
+    }
+  },
+  {
+    "id": "nafs-year-238",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Короткий разговор о границах может сберечь время, которое иначе уйдёт на раздражение.",
+      "en": "A brief conversation about boundaries can save time otherwise spent in frustration.",
+      "tr": "Sınırlar hakkında kısa konuşma, kızgınlığa gidecek zamanı koruyabilir.",
+      "ar": "قد يوفر حديث قصير عن الحدود وقتًا كان سيضيع في الانزعاج."
+    }
+  },
+  {
+    "id": "nafs-year-239",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не делай каждый вечер проверкой всей личности. Посмотри на день, настрой завтра и отпусти лишнее.",
+      "en": "Do not make every evening an audit of your whole self. Review the day, adjust tomorrow, release the rest.",
+      "tr": "Her akşamı tüm kişiliğinin denetimi yapma. Güne bak, yarını ayarla, fazlasını bırak.",
+      "ar": "لا تجعل كل مساء تدقيقًا لشخصك كله. راجع اليوم وعدل الغد واترك الزائد."
+    }
+  },
+  {
+    "id": "nafs-year-240",
+    "category": "responsibility",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Хорошее решение может выглядеть скромно: лечь вовремя, закончить разговор, убрать телефон.",
+      "en": "A good decision can look modest: go to bed on time, end a conversation, put away the phone.",
+      "tr": "İyi karar sade görünebilir: zamanında yatmak, konuşmayı bitirmek, telefonu kaldırmak.",
+      "ar": "قد يبدو القرار الجيد بسيطًا: النوم في موعده أو إنهاء حديث أو إبعاد الهاتف."
+    }
+  },
+  {
+    "id": "nafs-year-241",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Усталый день заслуживает точного плана, а не более жёсткого голоса.",
+      "en": "A tiring day deserves a precise plan, not a harsher voice.",
+      "tr": "Yorucu gün daha sert sese değil, net plana ihtiyaç duyar.",
+      "ar": "يستحق اليوم المرهق خطة دقيقة، لا صوتًا أشد قسوة."
+    }
+  },
+  {
+    "id": "nafs-year-242",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Назови одну вещь, которую сегодня не будешь усложнять. Простота тоже требует выбора.",
+      "en": "Name one thing you will not complicate today. Simplicity also takes a choice.",
+      "tr": "Bugün karmaşıklaştırmayacağın bir şeyi adlandır. Sadelik de seçim ister.",
+      "ar": "حدد أمرًا واحدًا لن تعقده اليوم. البساطة أيضًا تحتاج إلى اختيار."
+    }
+  },
+  {
+    "id": "nafs-year-243",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Пусть полезный ритуал начинается с понятного сигнала, а заканчивается чувством завершённости.",
+      "en": "Let a useful ritual start with a clear cue and end with a sense of completion.",
+      "tr": "Yararlı ritüel net işaretle başlasın, tamamlanma hissiyle bitsin.",
+      "ar": "دع الطقس النافع يبدأ بإشارة واضحة وينتهي بشعور الاكتمال."
+    }
+  },
+  {
+    "id": "nafs-year-244",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Сделай своему будущему вниманию подарок: убери одну незавершённую мелочь из поля зрения.",
+      "en": "Give your future attention a gift: clear one unfinished distraction from view.",
+      "tr": "Gelecekteki dikkatine hediye ver: yarım kalmış bir dikkat dağıtıcıyı göz önünden kaldır.",
+      "ar": "قدم لانتباهك المقبل هدية: أبعد عن النظر مشتتًا صغيرًا غير مكتمل."
+    }
+  },
+  {
+    "id": "nafs-year-245",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Важное не всегда громко напоминает о себе. Иногда ему нужно тихое место в календаре.",
+      "en": "What matters does not always announce itself loudly. Sometimes it needs a quiet place in the calendar.",
+      "tr": "Önemli olan hep yüksek sesle hatırlatmaz. Bazen takvimde sessiz bir yer ister.",
+      "ar": "لا يعلن المهم عن نفسه بصوت عال دائمًا. أحيانًا يحتاج مكانًا هادئًا في التقويم."
+    }
+  },
+  {
+    "id": "nafs-year-246",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Заканчивай день не обещанием переделать себя, а одним выполнимым намерением на утро.",
+      "en": "End the day with one workable intention for morning, not a promise to remake yourself.",
+      "tr": "Günü kendini yeniden yaratma sözüyle değil, sabaha yapılabilir bir niyetle bitir.",
+      "ar": "اختم يومك بنية واحدة ممكنة للصباح، لا بوعد بإعادة صنع نفسك."
+    }
+  },
+  {
+    "id": "nafs-year-247",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Вместо гонки с чужим расписанием выбери встречу со своим главным делом.",
+      "en": "Choose an appointment with your important work instead of racing someone else's schedule.",
+      "tr": "Başkasının programıyla yarışmak yerine kendi önemli işinle buluşmayı seç.",
+      "ar": "اختر موعدًا مع عملك المهم بدل السباق مع جدول شخص آخر."
+    }
+  },
+  {
+    "id": "nafs-year-248",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Не прячь полезный опыт за фразой «ничего особенного». Назови, что именно сработало.",
+      "en": "Do not hide useful experience behind “nothing special.” Name exactly what worked.",
+      "tr": "Yararlı deneyimi “özel bir şey değil” arkasına saklama. Neyin işe yaradığını açıkça söyle.",
+      "ar": "لا تخفِ التجربة المفيدة خلف عبارة «لا شيء مميز». حدد ما نجح فعلًا."
+    }
+  },
+  {
+    "id": "nafs-year-249",
+    "category": "habits",
+    "contexts": [
+      "today",
+      "before"
+    ],
+    "faith": false,
+    "text": {
+      "ru": "Разреши себе расти без зрителей. Тихое изменение всё равно меняет твою жизнь.",
+      "en": "Allow yourself to grow without an audience. A quiet change still changes your life.",
+      "tr": "İzleyici olmadan gelişmene izin ver. Sessiz değişim de hayatını değiştirir.",
+      "ar": "اسمح لنفسك بالنمو دون جمهور. التغيير الهادئ يغير حياتك أيضًا."
+    }
+  }
+]
