@@ -19,7 +19,7 @@ export function initializeTelegram():Promise<TelegramWebApp|null>{
  if(!/(?:^|[&#?])tgWebAppData=/.test(window.location.hash))return Promise.resolve(null);
  if(loading)return loading;
  loading=new Promise(resolve=>{const script=document.createElement('script');script.src='https://telegram.org/js/telegram-web-app.js';script.async=true;
- const timer=setTimeout(()=>resolve(null),8000);script.onload=()=>{clearTimeout(timer);const app=telegramApp();if(app){app.ready();app.expand()}resolve(app)};script.onerror=()=>{clearTimeout(timer);resolve(null)};document.head.appendChild(script)});return loading;
+ const timer=setTimeout(()=>{loading=undefined;script.remove();resolve(null)},8000);script.onload=()=>{clearTimeout(timer);const app=telegramApp();if(app){app.ready();app.expand()}else{loading=undefined;script.remove()}resolve(app)};script.onerror=()=>{clearTimeout(timer);loading=undefined;script.remove();resolve(null)};document.head.appendChild(script)});return loading;
 }
 export function canInstall(app:TelegramWebApp|null){return !!app&&app.isVersionAtLeast('8.0')&&typeof app.addToHomeScreen==='function'&&typeof app.checkHomeScreenStatus==='function'}
 export function openDeveloper(){const url='https://t.me/werllap',app=telegramApp();if(app)app.openTelegramLink(url);else window.open(url,'_blank','noopener,noreferrer')}

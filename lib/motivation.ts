@@ -37,7 +37,7 @@ function hash(value: string) {
 export function chooseMotivation(context: MotivationContext, seed: string, recent: string[], faith = false, topic?: MotivationTopic): MotivationMessage {
   const categories = faith
     ? topic === 'stress' ? ['patience','remembrance'] : topic === 'impulse' ? ['patience','character'] : topic === 'procrastination' ? ['time','prayer'] : topic ? ['sincerity','gratitude'] : null
-    : topic === 'stress' ? ['resilience','recovery'] : topic === 'impulse' ? ['impulses','resilience'] : topic ? ['procrastination','resilience'] : null;
+    : topic === 'stress' ? ['resilience','recovery'] : topic === 'impulse' ? ['impulses','resilience'] : topic === 'motivation' ? ['resilience','recovery','impulses'] : topic ? ['procrastination','resilience'] : null;
   const eligible = motivationMessages.filter(message => message.faith === faith && message.contexts.includes(context));
   const narrowed = eligible.filter(message => !categories || categories.includes(message.category));
   const pool = narrowed.length ? narrowed : eligible;
@@ -53,7 +53,7 @@ export function calendarMotivation(day: string, faith = false): MotivationMessag
   const ordinal = Math.floor(Date.parse(day + 'T00:00:00Z') / 86400000);
   if (!Number.isFinite(ordinal)) throw new Error('Invalid local date');
   const index = ((ordinal * 137) % 400 + 400) % 400;
-  return motivationMessages[faith ? 400 + index : index];
+  return motivationMessages.filter(message => message.faith === faith)[index];
 }
 
 export function dailyMotivation(previous: MotivationState, day: string, faith: boolean, refresh = false): MotivationState {
@@ -61,7 +61,7 @@ export function dailyMotivation(previous: MotivationState, day: string, faith: b
   const sameDay = current?.day === day;
   const base = calendarMotivation(day,faith);
   const currentMessage = current ? motivationById(current.id) : undefined;
-  if (!refresh && sameDay && current?.faith === faith && currentMessage?.contexts.includes('today') &&
+  if (!refresh && sameDay && current?.faith === faith && currentMessage?.faith === faith && currentMessage.contexts.includes('today') &&
       (current.sequence > 0 || current.id === base.id)) return previous;
   const sequence = sameDay && refresh ? (current.sequence + 1) % 1000000 : 0;
   // Manual browsing cannot move the calendar. Reserve the upcoming 24 daily choices

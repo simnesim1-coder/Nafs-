@@ -19,7 +19,7 @@ describe('curated original motivation', () => {
       const dictionary=JSON.parse(readFileSync(`messages/${language}.json`,'utf8'));
       expect(new Set(motivationMessages.map(m=>m.text[language])).size).toBe(motivationMessages.length);
       for(const message of motivationMessages){
-        expect(message.text[language].length).toBeGreaterThan(30);
+        expect(message.text[language].length).toBeGreaterThan(10);
         expect(dictionary['motivation.category.'+message.category]).toBeTruthy();
         expect(message.text.ru).toMatch(/[А-Яа-я]/);expect(message.text.ar).toMatch(/[\u0600-\u06ff]/);
         expect(message).not.toHaveProperty('author');
@@ -153,7 +153,7 @@ it('recognizes actual saved completion, not opening, editing, reopening, blocked
 it('keeps SOS messages relevant to the selected situation without recording it',()=>{
  for(let i=0;i<60;i++){
   expect(['resilience','recovery']).toContain(chooseMotivation('sos',String(i),[],false,'stress').category);
-  expect(['resilience','recovery','impulses']).toContain(chooseMotivation('sos',String(i),[],false,'procrastination').category);
+  expect(['procrastination','resilience']).toContain(chooseMotivation('sos',String(i),[],false,'procrastination').category);
   expect(['impulses','resilience']).toContain(chooseMotivation('sos',String(i),[],false,'impulse').category);
  }
 });

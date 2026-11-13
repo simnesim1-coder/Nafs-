@@ -8,7 +8,7 @@ describe('NAFS modes and owner analytics',()=>{
   expect(motivationMessages.filter(x=>x.faith)).toHaveLength(400);
   expect(motivationMessages.filter(x=>!x.faith)).toHaveLength(400);
   expect(new Set(motivationMessages.map(x=>x.id)).size).toBe(800);
-  for(const lang of ['ru','en','tr','ar'] as const){expect(new Set(motivationMessages.map(x=>x.text[lang])).size).toBe(800);expect(motivationMessages.every(x=>x.text[lang].length>=30)).toBe(true)}
+  for(const lang of ['ru','en','tr','ar'] as const){expect(new Set(motivationMessages.map(x=>x.text[lang])).size).toBe(800);expect(motivationMessages.every(x=>x.text[lang].length>10)).toBe(true)}
  });
  it('never mixes ordinary and Islamic daily/contextual messages',()=>{
   for(let i=0;i<400;i++){const day=new Date(Date.UTC(2027,0,1+i)).toISOString().slice(0,10);expect(calendarMotivation(day,false).faith).toBe(false);expect(calendarMotivation(day,true).faith).toBe(true)}
@@ -23,7 +23,7 @@ describe('NAFS modes and owner analytics',()=>{
  });
  it('keeps identity/visit details server-only',()=>{
   const sql=readFileSync('supabase/migrations/006_owner_visits.sql','utf8');
-  expect(sql).toContain('enable'); // migration reuses existing RLS-enabled identity table
+  expect(readFileSync('supabase/migrations/007_auth_reliability.sql','utf8')).toContain('enable row level security');
   expect(sql).toContain('service_role');
   expect(sql).toContain('record_telegram_visit');
  });

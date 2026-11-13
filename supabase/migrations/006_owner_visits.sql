@@ -6,9 +6,14 @@ alter table public.telegram_identities
  add column if not exists language_code text,
  add column if not exists last_seen_at timestamptz,
  add column if not exists login_count bigint not null default 0;
-alter table public.telegram_identities
- add constraint telegram_identities_username_length check(username is null or length(username)<=64),
- add constraint telegram_identities_language_length check(language_code is null or length(language_code)<=16);
+do $$ begin
+ if not exists(select 1 from pg_constraint where conrelid='public.telegram_identities'::regclass and conname='telegram_identities_username_length') then
+  alter table public.telegram_identities add constraint telegram_identities_username_length check(username is null or length(username)<=64);
+ end if;
+ if not exists(select 1 from pg_constraint where conrelid='public.telegram_identities'::regclass and conname='telegram_identities_language_length') then
+  alter table public.telegram_identities add constraint telegram_identities_language_length check(language_code is null or length(language_code)<=16);
+ end if;
+end $$;
 create index if not exists telegram_identities_last_seen_idx on public.telegram_identities(last_seen_at desc);
 -- Only the service role may use analytics (existing RLS + revoked privileges remain).
 create or replace function public.record_telegram_visit(

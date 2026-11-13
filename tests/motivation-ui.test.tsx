@@ -1,3 +1,4 @@
+import {motivationMessages} from '../lib/motivation';
 // @vitest-environment happy-dom
 import React,{act} from 'react';
 import {createRoot,type Root} from 'react-dom/client';
@@ -64,7 +65,7 @@ it('switches to Islamic reminders while preserving bookmarks',async()=>{
  const first=current();await click(container.querySelector('.today-hub [aria-label="Save message"]'));
  await click(container.querySelector('[aria-label="Profile and settings"]'));
  await click(container.querySelector('[role=switch][aria-label="Islamic mode"]'));
- expect(current()).toMatch(/^nafs-nasihah-/);
+ expect(motivationMessages.find(message=>message.id===current())?.faith).toBe(true);
  expect(data().motivation.favorites).toEqual([first]);
  expect(data().preferences.sensitiveContent).toBe(false);
 });
